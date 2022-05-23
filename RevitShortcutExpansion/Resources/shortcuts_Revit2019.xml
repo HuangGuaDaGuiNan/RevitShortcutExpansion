@@ -1,0 +1,1618 @@
+<Shortcuts>
+  <ShortcutItem CommandName="修改" CommandId="ID_BUTTON_SELECT" Shortcuts="MD" Paths="创建&gt;选择; 插入&gt;选择; 注释&gt;选择; 视图&gt;选择; 管理&gt;选择; 附加模块&gt;选择; 修改&gt;选择; 建筑&gt;选择; 结构&gt;选择; 钢&gt;选择; 系统&gt;选择; 分析&gt;选择; 体量和场地&gt;选择; 协作&gt;选择; 上下文选项卡&gt;选择" />
+  <ShortcutItem CommandName="选择链接" CommandId="ID_TOGGLE_ALLOW_LINK_SELECTION" Paths="创建&gt;选择; 插入&gt;选择; 注释&gt;选择; 视图&gt;选择; 管理&gt;选择; 附加模块&gt;选择; 修改&gt;选择; 建筑&gt;选择; 结构&gt;选择; 钢&gt;选择; 系统&gt;选择; 分析&gt;选择; 体量和场地&gt;选择; 协作&gt;选择; 上下文选项卡&gt;选择" />
+  <ShortcutItem CommandName="选择基线图元" CommandId="ID_TOGGLE_ALLOW_UNDERLAY_SELECTION" Paths="创建&gt;选择; 插入&gt;选择; 注释&gt;选择; 视图&gt;选择; 管理&gt;选择; 附加模块&gt;选择; 修改&gt;选择; 建筑&gt;选择; 结构&gt;选择; 钢&gt;选择; 系统&gt;选择; 分析&gt;选择; 体量和场地&gt;选择; 协作&gt;选择; 上下文选项卡&gt;选择" />
+  <ShortcutItem CommandName="选择锁定图元" CommandId="ID_TOGGLE_ALLOW_PINNED_SELECTION" Paths="创建&gt;选择; 插入&gt;选择; 注释&gt;选择; 视图&gt;选择; 管理&gt;选择; 附加模块&gt;选择; 修改&gt;选择; 建筑&gt;选择; 结构&gt;选择; 钢&gt;选择; 系统&gt;选择; 分析&gt;选择; 体量和场地&gt;选择; 协作&gt;选择; 上下文选项卡&gt;选择" />
+  <ShortcutItem CommandName="按面选择图元" CommandId="ID_TOGGLE_ALLOW_FACE_SELECTION" Paths="创建&gt;选择; 插入&gt;选择; 注释&gt;选择; 视图&gt;选择; 管理&gt;选择; 附加模块&gt;选择; 修改&gt;选择; 建筑&gt;选择; 结构&gt;选择; 钢&gt;选择; 系统&gt;选择; 分析&gt;选择; 体量和场地&gt;选择; 协作&gt;选择; 上下文选项卡&gt;选择" />
+  <ShortcutItem CommandName="选择时拖拽图元" CommandId="ID_TOGGLE_ALLOW_DRAG_ON_SELECTION" Paths="创建&gt;选择; 插入&gt;选择; 注释&gt;选择; 视图&gt;选择; 管理&gt;选择; 附加模块&gt;选择; 修改&gt;选择; 建筑&gt;选择; 结构&gt;选择; 钢&gt;选择; 系统&gt;选择; 分析&gt;选择; 体量和场地&gt;选择; 协作&gt;选择; 上下文选项卡&gt;选择" />
+  <ShortcutItem CommandName="类型属性" CommandId="Dialog_Revit_FamilyBar:Control_Revit_PropertyPanelTypePropBtn" Paths="创建&gt;属性; 修改&gt;属性" />
+  <ShortcutItem CommandName="属性" CommandId="ID_TOGGLE_PROPERTIES_PALETTE" Shortcuts="PP#Ctrl+1#VP" Paths="创建&gt;属性; 视图&gt;窗口; 修改&gt;属性; 上下文选项卡&gt;属性" />
+  <ShortcutItem CommandName="族类别和族参数" CommandId="ID_OBJECTS_FAMILYHOST" Paths="创建&gt;属性; 修改&gt;属性" />
+  <ShortcutItem CommandName="族类型" CommandId="ID_FAMILY_TYPE" Paths="创建&gt;属性; 修改&gt;属性" />
+  <ShortcutItem CommandName="实心拉伸" CommandId="ID_OBJECTS_EXTRUSION" Paths="创建&gt;形状" />
+  <ShortcutItem CommandName="实心融合" CommandId="ID_OBJECTS_BLEND" Paths="创建&gt;形状" />
+  <ShortcutItem CommandName="实心旋转" CommandId="ID_OBJECTS_REVOLUTION" Paths="创建&gt;形状" />
+  <ShortcutItem CommandName="实心放样" CommandId="ID_OBJECTS_SWEEP" Paths="创建&gt;形状" />
+  <ShortcutItem CommandName="实心放样融合" CommandId="ID_OBJECTS_SWEPTBLEND" Paths="创建&gt;形状" />
+  <ShortcutItem CommandName="空心 形状:空心拉伸" CommandId="ID_OBJECTS_EXTRUSION_CUT" Paths="创建&gt;形状" />
+  <ShortcutItem CommandName="空心 形状:空心融合" CommandId="ID_OBJECTS_BLEND_CUT" Paths="创建&gt;形状" />
+  <ShortcutItem CommandName="空心 形状:空心旋转" CommandId="ID_OBJECTS_REVOLUTION_CUT" Paths="创建&gt;形状" />
+  <ShortcutItem CommandName="空心 形状:空心放样" CommandId="ID_OBJECTS_SWEEP_CUT" Paths="创建&gt;形状" />
+  <ShortcutItem CommandName="空心 形状:空心放样融合" CommandId="ID_OBJECTS_SWEPTBLEND_CUT" Paths="创建&gt;形状" />
+  <ShortcutItem CommandName="模型 线; 模型线; 边界线; 线形钢筋" CommandId="ID_OBJECTS_CURVE" Shortcuts="LI" Paths="创建&gt;模型; 创建&gt;详图; 创建&gt;绘制; 修改&gt;绘制; 上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="放置构件" CommandId="ID_OBJECTS_FAMSYM" Shortcuts="CM" Paths="创建&gt;模型; 建筑&gt;构建; 结构&gt;模型; 系统&gt;模型" />
+  <ShortcutItem CommandName="模型 组:放置模型组" CommandId="ID_OBJECTS_PLACE_GROUP" Paths="创建&gt;模型; 建筑&gt;模型; 结构&gt;模型" />
+  <ShortcutItem CommandName="模型 组:创建组; 详图 组:创建组" CommandId="ID_EDIT_GROUP" Shortcuts="GP" Paths="创建&gt;模型; 注释&gt;详图; 修改&gt;创建; 创建&gt;详图; 建筑&gt;模型; 结构&gt;模型" />
+  <ShortcutItem CommandName="模型 文字" CommandId="ID_OBJECTS_MODELTEXT" Paths="创建&gt;模型; 建筑&gt;模型; 结构&gt;模型" />
+  <ShortcutItem CommandName="洞口" CommandId="ID_OBJECTS_OPENING" Paths="创建&gt;模型" />
+  <ShortcutItem CommandName="控件" CommandId="ID_OBJECTS_CONTROL" Paths="创建&gt;控件" />
+  <ShortcutItem CommandName="电气 连接件; 电气连接件" CommandId="ID_RBS_ADD_ELECTRICAL_CONNECTOR" Paths="创建&gt;连接件" />
+  <ShortcutItem CommandName="风管 连接件; 风管连接件" CommandId="ID_RBS_ADD_DUCT_CONNECTOR" Paths="创建&gt;连接件" />
+  <ShortcutItem CommandName="管道 连接件; 管道连接件" CommandId="ID_RBS_ADD_PIPE_CONNECTOR" Paths="创建&gt;连接件" />
+  <ShortcutItem CommandName="电缆桥架 连接件; 电缆桥架连接件" CommandId="ID_RBS_ADD_CABLETRAY_CONNECTOR" Paths="创建&gt;连接件" />
+  <ShortcutItem CommandName="线管 连接件; 线管连接件" CommandId="ID_RBS_ADD_CONDUIT_CONNECTOR" Paths="创建&gt;连接件" />
+  <ShortcutItem CommandName="参照 线; 参照线" CommandId="ID_OBJECTS_REFERENCE_CURVE" Paths="创建&gt;基准; 创建&gt;绘制; 修改&gt;绘制" />
+  <ShortcutItem CommandName="参照 平面; 参照平面" CommandId="ID_OBJECTS_CLINE" Shortcuts="RP" Paths="创建&gt;基准; 创建&gt;绘制; 修改&gt;绘制; 建筑&gt;工作平面; 结构&gt;工作平面; 钢&gt;工作平面; 系统&gt;工作平面; 上下文选项卡&gt;工作平面" />
+  <ShortcutItem CommandName="设置工作平面" CommandId="ID_SKETCH_PLANE_TOOL" Paths="创建&gt;工作平面; 修改&gt;工作平面; 建筑&gt;工作平面; 结构&gt;工作平面; 钢&gt;工作平面; 系统&gt;工作平面; 上下文选项卡&gt;工作平面" />
+  <ShortcutItem CommandName="显示工作平面" CommandId="ID_SKETCH_GRID_VIS" Paths="创建&gt;工作平面; 修改&gt;工作平面; 建筑&gt;工作平面; 结构&gt;工作平面; 钢&gt;工作平面; 系统&gt;工作平面; 上下文选项卡&gt;工作平面" />
+  <ShortcutItem CommandName="工作平面查看器" CommandId="ID_WORKPLANE_VIEW" Paths="创建&gt;工作平面; 修改&gt;工作平面; 建筑&gt;工作平面; 结构&gt;工作平面; 钢&gt;工作平面; 系统&gt;工作平面; 上下文选项卡&gt;工作平面" />
+  <ShortcutItem CommandName="链接 Revit" CommandId="ID_RVTDOC_LINK" Paths="插入&gt;链接" />
+  <ShortcutItem CommandName="链接 &#xA;IFC" CommandId="ID_IFC_LINK" Paths="插入&gt;链接" />
+  <ShortcutItem CommandName="链接 CAD" CommandId="ID_FILE_CADFORMAT_LINK" Paths="插入&gt;链接" />
+  <ShortcutItem CommandName="DWF 标记" CommandId="ID_MARKUPS_LOAD" Paths="插入&gt;链接" />
+  <ShortcutItem CommandName="贴花; 放置贴花" CommandId="ID_RM_CREATE_DECAL" Paths="插入&gt;链接" />
+  <ShortcutItem CommandName="贴花:贴花类型; 贴花 类型" CommandId="ID_SETTINGS_DECAL_TYPES" Paths="插入&gt;链接; 管理&gt;管理项目" />
+  <ShortcutItem CommandName="点 云" CommandId="ID_POINT_CLOUD" Paths="插入&gt;链接" />
+  <ShortcutItem CommandName="协调 &#xA;模型" CommandId="ID_COORDINATION_MODEL" Paths="插入&gt;链接" />
+  <ShortcutItem CommandName="管理 链接" CommandId="ID_LINKED_DWG" Paths="插入&gt;链接; 管理&gt;管理项目; 上下文选项卡&gt;链接" />
+  <ShortcutItem CommandName="导入 CAD" CommandId="ID_FILE_IMPORT" Paths="插入&gt;导入" />
+  <ShortcutItem CommandName="导入 gbXML" CommandId="ID_ABS_IMPORT_GBXML" Paths="插入&gt;导入" />
+  <ShortcutItem CommandName="从文件 插入:插入文件中的视图" CommandId="ID_INSERT_VIEWS_FROM_FILE" Paths="插入&gt;导入" />
+  <ShortcutItem CommandName="从文件 插入:插入文件中的二维图元" CommandId="ID_INSERT_2D_ELEMENTS_FROM_FILE" Paths="插入&gt;导入" />
+  <ShortcutItem CommandName="图像" CommandId="ID_OBJECTS_RASTER" Paths="插入&gt;导入" />
+  <ShortcutItem CommandName="管理 图像" CommandId="ID_EDIT_RASTER_SYMBOLS" Paths="插入&gt;导入; 管理&gt;管理项目" />
+  <ShortcutItem CommandName="导入 族类型" CommandId="ID_IMPORT_FAM_TYPES" Paths="插入&gt;导入" />
+  <ShortcutItem CommandName="载入 族; 载入框架 族; 载入 形状" CommandId="ID_FAMILY_LOAD" Paths="插入&gt;从库中载入; 上下文选项卡&gt;模式; 上下文选项卡&gt;族" />
+  <ShortcutItem CommandName="作为组 载入" CommandId="ID_LOAD_GROUP" Paths="插入&gt;从库中载入" />
+  <ShortcutItem CommandName="对齐尺寸标注" CommandId="ID_ANNOTATIONS_DIMENSION_ALIGNED" Shortcuts="DI" Paths="注释&gt;尺寸标注; 修改&gt;测量; 创建&gt;尺寸标注; 上下文选项卡&gt;尺寸标注; 快速访问工具栏" />
+  <ShortcutItem CommandName="角度尺寸标注" CommandId="ID_ANNOTATIONS_DIMENSION_ANGULAR" Paths="注释&gt;尺寸标注; 修改&gt;测量; 创建&gt;尺寸标注; 上下文选项卡&gt;尺寸标注" />
+  <ShortcutItem CommandName="半径尺寸标注" CommandId="ID_ANNOTATIONS_DIMENSION_RADIAL" Paths="注释&gt;尺寸标注; 修改&gt;测量; 创建&gt;尺寸标注; 上下文选项卡&gt;尺寸标注" />
+  <ShortcutItem CommandName="直径尺寸标注" CommandId="ID_ANNOTATIONS_DIMENSION_DIAMETER" Paths="注释&gt;尺寸标注; 修改&gt;测量; 创建&gt;尺寸标注; 上下文选项卡&gt;尺寸标注" />
+  <ShortcutItem CommandName="弧长尺寸标注" CommandId="ID_ANNOTATIONS_DIMENSION_ARCLENGTH" Paths="注释&gt;尺寸标注; 修改&gt;测量; 创建&gt;尺寸标注; 上下文选项卡&gt;尺寸标注" />
+  <ShortcutItem CommandName="线性尺寸标注类型" CommandId="ID_SETTINGS_DIMENSIONS_LINEAR" Paths="注释&gt;尺寸标注; 创建&gt;尺寸标注" />
+  <ShortcutItem CommandName="角度尺寸标注类型" CommandId="ID_SETTINGS_DIMENSIONS_ANGULAR" Paths="注释&gt;尺寸标注; 创建&gt;尺寸标注" />
+  <ShortcutItem CommandName="半径尺寸标注类型" CommandId="ID_SETTINGS_DIMENSIONS_RADIAL" Paths="注释&gt;尺寸标注; 创建&gt;尺寸标注" />
+  <ShortcutItem CommandName="直径尺寸标注类型" CommandId="ID_SETTINGS_DIMENSIONS_DIAMETER" Paths="注释&gt;尺寸标注; 创建&gt;尺寸标注" />
+  <ShortcutItem CommandName="符号 线" CommandId="ID_OBJECTS_VIEW_DIR_SPEC_CURVE" Paths="注释&gt;详图" />
+  <ShortcutItem CommandName="详图 构件; 详图构件" CommandId="ID_OBJECTS_FAMDETAIL" Paths="注释&gt;详图; 创建&gt;详图" />
+  <ShortcutItem CommandName="详图 组:放置详图组" CommandId="ID_OBJECTS_PLACE_DETAIL_GROUP" Paths="注释&gt;详图; 创建&gt;详图" />
+  <ShortcutItem CommandName="符号" CommandId="ID_OBJECTS_FAM_ANN_INST" Paths="注释&gt;详图; 创建&gt;详图; 注释&gt;符号" />
+  <ShortcutItem CommandName="遮罩 区域; 遮罩区域" CommandId="ID_MASKING_REGION" Paths="注释&gt;详图; 创建&gt;详图" />
+  <ShortcutItem CommandName="文字" CommandId="ID_OBJECTS_TEXT_NOTE" Shortcuts="TX" Paths="注释&gt;文字; 创建&gt;文字; 快速访问工具栏" />
+  <ShortcutItem CommandName="拼写 &#xA;检查" CommandId="ID_CHECK_SPELLING" Paths="注释&gt;文字; 创建&gt;文字; 上下文选项卡&gt;文字" />
+  <ShortcutItem CommandName="查找/ &#xA;替换" CommandId="ID_FIND_REPLACE" Shortcuts="FR" Paths="注释&gt;文字; 创建&gt;文字; 上下文选项卡&gt;文字" />
+  <ShortcutItem CommandName="可见性/ 图形" CommandId="ID_VIEW_CATEGORY_VISIBILITY" Shortcuts="VG#VV" Paths="视图&gt;图形" />
+  <ShortcutItem CommandName="细 线; 细线" CommandId="ID_THIN_LINES" Shortcuts="TL" Paths="视图&gt;图形; 快速访问工具栏" />
+  <ShortcutItem CommandName="三维 视图; 默认三维视图" CommandId="ID_VIEW_DEFAULT_3DVIEW" Paths="视图&gt;创建; 快速访问工具栏" />
+  <ShortcutItem CommandName="三维 视图:相机; 默认三维视图:相机" CommandId="ID_VIEW_NEW_3DVIEW" Paths="视图&gt;创建; 快速访问工具栏" />
+  <ShortcutItem CommandName="三维 视图:漫游; 默认三维视图:漫游" CommandId="ID_VIEW_NEW_WALKTHROUGH" Paths="视图&gt;创建; 快速访问工具栏" />
+  <ShortcutItem CommandName="剖面" CommandId="ID_VIEW_NEW_SECTION" Paths="视图&gt;创建; 快速访问工具栏" />
+  <ShortcutItem CommandName="平面 区域; 平面 视图:平面区域" CommandId="ID_NEW_PLAN_REGION" Paths="视图&gt;创建" />
+  <ShortcutItem CommandName="平面 视图:楼层平面; 楼层 平面" CommandId="ID_VIEW_NEW_PLAN" Paths="视图&gt;创建" />
+  <ShortcutItem CommandName="平面 视图:天花板投影平面" CommandId="ID_VIEW_NEW_RCP" Paths="视图&gt;创建" />
+  <ShortcutItem CommandName="平面 视图:结构平面; 结构 &#xA;平面" CommandId="ID_VIEW_NEW_STRUCTURAL_PLAN" Paths="视图&gt;创建" />
+  <ShortcutItem CommandName="平面 视图:面积平面; 面积:面积平面" CommandId="ID_VIEW_NEW_AREASCHEME" Paths="视图&gt;创建; 建筑&gt;房间和面积" />
+  <ShortcutItem CommandName="立面; 立面:框架立面" CommandId="ID_BUTTON_BRACING_ELEVATION" Paths="视图&gt;创建" />
+  <ShortcutItem CommandName="立面:建筑立面" CommandId="ID_BUTTON_INTERIOR_ROOM_ELEVATION" Paths="视图&gt;创建" />
+  <ShortcutItem CommandName="复制 视图:复制视图" CommandId="ID_PRJBROWSER_COPY" Paths="视图&gt;创建" />
+  <ShortcutItem CommandName="复制 视图:带细节复制" CommandId="ID_DUPLICATE_WITH_DETAILING" Paths="视图&gt;创建" />
+  <ShortcutItem CommandName="复制 视图:复制作为相关" CommandId="ID_CREATE_DEPENDENT_VIEW" Paths="视图&gt;创建" />
+  <ShortcutItem CommandName="图例:图例" CommandId="ID_VIEW_NEW_LEGEND" Paths="视图&gt;创建" />
+  <ShortcutItem CommandName="图例:注释记号图例" CommandId="ID_VIEW_NEW_KEYNOTE_LEGEND" Paths="视图&gt;创建" />
+  <ShortcutItem CommandName="明细表:明细表/数量; 明细表/ 数量" CommandId="ID_VIEW_NEW_SCHEDULE" Paths="视图&gt;创建; 分析&gt;报告和明细表" />
+  <ShortcutItem CommandName="明细表:图形柱明细表" CommandId="ID_VIEW_NEW_GRAPH_SCHED_COLUMN" Paths="视图&gt;创建" />
+  <ShortcutItem CommandName="明细表:材质提取" CommandId="ID_VIEW_NEW_MATERIAL_TAKEOFF" Paths="视图&gt;创建" />
+  <ShortcutItem CommandName="明细表:图纸列表" CommandId="ID_VIEW_NEW_DRAWING_LIST" Paths="视图&gt;创建" />
+  <ShortcutItem CommandName="明细表:注释块" CommandId="ID_VIEW_NEW_NOTE_BLOCK" Paths="视图&gt;创建" />
+  <ShortcutItem CommandName="明细表:视图列表" CommandId="ID_NEW_VIEWLIST" Paths="视图&gt;创建" />
+  <ShortcutItem CommandName="关闭非活动视图; 关闭非活动窗口" CommandId="ID_VIEW_CLOSE_INACTIVE" Paths="视图&gt;窗口; 快速访问工具栏" />
+  <ShortcutItem CommandName="选项卡视图" CommandId="ID_VIEW_TAB" Shortcuts="TW" Paths="视图&gt;窗口" />
+  <ShortcutItem CommandName="平铺视图" CommandId="ID_WINDOW_TILE_VERT" Shortcuts="WT" Paths="视图&gt;窗口" />
+  <ShortcutItem CommandName="ViewCube" CommandId="ID_SHOW_VIEWCUBE" Paths="视图&gt;窗口" />
+  <ShortcutItem CommandName="导航栏" CommandId="ID_NAVIGATION_BAR" Paths="视图&gt;窗口" />
+  <ShortcutItem CommandName="项目浏览器" CommandId="ID_VIEW_PROJECTEXPLORER" Paths="视图&gt;窗口" />
+  <ShortcutItem CommandName="系统浏览器" CommandId="ID_RBS_SYSTEM_NAVIGATOR" Shortcuts="Fn9" Paths="视图&gt;窗口" />
+  <ShortcutItem CommandName="MEP 预制构件; 预制 &#xA;零件" CommandId="ID_TOGGLE_FABPART_BROWSER" Shortcuts="PB" Paths="视图&gt;窗口; 系统&gt;预制" />
+  <ShortcutItem CommandName="P&amp;ID 模型转换" CommandId="ID_MEP_TOGGLE_PNID_BROWSER" Paths="视图&gt;窗口" />
+  <ShortcutItem CommandName="状态栏" CommandId="ID_VIEW_STATUS_BAR" Paths="视图&gt;窗口" />
+  <ShortcutItem CommandName="状态栏 - 工作集" CommandId="ID_STATUSBAR_WORKSETS" Paths="视图&gt;窗口" />
+  <ShortcutItem CommandName="状态栏 - 设计选项" CommandId="ID_STATUSBAR_DESIGNOPTIONS" Paths="视图&gt;窗口" />
+  <ShortcutItem CommandName="最近使用的文件" CommandId="ID_STARTUP_PAGE" Paths="视图&gt;窗口" />
+  <ShortcutItem CommandName="浏览器组织" CommandId="ID_BROWSER_ORGANIZATION" Paths="视图&gt;窗口" />
+  <ShortcutItem CommandName="快捷键" CommandId="ID_KEYBOARD_SHORTCUT_DIALOG" Shortcuts="KS" Paths="视图&gt;窗口" />
+  <ShortcutItem CommandName="材质" CommandId="ID_SETTINGS_MATERIALS" Paths="管理&gt;设置" />
+  <ShortcutItem CommandName="对象 样式" CommandId="ID_SETTINGS_OBJECTSTYLES" Paths="管理&gt;设置" />
+  <ShortcutItem CommandName="捕捉" CommandId="ID_SETTINGS_SNAPPING" Paths="管理&gt;设置" />
+  <ShortcutItem CommandName="共享 参数" CommandId="ID_FILE_EXTERNAL_PARAMETERS" Paths="管理&gt;设置" />
+  <ShortcutItem CommandName="传递 项目标准" CommandId="ID_TRANSFER_PROJECT_STANDARDS" Paths="管理&gt;设置" />
+  <ShortcutItem CommandName="清除 未使用项" CommandId="ID_PURGE_UNUSED" Paths="管理&gt;设置" />
+  <ShortcutItem CommandName="项目 单位" CommandId="ID_SETTINGS_UNITS" Shortcuts="UN" Paths="管理&gt;设置" />
+  <ShortcutItem CommandName="结构 设置:结构 设置" CommandId="ID_STRUCTURAL_SETTINGS" Paths="管理&gt;设置" />
+  <ShortcutItem CommandName="结构 设置:连接 &#xA;设置" CommandId="ID_STRUCTURAL_CONNECTION_SETTINGS" Paths="管理&gt;设置" />
+  <ShortcutItem CommandName="MEP 设置:负荷分类" CommandId="ID_RBS_ELECTRICAL_LOAD_CLASSIFICATION" Paths="管理&gt;设置" />
+  <ShortcutItem CommandName="MEP 设置:需求系数" CommandId="ID_RBS_ELECTRICAL_DEMAND_FACTOR" Paths="管理&gt;设置" />
+  <ShortcutItem CommandName="配电盘明细表 样板:管理样板" CommandId="ID_RBS_PANEL_SCHEDULE_MANAGE_TEMPLATES" Paths="管理&gt;设置" />
+  <ShortcutItem CommandName="配电盘明细表 样板:编辑样板" CommandId="ID_RBS_PANEL_SCHEDULE_EDIT_A_TEMPLATE" Paths="管理&gt;设置" />
+  <ShortcutItem CommandName="其他 设置:填充样式" CommandId="ID_SETTINGS_FILLPATTERNS" Paths="管理&gt;设置" />
+  <ShortcutItem CommandName="其他 设置:分析显示样式" CommandId="ID_SETTINGS_ANALYSIS_DISPLAY_STYLES" Paths="管理&gt;设置" />
+  <ShortcutItem CommandName="其他 设置:线样式" CommandId="ID_SETTINGS_LINE_STYLES" Paths="管理&gt;设置" />
+  <ShortcutItem CommandName="其他 设置:线宽" CommandId="ID_SETTINGS_PENS" Paths="管理&gt;设置" />
+  <ShortcutItem CommandName="其他 设置:线型图案" CommandId="ID_SETTINGS_PEN_FONTS" Paths="管理&gt;设置" />
+  <ShortcutItem CommandName="其他 设置:剖面标记" CommandId="ID_VIEWTAGSTYLES_SECTIONTAGS" Paths="管理&gt;设置" />
+  <ShortcutItem CommandName="其他 设置:箭头" CommandId="ID_SETTINGS_ANNOTATIONS_LEADERS" Paths="管理&gt;设置" />
+  <ShortcutItem CommandName="其他 设置:临时尺寸标注" CommandId="ID_SETTINGS_DIMENSIONS" Paths="管理&gt;设置" />
+  <ShortcutItem CommandName="其他 设置:注释记号设置" CommandId="ID_SETTINGS_KEYNOTING" Paths="管理&gt;设置; 注释&gt;标记" />
+  <ShortcutItem CommandName="其他 设置:详细程度" CommandId="ID_DETAIL_LEVEL" Paths="管理&gt;设置" />
+  <ShortcutItem CommandName="其他 设置:部件代码" CommandId="ID_SETTINGS_ASSEMBLY_CODE" Paths="管理&gt;设置" />
+  <ShortcutItem CommandName="启动 视图" CommandId="ID_STARTING_VIEW" Paths="管理&gt;管理项目" />
+  <ShortcutItem CommandName="选择项 的 ID" CommandId="ID_IDS_OF_SELECTION" Paths="管理&gt;查询" />
+  <ShortcutItem CommandName="按 ID 选择" CommandId="ID_SELECT_BY_ID" Paths="管理&gt;查询" />
+  <ShortcutItem CommandName="查阅警告信息" CommandId="ID_REVIEW_WARNINGS" Paths="管理&gt;查询" />
+  <ShortcutItem CommandName="宏 管理器" CommandId="ID_TOOLS_MACROS" Paths="管理&gt;宏" />
+  <ShortcutItem CommandName="宏 安全性" CommandId="ID_TOOLS_MACROSECURITY" Paths="管理&gt;宏" />
+  <ShortcutItem CommandName="Dynamo" CommandId="ID_VISUAL_PROGRAMMING_DYNAMO" Paths="管理&gt;可视化编程" />
+  <ShortcutItem CommandName="Dynamo &#xA;播放器" CommandId="ID_PLAYLIST_DYNAMO" Paths="管理&gt;可视化编程" />
+  <ShortcutItem CommandName="外部 工具:Add-In Manager (Manual Mode)" CommandId="8c0a9e25-b7c5-421c-a1ab-702f73fa551f" Paths="附加模块&gt;外部" />
+  <ShortcutItem CommandName="外部 工具:Add-In Manager (Manual Mode, Faceless)" CommandId="6fdb8ec7-ccd3-4fc0-adb7-b459d298fb93" Paths="附加模块&gt;外部" />
+  <ShortcutItem CommandName="外部 工具:Add-In Manager (ReadOnly Mode)" CommandId="91a2419c-5fca-491a-baa3-29a497ec07c7" Paths="附加模块&gt;外部" />
+  <ShortcutItem CommandName="Batch Print" CommandId="CustomCtrl_%CustomCtrl_%Add-Ins%Batch Print%Ribbon_BP_Btn" Paths="附加模块&gt;Batch Print" />
+  <ShortcutItem CommandName="传递模型" CommandId="CustomCtrl_%CustomCtrl_%Add-Ins%eTransmit%eTransmit" Paths="附加模块&gt;eTransmit" />
+  <ShortcutItem CommandName="帮助" CommandId="CustomCtrl_%CustomCtrl_%Add-Ins%eTransmit%eTransmitHelp" Paths="附加模块&gt;eTransmit" />
+  <ShortcutItem CommandName="关于" CommandId="CustomCtrl_%CustomCtrl_%Add-Ins%eTransmit%eTransmitAbout" Paths="附加模块&gt;eTransmit" />
+  <ShortcutItem CommandName="检查" CommandId="CustomCtrl_%CustomCtrl_%Add-Ins%Model Review%Check" Paths="附加模块&gt;Model Review" />
+  <ShortcutItem CommandName="管理" CommandId="CustomCtrl_%CustomCtrl_%Add-Ins%Model Review%Manage" Paths="附加模块&gt;Model Review" />
+  <ShortcutItem CommandName="视图" CommandId="CustomCtrl_%CustomCtrl_%Add-Ins%Model Review%View" Paths="附加模块&gt;Model Review" />
+  <ShortcutItem CommandName="关于..." CommandId="CustomCtrl_%CustomCtrl_%Add-Ins%Model Review%About" Paths="附加模块&gt;Model Review" />
+  <ShortcutItem CommandName="启动 WSM" CommandId="CustomCtrl_%CustomCtrl_%Add-Ins%WorksharingMonitor%WSM Button" Paths="附加模块&gt;WorksharingMonitor" />
+  <ShortcutItem CommandName="Convert Files:Convert RFA&#xA;to FormIt" CommandId="CustomCtrl_%CustomCtrl_%CustomCtrl_%Add-Ins%FormIt Converter%Convert Files%Convert RFA to FormIt" Paths="附加模块&gt;FormIt Converter" />
+  <ShortcutItem CommandName="Convert Files:Convert SKP&#xA;to FormIt" CommandId="CustomCtrl_%CustomCtrl_%CustomCtrl_%Add-Ins%FormIt Converter%Convert Files%Convert SKP to FormIt" Paths="附加模块&gt;FormIt Converter" />
+  <ShortcutItem CommandName="Convert Files:Import FormIt&#xA;to RVT" CommandId="CustomCtrl_%CustomCtrl_%CustomCtrl_%Add-Ins%FormIt Converter%Convert Files%Import FormIt to RVT" Paths="附加模块&gt;FormIt Converter" />
+  <ShortcutItem CommandName="Convert Files:Reload Families" CommandId="CustomCtrl_%CustomCtrl_%CustomCtrl_%Add-Ins%FormIt Converter%Convert Files%Reload Families" Paths="附加模块&gt;FormIt Converter" />
+  <ShortcutItem CommandName="About FormIt" CommandId="CustomCtrl_%CustomCtrl_%Add-Ins%FormIt Converter%About FormIt" Paths="附加模块&gt;FormIt Converter" />
+  <ShortcutItem CommandName="Revit Lookup:Hello World..." CommandId="CustomCtrl_%CustomCtrl_%CustomCtrl_%Add-Ins%Revit Lookup%Options%HelloWorld" Paths="附加模块&gt;Revit Lookup" />
+  <ShortcutItem CommandName="Revit Lookup:Snoop DB..." CommandId="CustomCtrl_%CustomCtrl_%CustomCtrl_%Add-Ins%Revit Lookup%Options%Snoop Db.." Paths="附加模块&gt;Revit Lookup" />
+  <ShortcutItem CommandName="Revit Lookup:Snoop Current Selection..." CommandId="CustomCtrl_%CustomCtrl_%CustomCtrl_%Add-Ins%Revit Lookup%Options%Snoop Current Selection..." Paths="附加模块&gt;Revit Lookup" />
+  <ShortcutItem CommandName="Revit Lookup:Snoop Pick Face..." CommandId="CustomCtrl_%CustomCtrl_%CustomCtrl_%Add-Ins%Revit Lookup%Options%Snoop Pick Face..." Paths="附加模块&gt;Revit Lookup" />
+  <ShortcutItem CommandName="Revit Lookup:Snoop Pick Edge..." CommandId="CustomCtrl_%CustomCtrl_%CustomCtrl_%Add-Ins%Revit Lookup%Options%Snoop Pick Edge..." Paths="附加模块&gt;Revit Lookup" />
+  <ShortcutItem CommandName="Revit Lookup:Snoop Linked Element..." CommandId="CustomCtrl_%CustomCtrl_%CustomCtrl_%Add-Ins%Revit Lookup%Options%Snoop Pick Linked Element..." Paths="附加模块&gt;Revit Lookup" />
+  <ShortcutItem CommandName="Revit Lookup:Snoop Dependent Elements..." CommandId="CustomCtrl_%CustomCtrl_%CustomCtrl_%Add-Ins%Revit Lookup%Options%Snoop Dependent Elements..." Paths="附加模块&gt;Revit Lookup" />
+  <ShortcutItem CommandName="Revit Lookup:Snoop Active View..." CommandId="CustomCtrl_%CustomCtrl_%CustomCtrl_%Add-Ins%Revit Lookup%Options%Snoop Active View..." Paths="附加模块&gt;Revit Lookup" />
+  <ShortcutItem CommandName="Revit Lookup:Snoop Application..." CommandId="CustomCtrl_%CustomCtrl_%CustomCtrl_%Add-Ins%Revit Lookup%Options%Snoop Application..." Paths="附加模块&gt;Revit Lookup" />
+  <ShortcutItem CommandName="Revit Lookup:Search and Snoop..." CommandId="CustomCtrl_%CustomCtrl_%CustomCtrl_%Add-Ins%Revit Lookup%Options%Search and Snoop..." Paths="附加模块&gt;Revit Lookup" />
+  <ShortcutItem CommandName="Revit Lookup:Test Framework..." CommandId="CustomCtrl_%CustomCtrl_%CustomCtrl_%Add-Ins%Revit Lookup%Options%Test Framework..." Paths="附加模块&gt;Revit Lookup" />
+  <ShortcutItem CommandName="图纸排序" CommandId="CustomCtrl_%CustomCtrl_%FourPlugin%Demo%FourPlugin_Deom_SortingDrawings" Paths="FourPlugin&gt;Demo" />
+  <ShortcutItem CommandName="标注轴网" CommandId="CustomCtrl_%CustomCtrl_%FourPlugin%Demo%FourPlugin_Deom_DimensionGrid" Paths="FourPlugin&gt;Demo" />
+  <ShortcutItem CommandName="明细表导出" CommandId="CustomCtrl_%CustomCtrl_%FourPlugin%Demo%FourPlugin_Deom_ExportSchedule" Paths="FourPlugin&gt;Demo" />
+  <ShortcutItem CommandName="明细表导出" CommandId="CustomCtrl_%CustomCtrl_%FourPlugin%Demo%FourPlugin_Deom_OpenFolder" Paths="FourPlugin&gt;Demo" />
+  <ShortcutItem CommandName="数据修改器" CommandId="CustomCtrl_%CustomCtrl_%FourPlugin%Demo%FourPlugin_Deom_DataModifier" Paths="FourPlugin&gt;Demo" />
+  <ShortcutItem CommandName="自动核查" CommandId="CustomCtrl_%CustomCtrl_%FourPlugin%Demo%FourPlugin_Deom_ModelSelfCheck" Paths="FourPlugin&gt;Demo" />
+  <ShortcutItem CommandName="资源浏览器Pro" CommandId="CustomCtrl_%CustomCtrl_%FourPlugin%Demo%FourPlugin_Deom_ResourceBrowserPro" Paths="FourPlugin&gt;Demo" />
+  <ShortcutItem CommandName="设置" CommandId="CustomCtrl_%CustomCtrl_%FourPlugin%项目初始化%FourPlugin_ProjectInitialization_Settings" Paths="FourPlugin&gt;项目初始化" />
+  <ShortcutItem CommandName="资源初始化" CommandId="CustomCtrl_%CustomCtrl_%FourPlugin%项目初始化%FourPlugin_ProjectInitialization_BasicInitialization" Paths="FourPlugin&gt;项目初始化" />
+  <ShortcutItem CommandName="图纸初始化" CommandId="CustomCtrl_%CustomCtrl_%FourPlugin%项目初始化%FourPlugin_ProjectInitialization_DrawingInitialization" Paths="FourPlugin&gt;项目初始化" />
+  <ShortcutItem CommandName="图纸打包" CommandId="CustomCtrl_%CustomCtrl_%FourPlugin%成果打包%FourPlugin_RPackaging_DrawingPackaging" Paths="FourPlugin&gt;成果打包" />
+  <ShortcutItem CommandName="模型打包" CommandId="CustomCtrl_%CustomCtrl_%FourPlugin%成果打包%FourPlugin_ProjectInitialization_ProjectPackaging" Paths="FourPlugin&gt;成果打包" />
+  <ShortcutItem CommandName="打包方案" CommandId="CustomCtrl_%CustomCtrl_%FourPlugin%成果打包%FourPlugin_ProjectInitialization_ManagerPackagingPlan" Paths="FourPlugin&gt;成果打包" />
+  <ShortcutItem CommandName="快速标注" CommandId="CustomCtrl_%CustomCtrl_%FourPlugin%族制作辅助%FourPlugin_RPackaging_DrawingPackaging" Paths="FourPlugin&gt;族制作辅助" />
+  <ShortcutItem CommandName="粘贴; 从剪贴板粘贴" CommandId="ID_EDIT_PASTE" Paths="修改&gt;剪贴板" />
+  <ShortcutItem CommandName="粘贴:与选定的标高对齐" CommandId="ID_EDIT_PASTE_ALIGNED_LEVEL_BY_NAME" Paths="修改&gt;剪贴板" />
+  <ShortcutItem CommandName="粘贴:与选定的视图对齐" CommandId="ID_EDIT_PASTE_ALIGNED_VIEWS_BY_NAME" Paths="修改&gt;剪贴板" />
+  <ShortcutItem CommandName="粘贴:与当前视图对齐" CommandId="ID_EDIT_PASTE_ALIGNED" Paths="修改&gt;剪贴板" />
+  <ShortcutItem CommandName="粘贴:与同一位置对齐" CommandId="ID_EDIT_PASTE_ALIGNED_SAME_PLACE" Paths="修改&gt;剪贴板" />
+  <ShortcutItem CommandName="粘贴:与拾取的标高对齐" CommandId="ID_EDIT_PASTE_ALIGNED_PICK_LEVEL" Paths="修改&gt;剪贴板" />
+  <ShortcutItem CommandName="剪切到剪贴板" CommandId="ID_EDIT_CUT" Paths="修改&gt;剪贴板" />
+  <ShortcutItem CommandName="复制到剪贴板" CommandId="ID_EDIT_COPY" Paths="修改&gt;剪贴板" />
+  <ShortcutItem CommandName="匹配类型属性" CommandId="ID_EDIT_MATCH_TYPE" Shortcuts="MA" Paths="修改&gt;剪贴板" />
+  <ShortcutItem CommandName="填色" CommandId="ID_EDIT_PAINT" Shortcuts="PT" Paths="修改&gt;几何图形" />
+  <ShortcutItem CommandName="填色:删除填色" CommandId="ID_EDIT_UNPAINT" Paths="修改&gt;几何图形" />
+  <ShortcutItem CommandName="连接端切割; 应用连接端切割" CommandId="ID_COPING" Shortcuts="CP" Paths="修改&gt;几何图形" />
+  <ShortcutItem CommandName="连接端切割:删除连接端切割" CommandId="ID_UNCOPING" Shortcuts="RC" Paths="修改&gt;几何图形" />
+  <ShortcutItem CommandName="剪切; 剪切几何图形" CommandId="ID_CUT_HOST" Paths="修改&gt;几何图形" />
+  <ShortcutItem CommandName="剪切:取消剪切几何图形" CommandId="ID_UNCUT_HOST" Paths="修改&gt;几何图形" />
+  <ShortcutItem CommandName="连接; 连接几何图形" CommandId="ID_JOIN_ELEMENTS_EDITOR" Paths="修改&gt;几何图形" />
+  <ShortcutItem CommandName="连接:取消连接几何图形" CommandId="ID_UNJOIN_ELEMENTS_EDITOR" Paths="修改&gt;几何图形" />
+  <ShortcutItem CommandName="拆分面" CommandId="ID_SPLIT_FACE" Shortcuts="SF" Paths="修改&gt;几何图形" />
+  <ShortcutItem CommandName="对齐" CommandId="ID_ALIGN" Shortcuts="AL" Paths="修改&gt;修改" />
+  <ShortcutItem CommandName="移动" CommandId="ID_EDIT_MOVE" Shortcuts="MV" Paths="修改&gt;修改" />
+  <ShortcutItem CommandName="偏移" CommandId="ID_OFFSET" Shortcuts="OF" Paths="修改&gt;修改" />
+  <ShortcutItem CommandName="复制" CommandId="ID_EDIT_MOVE_COPY" Shortcuts="CO#CC" Paths="修改&gt;修改" />
+  <ShortcutItem CommandName="镜像 - 拾取轴" CommandId="ID_EDIT_MIRROR" Shortcuts="MM" Paths="修改&gt;修改" />
+  <ShortcutItem CommandName="旋转" CommandId="ID_EDIT_ROTATE" Shortcuts="RO" Paths="修改&gt;修改" />
+  <ShortcutItem CommandName="镜像 - 绘制轴" CommandId="ID_EDIT_MIRROR_LINE" Shortcuts="DM" Paths="修改&gt;修改" />
+  <ShortcutItem CommandName="修剪/延伸为角" CommandId="ID_TRIM_EXTEND_CORNER" Shortcuts="TR" Paths="修改&gt;修改" />
+  <ShortcutItem CommandName="拆分图元" CommandId="ID_SPLIT" Shortcuts="SL" Paths="修改&gt;修改" />
+  <ShortcutItem CommandName="阵列" CommandId="ID_EDIT_CREATE_PATTERN" Shortcuts="AR" Paths="修改&gt;修改" />
+  <ShortcutItem CommandName="修剪/延伸单个图元" CommandId="ID_TRIM_EXTEND_SINGLE" Paths="修改&gt;修改" />
+  <ShortcutItem CommandName="用间隙拆分" CommandId="ID_SPLIT_WITH_GAP" Paths="修改&gt;修改" />
+  <ShortcutItem CommandName="缩放" CommandId="ID_EDIT_SCALE" Shortcuts="RE" Paths="修改&gt;修改" />
+  <ShortcutItem CommandName="修剪/延伸多个图元" CommandId="ID_TRIM_EXTEND_MULTIPLE" Paths="修改&gt;修改" />
+  <ShortcutItem CommandName="解锁" CommandId="ID_UNLOCK_ELEMENTS" Shortcuts="UP" Paths="修改&gt;修改" />
+  <ShortcutItem CommandName="锁定" CommandId="ID_LOCK_ELEMENTS" Shortcuts="PN" Paths="修改&gt;修改" />
+  <ShortcutItem CommandName="删除" CommandId="ID_BUTTON_DELETE" Shortcuts="DE" Paths="修改&gt;修改" />
+  <ShortcutItem CommandName="测量:测量两个参照之间的距离" CommandId="ID_MEASURE_LINE" Paths="修改&gt;测量; 快速访问工具栏" />
+  <ShortcutItem CommandName="测量:沿图元测量" CommandId="ID_MEASURE_PICK_LINES" Paths="修改&gt;测量; 快速访问工具栏" />
+  <ShortcutItem CommandName="创建类似" CommandId="ID_EDIT_CREATE_SIMILAR" Shortcuts="CS" Paths="修改&gt;创建" />
+  <ShortcutItem CommandName="载入到 项目; 模型 组:作为组载入到打开的项目中" CommandId="ID_LOAD_INTO_PROJECTS" Paths="族编辑器&gt;族编辑器; 建筑&gt;模型; 结构&gt;模型" />
+  <ShortcutItem CommandName="载入到 项目并关闭" CommandId="ID_LOAD_INTO_PROJECTS_CLOSE" Paths="族编辑器&gt;族编辑器" />
+  <ShortcutItem CommandName="填充 区域; 填充区域" CommandId="ID_OBJECTS_FILLED_REGION" Paths="创建&gt;详图; 注释&gt;详图" />
+  <ShortcutItem CommandName="标签" CommandId="ID_OBJECTS_TAG_NOTE" Paths="创建&gt;文字" />
+  <ShortcutItem CommandName="修订 明细表" CommandId="ID_VIEW_NEW_REVISION_SCHEDULE" Paths="视图&gt;创建" />
+  <ShortcutItem CommandName="上 弦杆; 上弦杆" CommandId="ID_TRUSS_TOP_CHORD_CURVE" Paths="创建&gt;详图; 上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="腹杆" CommandId="ID_TRUSS_WEB_CURVE" Paths="创建&gt;详图; 上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="下 弦杆; 下弦杆" CommandId="ID_TRUSS_BOTTOM_CHORD_CURVE" Paths="创建&gt;详图; 上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="线形钢筋" CommandId="ID_OBJECTS_REBAR_CURVE" Paths="创建&gt;绘制; 修改&gt;绘制" />
+  <ShortcutItem CommandName="优 弓形" CommandId="ID_MAJOR_SEGMENT" Paths="创建&gt;绘制; 修改&gt;绘制" />
+  <ShortcutItem CommandName="允许的 钢筋类型" CommandId="ID_REBAR_SHAPE_ALLOWABLE_BAR_TYPES" Paths="创建&gt;钢筋类型" />
+  <ShortcutItem CommandName="多平面" CommandId="ID_TURN_ON_MULTI_PLANAR_SHAPE" Paths="族编辑器&gt;族编辑器" />
+  <ShortcutItem CommandName="形状 状态" CommandId="ID_SHAPE_STATUS" Paths="族编辑器&gt;族编辑器" />
+  <ShortcutItem CommandName="载入到 项目" CommandId="ID_LOAD_INTO_PROJECTS_REBAR_SHAPE" Paths="族编辑器&gt;族编辑器" />
+  <ShortcutItem CommandName="载入到 项目并关闭" CommandId="ID_LOAD_INTO_PROJECTS_CLOSE_REBAR_SHAPE" Paths="族编辑器&gt;族编辑器" />
+  <ShortcutItem CommandName="放置 体量" CommandId="ID_OBJECTS_MASS" Paths="创建&gt;模型; 体量和场地&gt;概念体量" />
+  <ShortcutItem CommandName="在面上绘制" CommandId="Dialog_Essentials_GenhostCreate:Control_Essentials_DrawOnFaces" Paths="创建&gt;绘制; 修改&gt;绘制; 上下文选项卡&gt;放置" />
+  <ShortcutItem CommandName="在工作平面上绘制" CommandId="Dialog_Essentials_GenhostCreate:Control_Essentials_DrawOnWorkplane" Paths="创建&gt;绘制; 修改&gt;绘制; 上下文选项卡&gt;放置" />
+  <ShortcutItem CommandName="标高" CommandId="ID_OBJECTS_LEVEL" Shortcuts="LL" Paths="创建&gt;基准; 建筑&gt;基准; 结构&gt;基准" />
+  <ShortcutItem CommandName="其他 设置:日光设置" CommandId="ID_SETTINGS_SUNANDSHADOWSSETTINGS" Shortcuts="SU" Paths="管理&gt;设置" />
+  <ShortcutItem CommandName="地点" CommandId="ID_GEO_MANAGE_LOCATIONS" Paths="管理&gt;项目位置; 分析&gt;能量分析" />
+  <ShortcutItem CommandName="拆分面" CommandId="ID_SPLIT_FACE_IN_NEW_FAMILIES" Shortcuts="SF" Paths="修改&gt;几何图形" />
+  <ShortcutItem CommandName="重复" CommandId="ID_REPEAT_COMPONENT" Paths="修改&gt;修改" />
+  <ShortcutItem CommandName="墙; 墙:墙:建筑" CommandId="ID_OBJECTS_WALL" Shortcuts="WA" Paths="建筑&gt;构建; 结构&gt;结构" />
+  <ShortcutItem CommandName="墙:墙:结构" CommandId="ID_OBJECTS_STRUCTURAL_WALL" Paths="建筑&gt;构建; 结构&gt;结构" />
+  <ShortcutItem CommandName="墙:面墙" CommandId="ID_WALL_PICK_FACES" Paths="建筑&gt;构建; 体量和场地&gt;面模型; 上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="墙:墙:饰条" CommandId="ID_OBJECTS_CORNICE" Paths="建筑&gt;构建; 结构&gt;结构" />
+  <ShortcutItem CommandName="墙:墙:分隔条" CommandId="ID_OBJECTS_REVEAL" Paths="建筑&gt;构建; 结构&gt;结构" />
+  <ShortcutItem CommandName="门" CommandId="ID_OBJECTS_DOOR" Shortcuts="DR" Paths="建筑&gt;构建" />
+  <ShortcutItem CommandName="窗" CommandId="ID_OBJECTS_WINDOW" Shortcuts="WN" Paths="建筑&gt;构建" />
+  <ShortcutItem CommandName="构件:内建模型" CommandId="ID_INPLACE_COMPONENT" Paths="建筑&gt;构建; 结构&gt;模型; 系统&gt;模型" />
+  <ShortcutItem CommandName="柱; 结构柱" CommandId="ID_OBJECTS_STRUCTURAL_COLUMN" Shortcuts="CL" Paths="建筑&gt;构建; 结构&gt;结构" />
+  <ShortcutItem CommandName="柱:柱:建筑" CommandId="ID_OBJECTS_COLUMN" Paths="建筑&gt;构建" />
+  <ShortcutItem CommandName="屋顶; 迹线屋顶" CommandId="ID_ROOF_FOOTPRINT" Paths="建筑&gt;构建" />
+  <ShortcutItem CommandName="屋顶:拉伸屋顶" CommandId="ID_ROOF_EXTRUSION" Paths="建筑&gt;构建" />
+  <ShortcutItem CommandName="屋顶:面屋顶" CommandId="ID_ROOF_PICK_FACES" Paths="建筑&gt;构建; 体量和场地&gt;面模型" />
+  <ShortcutItem CommandName="屋顶:屋檐:底板" CommandId="ID_CREATE_SOFFIT_TB" Paths="建筑&gt;构建" />
+  <ShortcutItem CommandName="屋顶:屋顶:封檐板" CommandId="ID_CREATE_FASCIA_TB" Paths="建筑&gt;构建" />
+  <ShortcutItem CommandName="屋顶:屋顶:檐槽" CommandId="ID_CREATE_GUTTER_TB" Paths="建筑&gt;构建" />
+  <ShortcutItem CommandName="天花板; 自动创建 天花板" CommandId="ID_OBJECTS_CEILING" Paths="建筑&gt;构建; 上下文选项卡&gt;天花板" />
+  <ShortcutItem CommandName="楼板; 楼板:楼板:建筑" CommandId="ID_OBJECTS_FLOOR" Paths="建筑&gt;构建; 结构&gt;结构" />
+  <ShortcutItem CommandName="楼板:楼板:结构" CommandId="ID_OBJECTS_SLAB" Shortcuts="SB" Paths="建筑&gt;构建; 结构&gt;结构" />
+  <ShortcutItem CommandName="楼板:面楼板" CommandId="ID_FLOOR_PICK_FACES" Paths="建筑&gt;构建; 体量和场地&gt;面模型" />
+  <ShortcutItem CommandName="楼板:楼板:楼板边" CommandId="ID_CREATE_SLAB_EDGE_TB" Paths="建筑&gt;构建; 结构&gt;结构; 结构&gt;基础" />
+  <ShortcutItem CommandName="面幕墙系统" CommandId="ID_CURTA_SYSTEM_PICK_FACES" Paths="建筑&gt;构建; 体量和场地&gt;面模型" />
+  <ShortcutItem CommandName="幕墙 网格" CommandId="ID_OBJECTS_CW_GRID" Paths="建筑&gt;构建" />
+  <ShortcutItem CommandName="幕墙竖梃" CommandId="ID_OBJECTS_MULLION" Paths="建筑&gt;构建" />
+  <ShortcutItem CommandName="栏杆扶手" CommandId="ID_OBJECTS_RAILING" Paths="建筑&gt;楼梯坡道" />
+  <ShortcutItem CommandName="栏杆扶手:放置在楼梯/坡道上" CommandId="ID_OBJECTS_RAILING_ON_HOST" Paths="建筑&gt;楼梯坡道" />
+  <ShortcutItem CommandName="坡道" CommandId="ID_OBJECTS_RAMP" Paths="建筑&gt;楼梯坡道" />
+  <ShortcutItem CommandName="楼梯" CommandId="ID_OBJECTS_STAIRS" Paths="建筑&gt;楼梯坡道" />
+  <ShortcutItem CommandName="模型 线" CommandId="ID_OBJECTS_PROJECT_CURVE" Shortcuts="LI" Paths="建筑&gt;模型; 结构&gt;模型" />
+  <ShortcutItem CommandName="房间" CommandId="ID_OBJECTS_ROOM" Shortcuts="RM" Paths="建筑&gt;房间和面积" />
+  <ShortcutItem CommandName="房间 &#xA;分隔" CommandId="ID_OBJECTS_AREA_SEPARATION" Paths="建筑&gt;房间和面积" />
+  <ShortcutItem CommandName="标记 &#xA;房间; 标记房间; 房间 标记" CommandId="ID_OBJECTS_ROOM_TAG" Shortcuts="RT" Paths="建筑&gt;房间和面积; 注释&gt;标记" />
+  <ShortcutItem CommandName="标记 &#xA;房间:标记所有未标记的对象; 标记 &#xA;面积:标记所有未标记的对象" CommandId="ID_BUTTON_TAG_ALL" Paths="建筑&gt;房间和面积; 注释&gt;标记" />
+  <ShortcutItem CommandName="面积" CommandId="ID_OBJECTS_AREA" Paths="建筑&gt;房间和面积" />
+  <ShortcutItem CommandName="面积 &#xA;边界" CommandId="ID_OBJECTS_AREASCHEME_BOUNDARY" Paths="建筑&gt;房间和面积" />
+  <ShortcutItem CommandName="标记 &#xA;面积; 标记面积; 面积 标记" CommandId="ID_OBJECTS_AREA_TAG" Paths="建筑&gt;房间和面积; 注释&gt;标记" />
+  <ShortcutItem CommandName="颜色方案" CommandId="ID_SETTINGS_COLORFILLSCHEMES" Paths="建筑&gt;房间和面积; 分析&gt;空间和分区" />
+  <ShortcutItem CommandName="面积和体积计算" CommandId="ID_SETTING_AREACALCULATIONS" Paths="建筑&gt;房间和面积; 分析&gt;空间和分区" />
+  <ShortcutItem CommandName="面洞口" CommandId="ID_CREATE_OPENING_BY_FACE_TB" Paths="建筑&gt;洞口; 结构&gt;洞口" />
+  <ShortcutItem CommandName="竖井洞口" CommandId="ID_CREATE_SHAFT_OPENING_TB" Paths="建筑&gt;洞口; 结构&gt;洞口" />
+  <ShortcutItem CommandName="墙洞口" CommandId="ID_CREATE_WALL_OPENING_TB" Paths="建筑&gt;洞口; 结构&gt;洞口" />
+  <ShortcutItem CommandName="垂直洞口" CommandId="ID_CREATE_VERTICAL_OPENING_TB" Paths="建筑&gt;洞口; 结构&gt;洞口" />
+  <ShortcutItem CommandName="老虎窗洞口" CommandId="ID_CREATE_DORMER_OPENING_TB" Paths="建筑&gt;洞口; 结构&gt;洞口" />
+  <ShortcutItem CommandName="轴网" CommandId="ID_OBJECTS_GRID" Shortcuts="GR" Paths="建筑&gt;基准; 结构&gt;基准" />
+  <ShortcutItem CommandName="结构框架:梁" CommandId="ID_OBJECTS_BEAM" Shortcuts="BM" Paths="结构&gt;结构" />
+  <ShortcutItem CommandName="结构桁架" CommandId="ID_OBJECTS_TRUSS" Paths="结构&gt;结构" />
+  <ShortcutItem CommandName="结构框架:支撑" CommandId="ID_OBJECTS_BRACE" Shortcuts="BR" Paths="结构&gt;结构" />
+  <ShortcutItem CommandName="结构梁系统; 自动创建 梁系统" CommandId="ID_OBJECTS_JOIST_SYSTEM" Shortcuts="BS" Paths="结构&gt;结构; 上下文选项卡&gt;梁系统" />
+  <ShortcutItem CommandName="结构连接" CommandId="ID_STRUCTURAL_CONNECTION_DIRECT_CREATION" Paths="结构&gt;连接; 钢&gt;连接" />
+  <ShortcutItem CommandName="在视图中显示警告" CommandId="ID_TOGGLE_STRUCTCONNECTIONS_SHOW_WARNINGS" Paths="结构&gt;连接; 钢&gt;连接" />
+  <ShortcutItem CommandName="结构基础:独立" CommandId="ID_OBJECTS_ISOLATED_FOOTING" Paths="结构&gt;基础" />
+  <ShortcutItem CommandName="结构基础:墙" CommandId="ID_OBJECTS_CONTINUOUS_FOOTING" Shortcuts="FT" Paths="结构&gt;基础" />
+  <ShortcutItem CommandName="板; 结构基础:楼板" CommandId="ID_OBJECTS_FOOTING_SLAB" Paths="结构&gt;基础" />
+  <ShortcutItem CommandName="结构钢筋" CommandId="ID_REBAR_PLACE" Paths="结构&gt;钢筋; 上下文选项卡&gt;钢筋; 上下文选项卡&gt;放置方法" />
+  <ShortcutItem CommandName="结构区域钢筋" CommandId="ID_REBAR_SYSTEM_SKETCH" Paths="结构&gt;钢筋" />
+  <ShortcutItem CommandName="结构路径钢筋" CommandId="ID_PATH_REIN_SKETCH" Paths="结构&gt;钢筋" />
+  <ShortcutItem CommandName="结构钢筋网区域" CommandId="ID_FABRIC_DISTR_SYSTEM_SKETCH" Paths="结构&gt;钢筋" />
+  <ShortcutItem CommandName="单钢筋网片放置" CommandId="ID_FABRIC_SINGLE_PLACEMENT" Paths="结构&gt;钢筋; 上下文选项卡&gt;钢筋" />
+  <ShortcutItem CommandName="编辑钢筋保护层" CommandId="ID_CONCRETE_COVER" Paths="结构&gt;钢筋" />
+  <ShortcutItem CommandName="结构钢筋接头" CommandId="ID_REBAR_COUPLER" Paths="结构&gt;钢筋" />
+  <ShortcutItem CommandName="钢筋保护层设置" CommandId="ID_REBAR_COVER_SETTINGS" Paths="结构&gt;钢筋" />
+  <ShortcutItem CommandName="钢筋设置" CommandId="ID_REBAR_ABBREVIATION" Paths="结构&gt;钢筋" />
+  <ShortcutItem CommandName="钢筋编号" CommandId="ID_NUMBERING_REINF_PARTITIONS" Shortcuts="RN" Paths="结构&gt;钢筋" />
+  <ShortcutItem CommandName="板" CommandId="ID_CREATE_EXT_ENTITY_PLATE" Paths="钢&gt;预制图元; " />
+  <ShortcutItem CommandName="螺栓" CommandId="ID_CREATE_EXT_ENTITY_BOLT" Paths="钢&gt;预制图元; " />
+  <ShortcutItem CommandName="螺栓:锚固件" CommandId="ID_CREATE_EXT_ENTITY_ANCHOR" Paths="钢&gt;预制图元; " />
+  <ShortcutItem CommandName="螺栓:孔" CommandId="ID_CREATE_EXT_ENTITY_HOLE" Paths="钢&gt;预制图元; " />
+  <ShortcutItem CommandName="螺栓:剪力钉" CommandId="ID_CREATE_EXT_ENTITY_SHEAR_STUD" Paths="钢&gt;预制图元; " />
+  <ShortcutItem CommandName="焊缝" CommandId="ID_CREATE_EXT_ENTITY_WELD" Paths="钢&gt;预制图元; " />
+  <ShortcutItem CommandName="角点 &#xA;切割" CommandId="ID_CREATE_EXT_ENTITY_CORNER_CUT" Paths="钢&gt;修改器; " />
+  <ShortcutItem CommandName="连接端切割 &#xA;倾斜" CommandId="ID_CREATE_EXT_ENTITY_BEAM_COPE" Paths="钢&gt;修改器; " />
+  <ShortcutItem CommandName="缩短" CommandId="ID_CREATE_EXT_ENTITY_SHORTENING" Paths="钢&gt;修改器; " />
+  <ShortcutItem CommandName="等高线 &#xA;切割" CommandId="ID_CREATE_EXT_ENTITY_CONTOUR" Paths="钢&gt;修改器; " />
+  <ShortcutItem CommandName="连接端切割" CommandId="ID_STEEL_PARAM_CUT_COPE" Paths="钢&gt;参数化切割" />
+  <ShortcutItem CommandName="斜接" CommandId="ID_STEEL_PARAM_CUT_MITER" Paths="钢&gt;参数化切割" />
+  <ShortcutItem CommandName="斜接:锯切 - 法兰" CommandId="ID_STEEL_PARAM_CUT_SAW_CUT_FLANGE" Paths="钢&gt;参数化切割" />
+  <ShortcutItem CommandName="斜接:锯切 - 腹板" CommandId="ID_STEEL_PARAM_CUT_SAW_CUT_WEB" Paths="钢&gt;参数化切割" />
+  <ShortcutItem CommandName="切割" CommandId="ID_STEEL_PARAM_CUT_THROUGH" Paths="钢&gt;参数化切割" />
+  <ShortcutItem CommandName="切割方式" CommandId="ID_STEEL_PARAM_CUT_BY" Paths="钢&gt;参数化切割" />
+  <ShortcutItem CommandName="风管" CommandId="ID_RBS_MECHANICAL_DUCT" Shortcuts="DT" Paths="系统&gt;HVAC" />
+  <ShortcutItem CommandName="风管 占位符" CommandId="ID_DUCT_1LINE_PATH" Paths="系统&gt;HVAC" />
+  <ShortcutItem CommandName="风管 管件" CommandId="ID_RBS_MECHANICAL_FITTING" Shortcuts="DF" Paths="系统&gt;HVAC" />
+  <ShortcutItem CommandName="风管 附件" CommandId="ID_RBS_MECHANICAL_ACCESSORY" Shortcuts="DA" Paths="系统&gt;HVAC" />
+  <ShortcutItem CommandName="转换为 软风管" CommandId="ID_RBS_MECHANICAL_CONVERTTOFLEX" Shortcuts="CV" Paths="系统&gt;HVAC" />
+  <ShortcutItem CommandName="软 风管" CommandId="ID_RBS_MECHANICAL_FLEX" Shortcuts="FD" Paths="系统&gt;HVAC" />
+  <ShortcutItem CommandName="风道 末端" CommandId="ID_RBS_MECHANICAL_DIFFUSER" Shortcuts="AT" Paths="系统&gt;HVAC" />
+  <ShortcutItem CommandName="多点 &#xA;布线" CommandId="ID_FABRICATION_PART_START_MPR" Shortcuts="MR" Paths="系统&gt;预制" />
+  <ShortcutItem CommandName="P&amp;ID 模型转换" CommandId="ID_MEP_PNID_MODELER" Paths="系统&gt;P&amp;ID 协作" />
+  <ShortcutItem CommandName="机械 设备" CommandId="ID_RBS_MECHANICAL_EQUIPMENT" Shortcuts="ME" Paths="系统&gt;机械" />
+  <ShortcutItem CommandName="管道" CommandId="ID_RBS_PIPE_PIPE" Shortcuts="PI" Paths="系统&gt;卫浴和管道" />
+  <ShortcutItem CommandName="管道 占位符" CommandId="ID_PIPE_1LINE_PATH" Paths="系统&gt;卫浴和管道" />
+  <ShortcutItem CommandName="平行 管道" CommandId="ID_PARALLEL_PIPES" Paths="系统&gt;卫浴和管道" />
+  <ShortcutItem CommandName="管 件" CommandId="ID_RBS_PIPE_FITTING" Shortcuts="PF" Paths="系统&gt;卫浴和管道" />
+  <ShortcutItem CommandName="管路 附件" CommandId="ID_RBS_PIPE_ACCESSORY" Shortcuts="PA" Paths="系统&gt;卫浴和管道" />
+  <ShortcutItem CommandName="软 管" CommandId="ID_RBS_PIPE_FLEX" Shortcuts="FP" Paths="系统&gt;卫浴和管道" />
+  <ShortcutItem CommandName="卫浴 装置" CommandId="ID_RBS_PLUMBING_FIXTURE" Shortcuts="PX" Paths="系统&gt;卫浴和管道" />
+  <ShortcutItem CommandName="喷头" CommandId="ID_RBS_SPRINKLER" Shortcuts="SK" Paths="系统&gt;卫浴和管道" />
+  <ShortcutItem CommandName="弧形导线" CommandId="ID_RBS_ELECTRICAL_WIRE" Shortcuts="EW" Paths="系统&gt;电气" />
+  <ShortcutItem CommandName="样条曲线导线" CommandId="ID_RBS_ELECTRICAL_WIRE_SPLINE" Paths="系统&gt;电气" />
+  <ShortcutItem CommandName="带倒角导线" CommandId="ID_RBS_ELECTRICAL_WIRE_CHAMFER" Paths="系统&gt;电气" />
+  <ShortcutItem CommandName="电缆 桥架" CommandId="ID_RBS_CABLE_TRAY" Shortcuts="CT" Paths="系统&gt;电气" />
+  <ShortcutItem CommandName="线管" CommandId="ID_RBS_CONDUIT" Shortcuts="CN" Paths="系统&gt;电气" />
+  <ShortcutItem CommandName="平行 线管" CommandId="ID_PARALLEL_CONDUIT" Paths="系统&gt;电气" />
+  <ShortcutItem CommandName="电缆桥架 配件" CommandId="ID_RBS_CABLETRAY_FITTING" Shortcuts="TF" Paths="系统&gt;电气" />
+  <ShortcutItem CommandName="线管 配件" CommandId="ID_RBS_CONDUIT_FITTING" Shortcuts="NF" Paths="系统&gt;电气" />
+  <ShortcutItem CommandName="电气 设备" CommandId="ID_RBS_ELECTRICAL_EQUIPMENT" Shortcuts="EE" Paths="系统&gt;电气" />
+  <ShortcutItem CommandName="电气装置" CommandId="ID_RBS_ELECTRICAL_DEVICE" Paths="系统&gt;电气" />
+  <ShortcutItem CommandName="通讯" CommandId="ID_RBS_ELECTRICAL_COMMUNICATION_DEVICE" Paths="系统&gt;电气" />
+  <ShortcutItem CommandName="数据" CommandId="ID_RBS_ELECTRICAL_DATA_DEVICE" Paths="系统&gt;电气" />
+  <ShortcutItem CommandName="火警" CommandId="ID_RBS_ELECTRICAL_FIREALARM_DEVICE" Paths="系统&gt;电气" />
+  <ShortcutItem CommandName="照明" CommandId="ID_RBS_ELECTRICAL_LIGHTING_DEVICE" Paths="系统&gt;电气" />
+  <ShortcutItem CommandName="护理呼叫" CommandId="ID_RBS_ELECTRICAL_NURSECALL_DEVICE" Paths="系统&gt;电气" />
+  <ShortcutItem CommandName="安全" CommandId="ID_RBS_ELECTRICAL_SECURITY_DEVICE" Paths="系统&gt;电气" />
+  <ShortcutItem CommandName="电话" CommandId="ID_RBS_ELECTRICAL_TELEPHONE_DEVICE" Paths="系统&gt;电气" />
+  <ShortcutItem CommandName="照明 设备" CommandId="ID_RBS_LIGHTING_FIXTURE" Shortcuts="LF" Paths="系统&gt;电气" />
+  <ShortcutItem CommandName="线性尺寸标注" CommandId="ID_ANNOTATIONS_DIMENSION_LINEAR" Paths="注释&gt;尺寸标注; 修改&gt;测量; 上下文选项卡&gt;尺寸标注" />
+  <ShortcutItem CommandName="高程点" CommandId="ID_SPOT_ELEVATION" Shortcuts="EL" Paths="注释&gt;尺寸标注; 修改&gt;测量; 上下文选项卡&gt;尺寸标注" />
+  <ShortcutItem CommandName="高程点 &#xA;坐标; 高程点坐标" CommandId="ID_SPOT_COORDINATE" Paths="注释&gt;尺寸标注; 修改&gt;测量; 上下文选项卡&gt;尺寸标注" />
+  <ShortcutItem CommandName="高程点 &#xA;坡度; 高程点坡度" CommandId="ID_SPOT_SLOPE" Paths="注释&gt;尺寸标注; 修改&gt;测量; 上下文选项卡&gt;尺寸标注" />
+  <ShortcutItem CommandName="高程点类型" CommandId="ID_SETTINGS_SPOT_ELEVATION" Paths="注释&gt;尺寸标注" />
+  <ShortcutItem CommandName="高程点坐标类型" CommandId="ID_SETTINGS_SPOT_COORDINATE" Paths="注释&gt;尺寸标注" />
+  <ShortcutItem CommandName="高程点坡度类型" CommandId="ID_SETTINGS_SPOT_SLOPE" Paths="注释&gt;尺寸标注" />
+  <ShortcutItem CommandName="详图 线" CommandId="ID_OBJECTS_DETAIL_CURVES" Shortcuts="DL" Paths="注释&gt;详图" />
+  <ShortcutItem CommandName="重复详图构件" CommandId="ID_OBJECTS_REPEATING_DETAIL" Paths="注释&gt;详图" />
+  <ShortcutItem CommandName="图例构件" CommandId="ID_OBJECTS_LEGEND_COMPONENT" Paths="注释&gt;详图" />
+  <ShortcutItem CommandName="云线 批注" CommandId="ID_OBJECTS_CLOUD" Paths="注释&gt;详图" />
+  <ShortcutItem CommandName="隔热层" CommandId="ID_OBJECTS_INSULATION" Paths="注释&gt;详图" />
+  <ShortcutItem CommandName="按类别 标记; 按类别标记" CommandId="ID_BUTTON_TAG" Shortcuts="TG" Paths="注释&gt;标记; 快速访问工具栏" />
+  <ShortcutItem CommandName="梁 注释" CommandId="ID_BEAM_ANNOTATION_PLACEMENT" Paths="注释&gt;标记" />
+  <ShortcutItem CommandName="多类别标记" CommandId="ID_TAG_MULTI" Paths="注释&gt;标记" />
+  <ShortcutItem CommandName="材质 标记" CommandId="ID_TAG_MATERIAL" Paths="注释&gt;标记" />
+  <ShortcutItem CommandName="空间 标记" CommandId="ID_OBJECTS_MEP_SPACE_TAG" Paths="注释&gt;标记; 分析&gt;空间和分区" />
+  <ShortcutItem CommandName="视图 参照" CommandId="ID_NEW_REFERENCE_VIEWER" Paths="注释&gt;标记; 视图&gt;图纸组合" />
+  <ShortcutItem CommandName="楼梯踏板/踢面数量" CommandId="ID_STAIRS_TRISER_NUMBER" Paths="注释&gt;标记" />
+  <ShortcutItem CommandName="对齐的多钢筋注释" CommandId="ID_MULTI_REFERENCE_ANNOTATION_ALIGNED" Paths="注释&gt;标记" />
+  <ShortcutItem CommandName="线性多钢筋注释" CommandId="ID_MULTI_REFERENCE_ANNOTATION_LINEAR" Paths="注释&gt;标记" />
+  <ShortcutItem CommandName="图元注释记号" CommandId="ID_KEYNOTE_ELEMENT" Paths="注释&gt;标记" />
+  <ShortcutItem CommandName="材质注释记号" CommandId="ID_KEYNOTE_MATERIAL" Paths="注释&gt;标记" />
+  <ShortcutItem CommandName="用户注释记号" CommandId="ID_KEYNOTE_USER" Paths="注释&gt;标记" />
+  <ShortcutItem CommandName="载入的标记和符号" CommandId="ID_SETTINGS_TAGS" Paths="注释&gt;标记" />
+  <ShortcutItem CommandName="风管 图例" CommandId="ID_RBS_MECHANICAL_COLOR_FILL" Paths="注释&gt;颜色填充; 分析&gt;颜色填充" />
+  <ShortcutItem CommandName="管道 图例" CommandId="ID_RBS_PIPING_COLOR_FILL" Paths="注释&gt;颜色填充; 分析&gt;颜色填充" />
+  <ShortcutItem CommandName="颜色填充 图例" CommandId="ID_OBJECTS_ROOM_FILL" Paths="注释&gt;颜色填充; 分析&gt;颜色填充" />
+  <ShortcutItem CommandName="跨方向符号" CommandId="ID_OBJECTS_SPAN_DIR_SYM" Paths="注释&gt;符号" />
+  <ShortcutItem CommandName="梁系统符号" CommandId="ID_OBJECTS_BEAM_SYSTEM_TAG" Paths="注释&gt;符号" />
+  <ShortcutItem CommandName="楼梯 &#xA;路径" CommandId="ID_OBJECTS_STAIRS_PATH" Paths="注释&gt;符号" />
+  <ShortcutItem CommandName="区域钢筋符号" CommandId="ID_OBJECTS_REBAR_SYSTEM_SPAN_SYM" Paths="注释&gt;符号" />
+  <ShortcutItem CommandName="路径钢筋符号" CommandId="ID_OBJECTS_PATH_REIN_SPAN_SYM" Paths="注释&gt;符号" />
+  <ShortcutItem CommandName="钢筋网符号" CommandId="ID_FABRIC_SYSTEM_PLACE_SPANSYMBOL" Paths="注释&gt;符号" />
+  <ShortcutItem CommandName="边界 &#xA;条件" CommandId="ID_OBJECT_BC" Paths="分析&gt;分析模型" />
+  <ShortcutItem CommandName="荷载" CommandId="ID_OBJECT_LOADS" Shortcuts="LD" Paths="分析&gt;分析模型" />
+  <ShortcutItem CommandName="荷载 &#xA;工况" CommandId="ID_STRUCTURAL_SETTINGS_LOAD_CASES" Paths="分析&gt;分析模型" />
+  <ShortcutItem CommandName="荷载 &#xA;组合" CommandId="ID_STRUCTURAL_SETTINGS_LOAD_COMB" Paths="分析&gt;分析模型" />
+  <ShortcutItem CommandName="调整分析模型" CommandId="ID_AM_EDIT_MODE_START" Shortcuts="AA" Paths="分析&gt;分析模型工具; 上下文选项卡&gt;分析模型" />
+  <ShortcutItem CommandName="重设分析模型" CommandId="ID_RESET_ANALYTICAL_MODEL" Shortcuts="RA" Paths="分析&gt;分析模型工具" />
+  <ShortcutItem CommandName="检查构件支座" CommandId="ID_COMMAND_CHECK_MEMBER_SUPPORTS" Paths="分析&gt;分析模型工具" />
+  <ShortcutItem CommandName="分析一致性检查" CommandId="ID_COMMAND_ANALYTICAL_CONSISTENCY_CHECKS" Paths="分析&gt;分析模型工具" />
+  <ShortcutItem CommandName="空间" CommandId="ID_OBJECTS_MEP_SPACE" Paths="分析&gt;空间和分区" />
+  <ShortcutItem CommandName="空间 分隔符" CommandId="ID_OBJECTS_MEP_SPACE_SEPARATION" Paths="分析&gt;空间和分区" />
+  <ShortcutItem CommandName="空间 &#xA;命名" CommandId="ID_MEP_SPACE_NAMING_UTILITY" Paths="分析&gt;空间和分区" />
+  <ShortcutItem CommandName="分区" CommandId="ID_RBS_HVAC_ZONE" Paths="分析&gt;空间和分区" />
+  <ShortcutItem CommandName="热负荷和 冷负荷" CommandId="ID_RBS_HVAC_LOADS" Shortcuts="LO" Paths="分析&gt;报告和明细表" />
+  <ShortcutItem CommandName="配电盘 明细表" CommandId="ID_RBS_VIEW_PANEL_SCHEDULE" Shortcuts="PS" Paths="分析&gt;报告和明细表" />
+  <ShortcutItem CommandName="风管压力 &#xA;损失报告" CommandId="ID_MEP_DUCT_PRESSURE_LOSS_REPORT" Paths="分析&gt;报告和明细表" />
+  <ShortcutItem CommandName="管道压力 &#xA;损失报告" CommandId="ID_MEP_PIPE_PRESSURE_LOSS_REPORT" Paths="分析&gt;报告和明细表" />
+  <ShortcutItem CommandName="检查风管 系统" CommandId="ID_RBS_CHECK_DUCT_SYSTEMS" Shortcuts="DC" Paths="分析&gt;检查系统" />
+  <ShortcutItem CommandName="检查管道 系统" CommandId="ID_RBS_CHECK_PIPE_SYSTEMS" Shortcuts="PC" Paths="分析&gt;检查系统" />
+  <ShortcutItem CommandName="检查 线路" CommandId="ID_RBS_CHECK_CIRCUITS" Shortcuts="EC" Paths="分析&gt;检查系统" />
+  <ShortcutItem CommandName="显示 隔离开关" CommandId="ID_SHOWDISCONNECTS_BUTTON" Paths="分析&gt;检查系统" />
+  <ShortcutItem CommandName="创建 &#xA;能量模型" CommandId="ID_ENABLE_ENERGY_ANALYSIS" Paths="分析&gt;能量分析" />
+  <ShortcutItem CommandName="删除 &#xA;能量模型" CommandId="ID_DISABLE_ENERGY_ANALYSIS" Paths="分析&gt;能量分析" />
+  <ShortcutItem CommandName="生成" CommandId="ID_CEA_LAUNCH_ANALYSIS" Paths="分析&gt;能量分析" />
+  <ShortcutItem CommandName="优化" CommandId="ID_CEA_OPTIMIZE" Paths="分析&gt;能量分析" />
+  <ShortcutItem CommandName="能量 设置" CommandId="ID_CEA_VIEW_ENERGY_DATA" Paths="分析&gt;能量分析" />
+  <ShortcutItem CommandName="按视图 设置显示体量" CommandId="ID_SHOW_MASS_NO_OVERRIDE" Paths="体量和场地&gt;概念体量" />
+  <ShortcutItem CommandName="显示体量 形状和楼层" CommandId="ID_SHOW_MASS_STANDARD" Paths="体量和场地&gt;概念体量" />
+  <ShortcutItem CommandName="显示体量 表面类型" CommandId="ID_SHOW_MASS_SURFACES" Paths="体量和场地&gt;概念体量" />
+  <ShortcutItem CommandName="显示体量 分区和着色" CommandId="ID_SHOW_MASS_ZONES" Paths="体量和场地&gt;概念体量" />
+  <ShortcutItem CommandName="内建 体量" CommandId="ID_INPLACE_MASS" Paths="体量和场地&gt;概念体量" />
+  <ShortcutItem CommandName="地形表面" CommandId="ID_SITE_TOPO_SURFACE" Paths="体量和场地&gt;场地建模" />
+  <ShortcutItem CommandName="场地 构件" CommandId="ID_SITE_COMPONENT" Paths="体量和场地&gt;场地建模" />
+  <ShortcutItem CommandName="停车场 构件" CommandId="ID_SITE_PARKING_COMPONENT" Paths="体量和场地&gt;场地建模" />
+  <ShortcutItem CommandName="建筑 地坪" CommandId="ID_SITE_BUILDINGPAD" Paths="体量和场地&gt;场地建模" />
+  <ShortcutItem CommandName="拆分 表面" CommandId="ID_SPLIT_SURFACE" Paths="体量和场地&gt;修改场地" />
+  <ShortcutItem CommandName="合并 表面" CommandId="ID_MERGE_SURFACE" Paths="体量和场地&gt;修改场地" />
+  <ShortcutItem CommandName="子面域" CommandId="ID_SITE_AREA" Paths="体量和场地&gt;修改场地" />
+  <ShortcutItem CommandName="建筑 红线" CommandId="ID_SITE_PROPERTYLINE" Paths="体量和场地&gt;修改场地" />
+  <ShortcutItem CommandName="平整 区域" CommandId="ID_SITE_GRADE" Paths="体量和场地&gt;修改场地" />
+  <ShortcutItem CommandName="标记 等高线" CommandId="ID_SITE_LABEL_CONTOURS" Paths="体量和场地&gt;修改场地" />
+  <ShortcutItem CommandName="正在编辑 &#xA;请求" CommandId="ID_WORKSET_EDITING_REQUESTS" Shortcuts="ER" Paths="协作&gt;通信" />
+  <ShortcutItem CommandName="协作" CommandId="ID_COLLABORATE" Paths="协作&gt;管理协作" />
+  <ShortcutItem CommandName="在云中 &#xA;进行协作" CommandId="ID_COLLABORATE_360" Paths="协作&gt;管理协作" />
+  <ShortcutItem CommandName="工作集" CommandId="ID_SETTINGS_PARTITIONS" Paths="协作&gt;管理协作" />
+  <ShortcutItem CommandName="以灰色显示非活动工作集" CommandId="ID_GRAY_INACTIVE_WORKSET_GRAPHICS" Paths="协作&gt;管理协作" />
+  <ShortcutItem CommandName="与中心文件同步:同步并修改设置" CommandId="ID_FILE_SAVE_TO_MASTER" Paths="协作&gt;同步; 快速访问工具栏" />
+  <ShortcutItem CommandName="与中心文件同步:立即同步" CommandId="ID_FILE_SAVE_TO_MASTER_SHORTCUT" Paths="协作&gt;同步; 快速访问工具栏" />
+  <ShortcutItem CommandName="重新载入 最新工作集" CommandId="ID_WORKSETS_RELOAD_LATEST" Shortcuts="RL#RW" Paths="协作&gt;同步" />
+  <ShortcutItem CommandName="放弃 全部请求" CommandId="ID_RELINQUISH_ALL_MINE" Paths="协作&gt;同步" />
+  <ShortcutItem CommandName="管理到 Revit Server Accelerator 的连接" CommandId="ID_MANAGE_CONNECTION_TO_A_REVIT_SERVER_ACCELERATOR" Paths="协作&gt;同步" />
+  <ShortcutItem CommandName="显示 &#xA;历史记录" CommandId="ID_PARTITIONS_SHOW_HISTORY" Paths="协作&gt;管理模型" />
+  <ShortcutItem CommandName="恢复 &#xA;备份" CommandId="ID_FILE_BACKUPS" Paths="协作&gt;管理模型" />
+  <ShortcutItem CommandName="管理 &#xA;云模型" CommandId="ID_COLLABORATE_BROWSER" Paths="协作&gt;管理模型" />
+  <ShortcutItem CommandName="发布 &#xA;设置" CommandId="ID_VIEWS_FOR_A360" Paths="协作&gt;管理模型" />
+  <ShortcutItem CommandName="修复中心模型" CommandId="ID_REPAIR_CENTRAL_MODEL" Paths="协作&gt;管理模型" />
+  <ShortcutItem CommandName="复制/ 监视:使用当前项目" CommandId="ID_COPY_WATCH_CURRENT" Paths="协作&gt;坐标" />
+  <ShortcutItem CommandName="复制/ 监视:选择链接" CommandId="ID_COPY_WATCH_LINK" Paths="协作&gt;坐标" />
+  <ShortcutItem CommandName="协调 查阅:使用当前项目" CommandId="ID_RECONCILE_CURRENT" Paths="协作&gt;坐标" />
+  <ShortcutItem CommandName="协调 查阅:选择链接" CommandId="ID_RECONCILE_LINK" Paths="协作&gt;坐标" />
+  <ShortcutItem CommandName="坐标 设置" CommandId="ID_COPY_SETTINGS" Paths="协作&gt;坐标; 上下文选项卡&gt;工具" />
+  <ShortcutItem CommandName="协调 主体" CommandId="ID_TOGGLE_HOST_BY_LINK_BROWSER" Paths="协作&gt;坐标; 上下文选项卡&gt;主体" />
+  <ShortcutItem CommandName="碰撞 检查:运行碰撞检查" CommandId="ID_INTERFERENCE_CHECK" Paths="协作&gt;坐标" />
+  <ShortcutItem CommandName="碰撞 检查:显示上一个报告" CommandId="ID_INTERFERENCE_REPORT" Paths="协作&gt;坐标" />
+  <ShortcutItem CommandName="视图 样板:将样板属性应用于当前视图" CommandId="ID_APPLY_VIEW_TEMPLATE" Paths="视图&gt;图形" />
+  <ShortcutItem CommandName="视图 样板:从当前视图创建样板" CommandId="ID_CREATE_VIEW_TEMPLATE" Paths="视图&gt;图形" />
+  <ShortcutItem CommandName="视图 样板:管理视图样板" CommandId="ID_SETTINGS_VIEWTEMPLATES" Paths="视图&gt;图形" />
+  <ShortcutItem CommandName="过滤器" CommandId="ID_SETTINGS_FILTERS" Paths="视图&gt;图形" />
+  <ShortcutItem CommandName="显示隐藏线(按图元)" CommandId="ID_HIDE_ELEMENTS_EDITOR" Paths="视图&gt;图形" />
+  <ShortcutItem CommandName="删除隐藏线(按图元)" CommandId="ID_UNHIDE_ELEMENTS_EDITOR" Paths="视图&gt;图形" />
+  <ShortcutItem CommandName="剖切面 轮廓" CommandId="ID_EDIT_CUT_BOUNDARY" Paths="视图&gt;图形" />
+  <ShortcutItem CommandName="渲染" CommandId="ID_PHOTO_RENDERING_VIEW" Shortcuts="RR" Paths="视图&gt;演示视图; 视图控制栏" />
+  <ShortcutItem CommandName="在云中 &#xA;渲染" CommandId="ID_PHOTO_RENDER_IN_CLOUD" Shortcuts="RD" Paths="视图&gt;演示视图; 视图控制栏" />
+  <ShortcutItem CommandName="渲染 &#xA;库" CommandId="ID_PHOTO_RENDER_GALLERY" Shortcuts="RG" Paths="视图&gt;演示视图; 视图控制栏" />
+  <ShortcutItem CommandName="详图索引" CommandId="ID_VIEW_NEW_CALLOUT" Paths="视图&gt;创建" />
+  <ShortcutItem CommandName="详图索引:草图" CommandId="ID_VIEW_NEW_CALLOUT_SKETCH" Paths="视图&gt;创建" />
+  <ShortcutItem CommandName="绘图 视图" CommandId="ID_VIEW_NEW_DRAFTING" Paths="视图&gt;创建" />
+  <ShortcutItem CommandName="范围 框" CommandId="ID_VOLUME_OF_INTEREST" Paths="视图&gt;创建" />
+  <ShortcutItem CommandName="图纸; 新建 图纸" CommandId="ID_VIEW_NEW_SHEET" Paths="视图&gt;图纸组合; 上下文选项卡&gt;创建" />
+  <ShortcutItem CommandName="放置视图" CommandId="ID_VIEW_PLACE_VIEW" Paths="视图&gt;图纸组合" />
+  <ShortcutItem CommandName="标题 栏" CommandId="ID_OBJECTS_PLACE_TITLEBLOCK" Paths="视图&gt;图纸组合" />
+  <ShortcutItem CommandName="图纸发布/修订; 其他 设置:图纸发布/修订" CommandId="ID_SETTINGS_REVISIONS" Paths="视图&gt;图纸组合; 管理&gt;设置" />
+  <ShortcutItem CommandName="导向 轴网" CommandId="ID_CREATE_GUIDE_GRID" Paths="视图&gt;图纸组合" />
+  <ShortcutItem CommandName="拼接线" CommandId="ID_NEW_MATCHLINE" Paths="视图&gt;图纸组合" />
+  <ShortcutItem CommandName="视口:激活视图; 激活 视图" CommandId="ID_VIEWPORT_ACTIVATE" Paths="视图&gt;图纸组合; 上下文选项卡&gt;视口; 关联菜单" />
+  <ShortcutItem CommandName="视口:取消激活视图" CommandId="ID_VIEWPORT_ACTIVATE_BASE" Paths="视图&gt;图纸组合; 关联菜单" />
+  <ShortcutItem CommandName="项目 信息" CommandId="ID_SETTINGS_PROJECT_INFORMATION" Paths="管理&gt;设置" />
+  <ShortcutItem CommandName="项目 参数" CommandId="ID_SETTINGS_PROJECT_PARAMETERS" Paths="管理&gt;设置" />
+  <ShortcutItem CommandName="全局 &#xA;参数" CommandId="ID_SETTINGS_GLOBAL_PARAMETERS" Shortcuts="GL" Paths="管理&gt;设置" />
+  <ShortcutItem CommandName="MEP 设置:机械设置" CommandId="ID_RBS_MECHANICAL_SETTINGS" Shortcuts="MS" Paths="管理&gt;设置" />
+  <ShortcutItem CommandName="MEP 设置:电气设置" CommandId="ID_RBS_ELECTRICAL_SETTINGS" Shortcuts="ES" Paths="管理&gt;设置" />
+  <ShortcutItem CommandName="MEP 设置:预制设置" CommandId="ID_MEP_FABRICATION_SETTINGS" Shortcuts="FS" Paths="管理&gt;设置" />
+  <ShortcutItem CommandName="MEP 设置:建筑/空间类型设置" CommandId="ID_RBS_BUILDINGSPACE_TYPE_SETTINGS" Shortcuts="BS" Paths="管理&gt;设置" />
+  <ShortcutItem CommandName="MEP 设置:P&amp;ID 设置" CommandId="ID_MEP_PNID_SETTINGS" Paths="管理&gt;设置" />
+  <ShortcutItem CommandName="其他 设置:材质资源" CommandId="ID_SETTINGS_RENDERING_APPEARANCE" Paths="管理&gt;设置" />
+  <ShortcutItem CommandName="其他 设置:半色调/基线" CommandId="ID_SETTINGS_HALFTONE" Paths="管理&gt;设置" />
+  <ShortcutItem CommandName="其他 设置:详图索引标记" CommandId="ID_VIEWTAGSTYLES_CALLOUTTAGS" Paths="管理&gt;设置" />
+  <ShortcutItem CommandName="其他 设置:立面标记" CommandId="ID_VIEWTAGSTYLES_ELEVATIONTAGS" Paths="管理&gt;设置" />
+  <ShortcutItem CommandName="坐标:获取坐标" CommandId="ID_GEO_ACQUIRE_COORDINATES" Paths="管理&gt;项目位置" />
+  <ShortcutItem CommandName="坐标:发布坐标" CommandId="ID_GEO_PUBLISH_COORDINATES" Paths="管理&gt;项目位置" />
+  <ShortcutItem CommandName="坐标:在点上指定坐标" CommandId="ID_SPECIFY_SHARED_COORDINATES" Paths="管理&gt;项目位置" />
+  <ShortcutItem CommandName="坐标:报告共享坐标" CommandId="ID_REPORT_SHARED_COORDINATES" Paths="管理&gt;项目位置" />
+  <ShortcutItem CommandName="位置:重新定位项目" CommandId="ID_RELOCATE_SHARED_COORDINATES" Paths="管理&gt;项目位置" />
+  <ShortcutItem CommandName="位置:旋转正北" CommandId="ID_ROTATE_SHARED_COORDINATES" Paths="管理&gt;项目位置" />
+  <ShortcutItem CommandName="位置:镜像项目" CommandId="ID_MIRROR_PROJECT" Paths="管理&gt;项目位置" />
+  <ShortcutItem CommandName="位置:旋转项目北" CommandId="ID_ROTATE_PROJECT" Paths="管理&gt;项目位置" />
+  <ShortcutItem CommandName="设计 选项" CommandId="ID_EDIT_DESIGNOPTIONS" Paths="管理&gt;设计选项" />
+  <ShortcutItem CommandName="添加到集" CommandId="ID_EDIT_ADDTODESIGNOPTIONSET" Paths="管理&gt;设计选项" />
+  <ShortcutItem CommandName="拾取以进行编辑" CommandId="ID_EDIT_PICKS_OPTION" Paths="管理&gt;设计选项" />
+  <ShortcutItem CommandName="阶段" CommandId="ID_SETTINGS_PHASES" Paths="管理&gt;阶段化" />
+  <ShortcutItem CommandName="保存选定项目" CommandId="ID_FILTERS_SELECTION_SAVE" Paths="管理&gt;选择; 上下文选项卡&gt;选择" />
+  <ShortcutItem CommandName="载入选定项目" CommandId="ID_RETRIEVE_FILTERS" Paths="管理&gt;选择; 上下文选项卡&gt;选择" />
+  <ShortcutItem CommandName="编辑选定项目" CommandId="ID_EDIT_SELECTIONS" Paths="管理&gt;选择; 上下文选项卡&gt;选择" />
+  <ShortcutItem CommandName="连接:切换连接顺序" CommandId="ID_SWITCH_JOIN_ORDER_EDITOR" Paths="修改&gt;几何图形" />
+  <ShortcutItem CommandName="连接/取消连接屋顶" CommandId="ID_JOIN_ROOF" Paths="修改&gt;几何图形" />
+  <ShortcutItem CommandName="梁/柱连接" CommandId="ID_EDIT_BEAM_JOINS" Paths="修改&gt;几何图形" />
+  <ShortcutItem CommandName="墙连接" CommandId="ID_EDIT_WALL_JOINS" Paths="修改&gt;几何图形" />
+  <ShortcutItem CommandName="拆除" CommandId="ID_EDIT_DEMOLISH" Paths="修改&gt;几何图形" />
+  <ShortcutItem CommandName="在视图中隐藏:隐藏图元" CommandId="ID_VIEW_HIDE_ELEMENTS" Shortcuts="EH" Paths="修改&gt;视图" />
+  <ShortcutItem CommandName="在视图中隐藏:隐藏类别" CommandId="ID_VIEW_HIDE_CATEGORY" Shortcuts="VH" Paths="修改&gt;视图" />
+  <ShortcutItem CommandName="在视图中隐藏:按过滤器隐藏; 替换视图中的图形:按过滤器替换" CommandId="ID_VIEW_GO_FILTER" Paths="修改&gt;视图" />
+  <ShortcutItem CommandName="置换图元" CommandId="ID_DISPLACEMENT_CREATE" Paths="修改&gt;视图" />
+  <ShortcutItem CommandName="替换视图中的图形:按图元替换" CommandId="ID_VIEW_OVERRIDE_ELEMENTS" Shortcuts="EOD" Paths="修改&gt;视图" />
+  <ShortcutItem CommandName="替换视图中的图形:按类别替换" CommandId="ID_VIEW_OVERRIDE_CATEGORY" Paths="修改&gt;视图" />
+  <ShortcutItem CommandName="线处理" CommandId="ID_EDIT_LINEWORK" Shortcuts="LW" Paths="修改&gt;视图" />
+  <ShortcutItem CommandName="选择框" CommandId="ID_VIEW_APPLY_SELECTION_BOX" Shortcuts="BX" Paths="修改&gt;视图" />
+  <ShortcutItem CommandName="创建部件" CommandId="ID_CREATE_ASSEMBLY" Paths="修改&gt;创建" />
+  <ShortcutItem CommandName="创建零件" CommandId="ID_CREATE_PARTS" Paths="修改&gt;创建" />
+  <ShortcutItem CommandName="完成 模型" CommandId="ID_END_INPLACE_FAMILY" Paths="内建模型&gt;在位编辑器" />
+  <ShortcutItem CommandName="取消 模型" CommandId="ID_QUIT_INPLACE_FAMILY" Paths="内建模型&gt;在位编辑器" />
+  <ShortcutItem CommandName="完成 体量" CommandId="ID_END_INPLACE_MASS" Paths="内建体量&gt;在位编辑器" />
+  <ShortcutItem CommandName="取消 体量" CommandId="ID_QUIT_INPLACE_MASS" Paths="内建体量&gt;在位编辑器" />
+  <ShortcutItem CommandName="坡度控制 点" CommandId="ID_RBS_TOGGLE_END_REFERENCE" Paths="上下文选项卡&gt;坡度; 上下文选项卡&gt;对正" />
+  <ShortcutItem CommandName="完成" CommandId="ID_RBS_FINISH_JUSTIFY_SLOPE_EDITMODE" Paths="上下文选项卡&gt;坡度编辑器; 上下文选项卡&gt;对正编辑器" />
+  <ShortcutItem CommandName="取消" CommandId="ID_RBS_CANCEL_JUSTIFY_SLOPE_EDITMODE" Paths="上下文选项卡&gt;坡度编辑器; 上下文选项卡&gt;对正编辑器" />
+  <ShortcutItem CommandName="取消编辑模式" CommandId="ID_CANCEL_SKETCH" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="完成编辑模式" CommandId="ID_FINISH_SKETCH" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="边界" CommandId="ID_BUTTON_STAIRS_LANDING_SKETCH" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="楼梯路径" CommandId="ID_BUTTON_STAIRS_PATH" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="取消编辑模式" CommandId="ID_QUIT_SKETCH_PROFILE" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="完成编辑模式" CommandId="ID_FINISH_SKETCH_PROFILE" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="轴线" CommandId="ID_OBJECTS_AXIS" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="预制 &#xA;构件; 预制 &#xA;零件" CommandId="ID_FABRICATION_PART_ROUTE_TOGGLE_FABPART_BROWSER" Paths="上下文选项卡&gt;更改服务; 上下文选项卡&gt;解决方案; 上下文选项卡&gt;更改尺寸" />
+  <ShortcutItem CommandName="完成" CommandId="ID_FABRICATION_NETWORK_CHANGE_SERVICE_FINISH_EDITMODE" Paths="上下文选项卡&gt;更改服务" />
+  <ShortcutItem CommandName="取消" CommandId="ID_FABRICATION_NETWORK_CHANGE_SERVICE_CANCEL_EDITMODE" Paths="上下文选项卡&gt;更改服务" />
+  <ShortcutItem CommandName="系统检查器" CommandId="ID_RBS_SYSTEM_INSPECTOR_INSPECT" Paths="上下文选项卡&gt;系统检查器" />
+  <ShortcutItem CommandName="完成" CommandId="ID_RBS_SYSTEM_INSPECTOR_FINISH" Paths="上下文选项卡&gt;系统检查器" />
+  <ShortcutItem CommandName="取消" CommandId="ID_RBS_SYSTEM_INSPECTOR_CANCEL" Paths="上下文选项卡&gt;系统检查器" />
+  <ShortcutItem CommandName="添加到位移" CommandId="ID_DISPLACEMENT_ADD_ELEMENT" Paths="上下文选项卡&gt;编辑位移集" />
+  <ShortcutItem CommandName="从位移中删除" CommandId="ID_DISPLACEMENT_REMOVE_ELEMENT" Paths="上下文选项卡&gt;编辑位移集" />
+  <ShortcutItem CommandName="完成" CommandId="ID_DISPLACEMENT_FINISH_EDIT" Paths="上下文选项卡&gt;编辑位移集" />
+  <ShortcutItem CommandName="取消" CommandId="ID_DISPLACEMENT_CANCEL_EDIT" Paths="上下文选项卡&gt;编辑位移集" />
+  <ShortcutItem CommandName="编辑 底部" CommandId="ID_EDIT_BLEND_BASE" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="编辑 顶点" CommandId="ID_EDIT_VERTEX_CONNECTIONS" Paths="上下文选项卡&gt;模式; 上下文选项卡&gt;放样; 上下文选项卡&gt;放样融合" />
+  <ShortcutItem CommandName="拾取 新主体" CommandId="ID_RAILING_SET_HOST" Paths="上下文选项卡&gt;工具" />
+  <ShortcutItem CommandName="编辑 &#xA;连接" CommandId="ID_RAILING_EDIT_JOINS" Paths="上下文选项卡&gt;工具" />
+  <ShortcutItem CommandName="预览" CommandId="ID_RAILING_EDIT_MODE_TOGGLE_PREVIEW" Paths="上下文选项卡&gt;选项" />
+  <ShortcutItem CommandName="取消编辑模式" CommandId="ID_RAILPATH_EDITMODE_QUIT" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="完成编辑模式" CommandId="ID_RAILPATH_EDITMODE_FINISH" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="编辑 &#xA;扶栏连接" CommandId="ID_EDIT_CONTINUOUS_RAIL_JOINS" Paths="上下文选项卡&gt;连接" />
+  <ShortcutItem CommandName="取消编辑模式" CommandId="ID_QUIT_SWEEP" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="完成编辑模式" CommandId="ID_FINISH_SWEEP" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="绘制路径" CommandId="ID_SKETCH_2D_PATH" Paths="上下文选项卡&gt;放样; 上下文选项卡&gt;放样融合" />
+  <ShortcutItem CommandName="拾取路径" CommandId="ID_PICK_PATH" Paths="上下文选项卡&gt;放样; 上下文选项卡&gt;放样融合" />
+  <ShortcutItem CommandName="选择 轮廓" CommandId="ID_SWEEP_PROFILE" Paths="上下文选项卡&gt;放样" />
+  <ShortcutItem CommandName="编辑轮廓; 编辑 轮廓" CommandId="Dialog_Essentials_ProfileFamTypeDbar:Control_Essentials_EditSketch" Paths="上下文选项卡&gt;放样; 上下文选项卡&gt;放样融合; 上下文选项卡&gt;轮廓" />
+  <ShortcutItem CommandName="载入轮廓" CommandId="Dialog_Essentials_ProfileFamTypeDbar:Control_Essentials_LoadFamily" Paths="上下文选项卡&gt;放样; 上下文选项卡&gt;放样融合; 上下文选项卡&gt;轮廓" />
+  <ShortcutItem CommandName="取消编辑模式" CommandId="ID_QUIT_PICK_BOUNDARY" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="完成编辑模式" CommandId="ID_FINISH_PICK_BOUNDARY" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="拾取屋顶/ 墙边缘" CommandId="ID_PICK_DORMER_BOUNDARY" Paths="上下文选项卡&gt;拾取" />
+  <ShortcutItem CommandName="分析墙平差" CommandId="ID_ADJUST_ANALYTICAL_WALL" Paths="上下文选项卡&gt;编辑分析模型" />
+  <ShortcutItem CommandName="包含/排除洞口" CommandId="ID_INLUDE_EXCLUDE_OPENING_FROM_ANALYTICAL_SURFACE" Paths="上下文选项卡&gt;编辑分析模型" />
+  <ShortcutItem CommandName="创建分析链接" CommandId="ID_CREATE_ANALYTICAL_LINK" Paths="上下文选项卡&gt;编辑分析模型" />
+  <ShortcutItem CommandName="完成" CommandId="ID_AM_EDIT_MODE_FINISH" Paths="上下文选项卡&gt;编辑分析模型" />
+  <ShortcutItem CommandName="取消" CommandId="ID_AM_EDIT_MODE_CANCEL" Paths="上下文选项卡&gt;编辑分析模型" />
+  <ShortcutItem CommandName="添加到组" CommandId="ID_ADD_LIGHT_TO_GROUP" Paths="上下文选项卡&gt;灯光组" />
+  <ShortcutItem CommandName="从组中删除" CommandId="ID_REMOVE_LIGHT_FROM_GROUP" Paths="上下文选项卡&gt;灯光组" />
+  <ShortcutItem CommandName="完成" CommandId="ID_FINISH_LIGHT_GROUP_EDIT" Paths="上下文选项卡&gt;灯光组" />
+  <ShortcutItem CommandName="取消" CommandId="ID_CANCEL_LIGHT_GROUP_EDIT" Paths="上下文选项卡&gt;灯光组" />
+  <ShortcutItem CommandName="取消编辑模式" CommandId="ID_QUIT_SWEPT_BLEND" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="完成编辑模式" CommandId="ID_FINISH_SWEPT_BLEND" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="选择轮廓 1" CommandId="ID_SKETCH_PROFILE_1" Paths="上下文选项卡&gt;放样融合" />
+  <ShortcutItem CommandName="选择轮廓 2" CommandId="ID_SKETCH_PROFILE_2" Paths="上下文选项卡&gt;放样融合" />
+  <ShortcutItem CommandName="主筋方向" CommandId="ID_REBAR_SYSTEM_PICK_DIRSPAN_EDGE" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="取消编辑模式" CommandId="ID_MERGED_PART_CANCEL_EDIT" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="完成编辑模式" CommandId="ID_MERGED_PART_FINISH_EDIT" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="添加" CommandId="ID_MERGED_PART_ADD" Paths="上下文选项卡&gt;合并的零件" />
+  <ShortcutItem CommandName="删除" CommandId="ID_MERGED_PART_REMOVE" Paths="上下文选项卡&gt;合并的零件" />
+  <ShortcutItem CommandName="编辑 路径" CommandId="ID_EDIT_CONTINUOUS_RAIL_PATH" Paths="上下文选项卡&gt;工具" />
+  <ShortcutItem CommandName="重设 &#xA;扶栏" CommandId="ID_RESET_CONTINUOUS_RAIL" Paths="上下文选项卡&gt;工具; 上下文选项卡&gt;连续扶栏" />
+  <ShortcutItem CommandName="符号线" CommandId="ID_SKETCH_SHAFTOPENING_SYMBOL" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="添加到 选定项目" CommandId="ID_EDITSFILTER_ADD_TO_FILTER" Paths="上下文选项卡&gt;编辑选定项目" />
+  <ShortcutItem CommandName="从选定项目中 删除" CommandId="ID_EDITSFILTER_REMOVE_FROM_FILTER" Paths="上下文选项卡&gt;编辑选定项目" />
+  <ShortcutItem CommandName="完成 选择" CommandId="ID_FINISH_SFILTER_EDIT_MODE" Paths="上下文选项卡&gt;选择模式" />
+  <ShortcutItem CommandName="取消 选择" CommandId="ID_CANCEL_SFILTER_EDIT_MODE" Paths="上下文选项卡&gt;选择模式" />
+  <ShortcutItem CommandName="添加 到系统" CommandId="ID_RBS_SYSTEM_GROUP_EDIT_ADD_TO_GROUP" Paths="上下文选项卡&gt;编辑管道系统; 上下文选项卡&gt;编辑开关系统; 上下文选项卡&gt;编辑风管系统" />
+  <ShortcutItem CommandName="从系统 中删除" CommandId="ID_RBS_SYSTEM_GROUP_EDIT_REMOVE_FROM_GROUP" Paths="上下文选项卡&gt;编辑管道系统; 上下文选项卡&gt;编辑开关系统; 上下文选项卡&gt;编辑风管系统" />
+  <ShortcutItem CommandName="选择 设备" CommandId="ID_RBS_SYSTEM_GROUP_EDIT_BASE_OBJECT_SELECT" Paths="上下文选项卡&gt;编辑管道系统; 上下文选项卡&gt;编辑风管系统" />
+  <ShortcutItem CommandName="添加到集" CommandId="ID_MECHANICAL_EQUIPMENT_SET_ADD" Paths="上下文选项卡&gt;平行集" />
+  <ShortcutItem CommandName="从集删除" CommandId="ID_MECHANICAL_EQUIPMENT_SET_REMOVE" Paths="上下文选项卡&gt;平行集" />
+  <ShortcutItem CommandName="完成 编辑系统; 完成 编辑线路" CommandId="ID_RBS_FINISH_SYSTEM_GROUP_EDIT_MODE" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="取消 编辑系统; 取消 编辑线路" CommandId="ID_RBS_CANCEL_SYSTEM_GROUP_EDIT_MODE" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="坡度箭头" CommandId="ID_SKETCH_DEFINE_SLOPE" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="添加平台" CommandId="ID_ADD_ALL_LEVEL_LANDINGS" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="删除平台" CommandId="ID_REMOVE_ALL_LEVEL_LANDINGS" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="完成" CommandId="ID_FINISH_LEVEL_LANDINGS_EDIT" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="取消" CommandId="ID_QUIT_LEVEL_LANDINGS_EDIT" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="设置样板 选项" CommandId="ID_RBS_PANELSCHEDULE_FORMAT_TEMPLATE" Paths="上下文选项卡&gt;样板" />
+  <ShortcutItem CommandName="删除参数" CommandId="ID_PANELSCHEDULE_PARAM_REMOVE" Paths="上下文选项卡&gt;参数" />
+  <ShortcutItem CommandName="设置 单位格式" CommandId="ID_PANELSCHEDULE_PARAM_FORMATUNITS" Paths="上下文选项卡&gt;参数" />
+  <ShortcutItem CommandName="计算 值" CommandId="ID_PANELSCHEDULE_PARAM_CALCULATE" Paths="上下文选项卡&gt;参数" />
+  <ShortcutItem CommandName="合并 参数" CommandId="ID_PANELSCHEDULE_PARAM_COMBINE" Paths="上下文选项卡&gt;参数" />
+  <ShortcutItem CommandName="冻结行 和列" CommandId="ID_RBS_PANELSCHEDULE_FREEZE_COLANDROW" Paths="上下文选项卡&gt;列和行" />
+  <ShortcutItem CommandName="插入 列:在选定位置左侧" CommandId="ID_PANELSCHEDULE_COLUMN_INSERT_LEFT" Paths="上下文选项卡&gt;列和行" />
+  <ShortcutItem CommandName="插入 列:在选定位置右侧" CommandId="ID_PANELSCHEDULE_COLUMN_INSERT_RIGHT" Paths="上下文选项卡&gt;列和行" />
+  <ShortcutItem CommandName="删除 列" CommandId="ID_PANELSCHEDULE_COLUMN_DELETE" Paths="上下文选项卡&gt;列和行" />
+  <ShortcutItem CommandName="调整 列宽" CommandId="ID_PANELSCHEDULE_COLUMN_RESIZE" Paths="上下文选项卡&gt;列和行" />
+  <ShortcutItem CommandName="插入 行:在选定位置上方" CommandId="ID_PANELSCHEDULE_ROW_INSERT_ABOVE" Paths="上下文选项卡&gt;列和行" />
+  <ShortcutItem CommandName="插入 行:在选定位置下方" CommandId="ID_PANELSCHEDULE_ROW_INSERT_BELOW" Paths="上下文选项卡&gt;列和行" />
+  <ShortcutItem CommandName="删除 行" CommandId="ID_PANELSCHEDULE_ROW_DELETE" Paths="上下文选项卡&gt;列和行" />
+  <ShortcutItem CommandName="调整 行高" CommandId="ID_PANELSCHEDULE_ROW_RESIZE" Paths="上下文选项卡&gt;列和行" />
+  <ShortcutItem CommandName="合并/ 取消合并" CommandId="ID_PANELSCHEDULE_CELL_MERGE_UNMERGE" Paths="上下文选项卡&gt;单元" />
+  <ShortcutItem CommandName="插入 图形" CommandId="ID_PANELSCHEDULE_CELL_INSERT_GRAPHIC" Paths="上下文选项卡&gt;单元" />
+  <ShortcutItem CommandName="编辑 边界" CommandId="ID_PANELSCHEDULE_CELL_EDIT_BORDER" Paths="上下文选项卡&gt;单元" />
+  <ShortcutItem CommandName="编辑 着色" CommandId="ID_PANELSCHEDULE_CELL_EDIT_SHADING" Paths="上下文选项卡&gt;单元" />
+  <ShortcutItem CommandName="编辑 字体" CommandId="ID_PANELSCHEDULE_TEXT_EDIT_FONT" Paths="上下文选项卡&gt;文字" />
+  <ShortcutItem CommandName="水平 对齐:左" CommandId="ID_PANELSCHEDULE_TEXT_HORIZONTAL_ALIGN_LEFT" Paths="上下文选项卡&gt;文字" />
+  <ShortcutItem CommandName="水平 对齐:中心" CommandId="ID_PANELSCHEDULE_TEXT_HORIZONTAL_ALIGN_CENTER" Paths="上下文选项卡&gt;文字" />
+  <ShortcutItem CommandName="水平 对齐:右" CommandId="ID_PANELSCHEDULE_TEXT_HORIZONTAL_ALIGN_RIGHT" Paths="上下文选项卡&gt;文字" />
+  <ShortcutItem CommandName="垂直 对齐:顶" CommandId="ID_PANELSCHEDULE_TEXT_VERTICAL_ALIGN_TOP" Paths="上下文选项卡&gt;文字" />
+  <ShortcutItem CommandName="垂直 对齐:中部" CommandId="ID_PANELSCHEDULE_TEXT_VERTICAL_ALIGN_MIDDLE" Paths="上下文选项卡&gt;文字" />
+  <ShortcutItem CommandName="垂直 对齐:底" CommandId="ID_PANELSCHEDULE_TEXT_VERTICAL_ALIGN_BOTTOM" Paths="上下文选项卡&gt;文字" />
+  <ShortcutItem CommandName="完成 样板" CommandId="ID_RBS_PANELSCHEDULE_TEMPLATEVIEW_FINISH" Paths="上下文选项卡&gt;样板编辑器" />
+  <ShortcutItem CommandName="取消 样板" CommandId="ID_RBS_PANELSCHEDULE_TEMPLATEVIEW_CANCEL" Paths="上下文选项卡&gt;样板编辑器" />
+  <ShortcutItem CommandName="取消编辑模式" CommandId="ID_STAIRSEDITMODE_QUIT" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="完成编辑模式" CommandId="ID_STAIRSEDITMODE_FINISH" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="梯段" CommandId="ID_STAIRS_RUN" Paths="上下文选项卡&gt;构件" />
+  <ShortcutItem CommandName="平台" CommandId="ID_STAIRS_LANDING" Paths="上下文选项卡&gt;构件" />
+  <ShortcutItem CommandName="支座" CommandId="ID_STAIRS_SUPPORT" Paths="上下文选项卡&gt;构件" />
+  <ShortcutItem CommandName="编辑 &#xA;楼梯" CommandId="ID_EXIT_PICK_LEVELS_EDITOR" Paths="上下文选项卡&gt;编辑" />
+  <ShortcutItem CommandName="连接 &#xA;标高" CommandId="ID_PICK_LEVELS_ON_STAIRS_CREATION" Paths="上下文选项卡&gt;多层楼梯" />
+  <ShortcutItem CommandName="转换为基于草图" CommandId="ID_STAIRS_CONVERT_TO_CUSTOM" Paths="上下文选项卡&gt;工具" />
+  <ShortcutItem CommandName="编辑 草图" CommandId="ID_EDIT_SKETCH" Paths="上下文选项卡&gt;工具" />
+  <ShortcutItem CommandName="翻转" CommandId="ID_FLIP_STAIRS_DIRECTION" Paths="上下文选项卡&gt;工具" />
+  <ShortcutItem CommandName="栏杆扶手" CommandId="ID_SET_RAILINGS_TYPE" Paths="上下文选项卡&gt;工具" />
+  <ShortcutItem CommandName="过滤器" CommandId="ID_BTN_FILTER_SELECTION" Paths="上下文选项卡&gt;编辑粘贴内容; 上下文选项卡&gt;选择" />
+  <ShortcutItem CommandName="全 选" CommandId="ID_SELECT_ALL_PASTED" Paths="上下文选项卡&gt;编辑粘贴内容" />
+  <ShortcutItem CommandName="完成 所选图元" CommandId="ID_FINALIZE_SELECTED_ELEMENTS" Paths="上下文选项卡&gt;编辑粘贴内容" />
+  <ShortcutItem CommandName="完成" CommandId="ID_FINISH_PASTE_EDIT_MODE" Paths="上下文选项卡&gt;编辑粘贴内容" />
+  <ShortcutItem CommandName="取消" CommandId="ID_QUIT_PASTE_EDIT_MODE" Paths="上下文选项卡&gt;编辑粘贴内容" />
+  <ShortcutItem CommandName="取消编辑模式" CommandId="ID_QUIT_PICK_PATH" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="完成编辑模式" CommandId="ID_FINISH_PICK_PATH" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="拾取三维 边" CommandId="ID_PICK_EDGES" Paths="上下文选项卡&gt;拾取" />
+  <ShortcutItem CommandName="梁方向" CommandId="ID_PICK_DIRSPAN_EDGE" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="重设梁系统" CommandId="ID_RESET_JOIST_SYSTEM" Paths="上下文选项卡&gt;调整" />
+  <ShortcutItem CommandName="跨方向" CommandId="ID_FLOOR_PICK_DISPAN_EDGE" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="完成编辑模式" CommandId="ID_FINISH_PROOF" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="坡度箭头" CommandId="ID_SKETCH_DEFINE_ROOF_SLOPE" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="对齐 屋檐" CommandId="ID_SKETCH_ALIGN_EAVES" Paths="上下文选项卡&gt;工具" />
+  <ShortcutItem CommandName="调整 高度" CommandId="Dialog_Essentials_AdjustHeightOrOverhang:Control_Essentials_RadioHeight" Paths="上下文选项卡&gt;工具" />
+  <ShortcutItem CommandName="调整 悬挑" CommandId="Dialog_Essentials_AdjustHeightOrOverhang:Control_Essentials_RadioOverhang" Paths="上下文选项卡&gt;工具" />
+  <ShortcutItem CommandName="上一个解决方案" CommandId="ID_FABRICATION_PART_ROUTE_PREVIOUS" Paths="上下文选项卡&gt;解决方案" />
+  <ShortcutItem CommandName="下一个解决方案" CommandId="ID_FABRICATION_PART_ROUTE_NEXT" Paths="上下文选项卡&gt;解决方案" />
+  <ShortcutItem CommandName="智能 &#xA;捕捉" CommandId="ID_FABRICATION_PART_ROUTE_SMART_SNAPPING" Paths="上下文选项卡&gt;解决方案" />
+  <ShortcutItem CommandName="切入" CommandId="ID_FABRICATION_PART_ROUTE_CUT_INTO" Paths="上下文选项卡&gt;解决方案" />
+  <ShortcutItem CommandName="完成" CommandId="ID_FABRICATION_PART_ROUTE_FINISH_EDIT_MODE" Paths="上下文选项卡&gt;解决方案" />
+  <ShortcutItem CommandName="取消" CommandId="ID_FABRICATION_PART_ROUTE_CANCEL_EDIT_MODE" Paths="上下文选项卡&gt;解决方案" />
+  <ShortcutItem CommandName="移动 连接件" CommandId="ID_RBS_DRAG_SURFACE_CONNECTOR" Paths="上下文选项卡&gt;移动连接件" />
+  <ShortcutItem CommandName="完成 连接" CommandId="ID_RBS_FINISH_SURFACE_CONNECTOR_EDIT_MODE" Paths="上下文选项卡&gt;表面连接" />
+  <ShortcutItem CommandName="取消 连接" CommandId="ID_RBS_CANCEL_SURFACE_CONNECTOR_EDIT_MODE" Paths="上下文选项卡&gt;表面连接" />
+  <ShortcutItem CommandName="编辑 顶部" CommandId="ID_EDIT_BLEND_TOP" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="多平面" CommandId="ID_TURN_ON_MULTI_PLANAR_REBAR" Paths="上下文选项卡&gt;钢筋" />
+  <ShortcutItem CommandName="修改" CommandId="ID_RBS_CIRCUIT_GROUP_EDIT_EDIT_PATH" Paths="上下文选项卡&gt;修改" />
+  <ShortcutItem CommandName="路径长度" CommandId="ID_PATH_LENGTH" Paths="上下文选项卡&gt;编辑路径" />
+  <ShortcutItem CommandName="路径偏移" CommandId="ID_PATH_OFFSET" Paths="上下文选项卡&gt;编辑路径" />
+  <ShortcutItem CommandName="完成 &#xA;编辑路径" CommandId="ID_RBS_FINISH_CIRCUIT_PATH_EDIT_MODE" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="取消 &#xA;编辑路径" CommandId="ID_RBS_CANCEL_CIRCUIT_PATH_EDIT_MODE" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="上弦杆" CommandId="ID_TRUSS_TOP_CHORD_REFERENCE" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="下弦杆" CommandId="ID_TRUSS_BOTTOM_CHORD_REFERENCE" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="编辑 布局" CommandId="ID_RBS_LAYOUTPATH_EDIT" Paths="上下文选项卡&gt;修改布局" />
+  <ShortcutItem CommandName="解决方案" CommandId="ID_RBS_LAYOUTPATH_SOLUTIONS" Paths="上下文选项卡&gt;修改布局" />
+  <ShortcutItem CommandName="添加 到系统" CommandId="ID_RBS_LAYOUTPATH_ADD" Paths="上下文选项卡&gt;修改布局" />
+  <ShortcutItem CommandName="从系统 中删除" CommandId="ID_RBS_LAYOUTPATH_REMOVE" Paths="上下文选项卡&gt;修改布局" />
+  <ShortcutItem CommandName="放置 基准" CommandId="ID_RBS_LAYOUTPATH_BASE" Paths="上下文选项卡&gt;修改布局" />
+  <ShortcutItem CommandName="删除 基准" CommandId="ID_RBS_LAYOUTPATH_BASE_REMOVE" Paths="上下文选项卡&gt;修改布局" />
+  <ShortcutItem CommandName="修改 基准" CommandId="ID_RBS_LAYOUTPATH_BASE_MODIFY" Paths="上下文选项卡&gt;修改布局" />
+  <ShortcutItem CommandName="完成 布局" CommandId="ID_RBS_LAYOUTPATH_FINISH" Paths="上下文选项卡&gt;生成布局" />
+  <ShortcutItem CommandName="取消 布局" CommandId="ID_RBS_LAYOUTPATH_CANCEL" Paths="上下文选项卡&gt;生成布局" />
+  <ShortcutItem CommandName="左上对齐" CommandId="ID_STRUCT_CONN_OFFSET_REF_TOP_LEFT" Paths="上下文选项卡&gt;编辑连接" />
+  <ShortcutItem CommandName="左中对齐" CommandId="ID_STRUCT_CONN_OFFSET_REF_MIDDLE_LEFT" Paths="上下文选项卡&gt;编辑连接" />
+  <ShortcutItem CommandName="左下对齐" CommandId="ID_STRUCT_CONN_OFFSET_REF_BOTTOM_LEFT" Paths="上下文选项卡&gt;编辑连接" />
+  <ShortcutItem CommandName="中上对齐" CommandId="ID_STRUCT_CONN_OFFSET_REF_TOP_CENTER" Paths="上下文选项卡&gt;编辑连接" />
+  <ShortcutItem CommandName="正中对齐" CommandId="ID_STRUCT_CONN_OFFSET_REF_MIDDLE_CENTER" Paths="上下文选项卡&gt;编辑连接" />
+  <ShortcutItem CommandName="中下对齐" CommandId="ID_STRUCT_CONN_OFFSET_REF_BOTTOM_CENTER" Paths="上下文选项卡&gt;编辑连接" />
+  <ShortcutItem CommandName="右上对齐" CommandId="ID_STRUCT_CONN_OFFSET_REF_TOP_RIGHT" Paths="上下文选项卡&gt;编辑连接" />
+  <ShortcutItem CommandName="右中对齐" CommandId="ID_STRUCT_CONN_OFFSET_REF_MIDDLE_RIGHT" Paths="上下文选项卡&gt;编辑连接" />
+  <ShortcutItem CommandName="右下对齐" CommandId="ID_STRUCT_CONN_OFFSET_REF_BOTTOM_RIGHT" Paths="上下文选项卡&gt;编辑连接" />
+  <ShortcutItem CommandName="边界" CommandId="ID_BUTTON_STAIRS_RUN_BOUNDARY" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="踢面" CommandId="ID_BUTTON_STAIRS_RISER" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="添加至连接" CommandId="ID_STRUCT_CONNECTION_CUSTOM_EDIT_MODE_ADD" Paths="上下文选项卡&gt;编辑自定义连接类型" />
+  <ShortcutItem CommandName="从连接删除" CommandId="ID_STRUCT_CONNECTION_CUSTOM_EDIT_MODE_REMOVE" Paths="上下文选项卡&gt;编辑自定义连接类型" />
+  <ShortcutItem CommandName="完成" CommandId="ID_STRUCT_CONNECTION_CUSTOM_EDIT_MODE_FINISH" Paths="上下文选项卡&gt;编辑自定义连接类型" />
+  <ShortcutItem CommandName="取消" CommandId="ID_STRUCT_CONNECTION_CUSTOM_EDIT_MODE_CANCEL" Paths="上下文选项卡&gt;编辑自定义连接类型" />
+  <ShortcutItem CommandName="完成" CommandId="ID_FABRICATION_NETWORK_CHANGE_SIZE_FINISH_EDITMODE" Paths="上下文选项卡&gt;更改尺寸" />
+  <ShortcutItem CommandName="取消" CommandId="ID_FABRICATION_NETWORK_CHANGE_SIZE_CANCEL_EDITMODE" Paths="上下文选项卡&gt;更改尺寸" />
+  <ShortcutItem CommandName="对齐 线" CommandId="ID_RBS_PICKALIGNMENT_LINE" Paths="上下文选项卡&gt;对正" />
+  <ShortcutItem CommandName="左上对齐" CommandId="ID_JUSTIFY_TOP_LEFT" Paths="上下文选项卡&gt;对正" />
+  <ShortcutItem CommandName="左中对齐" CommandId="ID_JUSTIFY_MIDDLE_LEFT" Paths="上下文选项卡&gt;对正" />
+  <ShortcutItem CommandName="左下对齐" CommandId="ID_JUSTIFY_BOTTOM_LEFT" Paths="上下文选项卡&gt;对正" />
+  <ShortcutItem CommandName="中上对齐" CommandId="ID_JUSTIFY_TOP_CENTER" Paths="上下文选项卡&gt;对正" />
+  <ShortcutItem CommandName="正中对齐" CommandId="ID_JUSTIFY_MIDDLE_CENTER" Paths="上下文选项卡&gt;对正" />
+  <ShortcutItem CommandName="中下对齐" CommandId="ID_JUSTIFY_BOTTOM_CENTER" Paths="上下文选项卡&gt;对正" />
+  <ShortcutItem CommandName="右上对齐" CommandId="ID_JUSTIFY_TOP_RIGHT" Paths="上下文选项卡&gt;对正" />
+  <ShortcutItem CommandName="右中对齐" CommandId="ID_JUSTIFY_MIDDLE_RIGHT" Paths="上下文选项卡&gt;对正" />
+  <ShortcutItem CommandName="右下对齐" CommandId="ID_JUSTIFY_BOTTOM_RIGHT" Paths="上下文选项卡&gt;对正" />
+  <ShortcutItem CommandName="选择 开关" CommandId="ID_RBS_SWITCH_SYSTEM_EDIT_SWITCH_SELECT" Paths="上下文选项卡&gt;编辑开关系统" />
+  <ShortcutItem CommandName="取消编辑模式" CommandId="ID_CANCEL_DPART_EDIT" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="完成编辑模式" CommandId="ID_FINISH_DPART_EDIT" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="编辑 草图" CommandId="ID_SKETCH_DPART_EDIT" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="相交 参照" CommandId="ID_DIVIDED_VOLUME_INTRST_LIST" Paths="上下文选项卡&gt;参照" />
+  <ShortcutItem CommandName="添加" CommandId="ID_ADD_ELEMENT_TO_DIVISION" Paths="上下文选项卡&gt;分割的零件" />
+  <ShortcutItem CommandName="删除" CommandId="ID_REMOVE_ELEMENT_FROM_DIVISION" Paths="上下文选项卡&gt;分割的零件" />
+  <ShortcutItem CommandName="参照 点" CommandId="ID_PLACE_REF_POINT" Paths="上下文选项卡&gt;工具" />
+  <ShortcutItem CommandName="取消" CommandId="ID_QUIT_CONNECTED_LEVELS_EDIT" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="完成" CommandId="ID_FINISH_CONNECTED_LEVELS_EDIT" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="连接 &#xA;标高" CommandId="ID_ADD_CONNECTED_LEVELS_TO_MULTISTORY_STAIRS" Paths="上下文选项卡&gt;多层楼梯" />
+  <ShortcutItem CommandName="断开 &#xA;标高" CommandId="ID_REMOVE_CONNECTED_LEVELS_FROM_MULTISTORY_STAIRS" Paths="上下文选项卡&gt;多层楼梯" />
+  <ShortcutItem CommandName="添加 空间" CommandId="ID_RBS_ZONE_ADD_SPACE" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="删除 空间" CommandId="ID_RBS_ZONE_REMOVE_SPACE" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="完成 编辑分区" CommandId="ID_RBS_FINISH_ZONE_EDIT_MODE" Paths="上下文选项卡&gt;编辑分区" />
+  <ShortcutItem CommandName="取消 编辑分区" CommandId="ID_RBS_CANCEL_ZONE_EDIT_MODE" Paths="上下文选项卡&gt;编辑分区" />
+  <ShortcutItem CommandName="添加到组" CommandId="ID_EDITGROUP_ADD_TO_GROUP" Shortcuts="AP" Paths="上下文选项卡&gt;编辑组" />
+  <ShortcutItem CommandName="从组中删除" CommandId="ID_EDITGROUP_REMOVE_FROM_GROUP" Shortcuts="RG" Paths="上下文选项卡&gt;编辑组" />
+  <ShortcutItem CommandName="附着详图组" CommandId="ID_EDITGROUP_ATTACH_TO_GROUP" Shortcuts="AD" Paths="上下文选项卡&gt;编辑组" />
+  <ShortcutItem CommandName="完成" CommandId="ID_FINISH_GROUP_EDIT_MODE" Shortcuts="FG" Paths="上下文选项卡&gt;编辑组" />
+  <ShortcutItem CommandName="取消" CommandId="ID_CANCEL_GROUP_EDIT_MODE" Shortcuts="CG" Paths="上下文选项卡&gt;编辑组" />
+  <ShortcutItem CommandName="取消表面" CommandId="ID_CANCEL_SURFACE" Paths="上下文选项卡&gt;表面" />
+  <ShortcutItem CommandName="完成表面" CommandId="ID_FINISH_SURFACE" Paths="上下文选项卡&gt;表面" />
+  <ShortcutItem CommandName="放置 点" CommandId="ID_SURFACE_POINTS" Paths="上下文选项卡&gt;工具" />
+  <ShortcutItem CommandName="通过导入 创建:选择导入实例" CommandId="ID_SITE_IMPORT" Paths="上下文选项卡&gt;工具" />
+  <ShortcutItem CommandName="通过导入 创建:指定点文件" CommandId="ID_SITE_IMPORT_POINTS" Paths="上下文选项卡&gt;工具" />
+  <ShortcutItem CommandName="简化 表面" CommandId="ID_SITE_SIMPLIFY_SURFACE" Paths="上下文选项卡&gt;工具" />
+  <ShortcutItem CommandName="添加到组" CommandId="ID_EDITGROUP_ATTACH_ELEM_TO_GROUP" Paths="上下文选项卡&gt;编辑附着的组" />
+  <ShortcutItem CommandName="从组中删除" CommandId="ID_EDITGROUP_DETACH_ELEM_FROM_GROUP" Paths="上下文选项卡&gt;编辑附着的组" />
+  <ShortcutItem CommandName="完成" CommandId="ID_FINISH_ATTACHED_GROUP_EDIT_MODE" Paths="上下文选项卡&gt;编辑附着的组" />
+  <ShortcutItem CommandName="取消" CommandId="ID_CANCEL_ATTACHED_GROUP_EDIT_MODE" Paths="上下文选项卡&gt;编辑附着的组" />
+  <ShortcutItem CommandName="取消编辑模式" CommandId="ID_QUIT_SKETCH_PATH" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="完成编辑模式" CommandId="ID_FINISH_SKETCH_PATH" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="添加 到线路" CommandId="ID_RBS_CIRCUIT_GROUP_EDIT_ADD_TO_GROUP" Paths="上下文选项卡&gt;编辑线路" />
+  <ShortcutItem CommandName="从线路 中删除" CommandId="ID_RBS_CIRCUIT_GROUP_EDIT_REMOVE_FROM_GROUP" Paths="上下文选项卡&gt;编辑线路" />
+  <ShortcutItem CommandName="选择 配电盘" CommandId="ID_RBS_CIRCUIT_GROUP_EDIT_PANEL_SELECT" Paths="上下文选项卡&gt;编辑线路" />
+  <ShortcutItem CommandName="梯段" CommandId="ID_RUN" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="边界" CommandId="ID_BUTTON_STAIRS_BOUNDARY" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="选项" CommandId="ID_CPWTCH_SETTINGS" Paths="上下文选项卡&gt;工具" />
+  <ShortcutItem CommandName="复制" CommandId="ID_CPWTCH_COPY" Paths="上下文选项卡&gt;工具" />
+  <ShortcutItem CommandName="监视" CommandId="ID_CPWTCH_WATCH" Paths="上下文选项卡&gt;工具" />
+  <ShortcutItem CommandName="批 复制" CommandId="ID_FIND_FIXTURES" Paths="上下文选项卡&gt;工具" />
+  <ShortcutItem CommandName="完成" CommandId="ID_CPWTCH_FINISH" Paths="上下文选项卡&gt;复制/监视" />
+  <ShortcutItem CommandName="取消" CommandId="ID_CPWTCH_QUIT" Paths="上下文选项卡&gt;复制/监视" />
+  <ShortcutItem CommandName="添加到部件" CommandId="ID_ADD_ELEMENT_TO_ASSEMBLY" Paths="上下文选项卡&gt;编辑构造" />
+  <ShortcutItem CommandName="从部件中删除" CommandId="ID_REMOVE_ELEMENT_FROM_ASSEMBLY" Paths="上下文选项卡&gt;编辑构造" />
+  <ShortcutItem CommandName="完成" CommandId="ID_FINISH_ASSEMBLY_EDIT" Paths="上下文选项卡&gt;编辑构造" />
+  <ShortcutItem CommandName="取消" CommandId="ID_CANCEL_ASSEMBLY_EDIT" Paths="上下文选项卡&gt;编辑构造" />
+  <ShortcutItem CommandName="自动创建 天花板" CommandId="ID_AUTO_CEILING" Paths="上下文选项卡&gt;工具" />
+  <ShortcutItem CommandName="停止" CommandId="ID_IMAGE_RAYTRACE_STOP" Paths="上下文选项卡&gt;交互式光线追踪" />
+  <ShortcutItem CommandName="保存" CommandId="ID_IMAGE_RAYTRACE_SAVE" Paths="上下文选项卡&gt;交互式光线追踪" />
+  <ShortcutItem CommandName="关闭" CommandId="ID_IMAGE_RAYTRACE_CANCEL" Paths="上下文选项卡&gt;交互式光线追踪" />
+  <ShortcutItem CommandName="区域钢筋" CommandId="ID_REBAR_SYSTEM_SKETCH_HOST" Paths="上下文选项卡&gt;钢筋" />
+  <ShortcutItem CommandName="路径钢筋" CommandId="ID_PATH_REIN_SKETCH_HOST" Paths="上下文选项卡&gt;钢筋" />
+  <ShortcutItem CommandName="结构钢筋网区域" CommandId="ID_FABRIC_DISTR_SYSTEM_SKETCH_HOST" Paths="上下文选项卡&gt;钢筋" />
+  <ShortcutItem CommandName="创建 形状" CommandId="ID_CREATEFORMELEM" Paths="上下文选项卡&gt;形状" />
+  <ShortcutItem CommandName="创建 形状:空心形状" CommandId="ID_CREATEVOIDFORM" Paths="上下文选项卡&gt;形状" />
+  <ShortcutItem CommandName="草图" CommandId="ID_OBJECTS_VOLUME_DIVIDER_SKETCH" Paths="上下文选项卡&gt;分区" />
+  <ShortcutItem CommandName="要分割的对象" CommandId="ID_OBJECTS_VOLUME_DIVIDER_OBJECTS_TO_DIVIDE" Paths="上下文选项卡&gt;分区" />
+  <ShortcutItem CommandName="交点:交点" CommandId="ID_DIVIDED_ELEMENT_INTRST_PICK" Paths="上下文选项卡&gt;分区" />
+  <ShortcutItem CommandName="交点:相交参照" CommandId="ID_DIVIDED_ELEMENT_INTRST_LIST" Paths="上下文选项卡&gt;分区" />
+  <ShortcutItem CommandName="禁用分析模型" CommandId="ID_DISABLE_ANALYTICAL_MODEL" Paths="上下文选项卡&gt;分析模型工具" />
+  <ShortcutItem CommandName="分析 重设" CommandId="ID_RESET_SELECTED_ANALYTICAL_MODEL" Paths="上下文选项卡&gt;分析模型工具" />
+  <ShortcutItem CommandName="重设分析链接" CommandId="ID_RESET_ANALYTICAL_LINKS" Paths="上下文选项卡&gt;分析模型工具" />
+  <ShortcutItem CommandName="重设手动边缘偏移" CommandId="ID_CLEAN_MANUALLY_ADJUSTED" Paths="上下文选项卡&gt;边缘水平对齐" />
+  <ShortcutItem CommandName="编辑 分区" CommandId="ID_OBJECTS_VOLUME_EDIT_DIVISION" Paths="上下文选项卡&gt;零件" />
+  <ShortcutItem CommandName="编辑 合并的零件" CommandId="ID_MERGED_PART_EDIT" Paths="上下文选项卡&gt;零件" />
+  <ShortcutItem CommandName="重设 形状" CommandId="ID_OBJECTS_PARTS_RESET" Paths="上下文选项卡&gt;零件" />
+  <ShortcutItem CommandName="分割 零件" CommandId="ID_OBJECTS_DIVIDE" Paths="上下文选项卡&gt;零件" />
+  <ShortcutItem CommandName="合并 零件" CommandId="ID_OBJECTS_MERGE" Paths="上下文选项卡&gt;零件" />
+  <ShortcutItem CommandName="选择 &#xA;主体" CommandId="ID_SELECT_HOST" Paths="上下文选项卡&gt;主体" />
+  <ShortcutItem CommandName="拾取新 主体" CommandId="ID_PICK_HOST_IND_TAG" Paths="上下文选项卡&gt;主体" />
+  <ShortcutItem CommandName="分割 &#xA;表面" CommandId="ID_OBJECTS_DIVIDED_SURFACE" Shortcuts="//" Paths="上下文选项卡&gt;分割" />
+  <ShortcutItem CommandName="分割 &#xA;路径" CommandId="ID_DIVIDE_PATH" Paths="上下文选项卡&gt;分割" />
+  <ShortcutItem CommandName="编辑 &#xA;扶栏" CommandId="ID_EDIT_CONTINUOUS_RAIL" Paths="上下文选项卡&gt;连续扶栏" />
+  <ShortcutItem CommandName="重设 栏杆扶手" CommandId="ID_RESET_RAILING" Paths="上下文选项卡&gt;工具" />
+  <ShortcutItem CommandName="排除 零件" CommandId="ID_EXCLUDE_PART" Paths="上下文选项卡&gt;排除" />
+  <ShortcutItem CommandName="恢复 零件" CommandId="ID_RESTORE_PART" Paths="上下文选项卡&gt;排除" />
+  <ShortcutItem CommandName="删除区域钢筋系统" CommandId="ID_REMOVE_AREA_REINFORCEMENT_SYSTEM" Paths="上下文选项卡&gt;区域钢筋" />
+  <ShortcutItem CommandName="删除路径钢筋系统" CommandId="ID_REMOVE_PATH_REINFORCEMENT_SYSTEM" Paths="上下文选项卡&gt;路径钢筋" />
+  <ShortcutItem CommandName="删除钢筋网区域钢筋系统" CommandId="ID_REMOVE_FABRIC_REINFORCEMENT_SYSTEM" Paths="上下文选项卡&gt;钢筋网区域钢筋" />
+  <ShortcutItem CommandName="选择 &#xA;标记" CommandId="ID_MULTI_REFERENCE_ANNOTATION_SELECT_TAG" Paths="上下文选项卡&gt;编辑" />
+  <ShortcutItem CommandName="选择 &#xA;尺寸标注" CommandId="ID_MULTI_REFERENCE_ANNOTATION_SELECT_DIMENSION" Paths="上下文选项卡&gt;编辑" />
+  <ShortcutItem CommandName="风管压力 &#xA;损失报告" CommandId="ID_MEP_SELECT_DUCT_PRESSURE_LOSS_REPORT" Paths="上下文选项卡&gt;风管系统报告" />
+  <ShortcutItem CommandName="管道压力 &#xA;损失报告" CommandId="ID_MEP_SELECT_PIPE_PRESSURE_LOSS_REPORT" Paths="上下文选项卡&gt;管道系统报告" />
+  <ShortcutItem CommandName="风道末端 &#xA;安装到风管上" CommandId="ID_RBS_MECHANICAL_DIFFUSER_TO_DUCT" Paths="上下文选项卡&gt;布局" />
+  <ShortcutItem CommandName="更改端点参照" CommandId="ID_CHANGE_BEAM_END_REFERENCE" Paths="上下文选项卡&gt;连接工具" />
+  <ShortcutItem CommandName="设计到 &#xA;预制" CommandId="ID_RBS_CONVERTTO_FABRICATIONPARTS" Paths="上下文选项卡&gt;预制" />
+  <ShortcutItem CommandName="弯头" CommandId="ID_OVERRIDE_FAB_PART_BENDS" Paths="上下文选项卡&gt;替换" />
+  <ShortcutItem CommandName="T 形三通" CommandId="ID_OVERRIDE_FAB_PART_TEES" Paths="上下文选项卡&gt;替换" />
+  <ShortcutItem CommandName="四通" CommandId="ID_OVERRIDE_FAB_PART_CROSSES" Paths="上下文选项卡&gt;替换" />
+  <ShortcutItem CommandName="恢复 大小" CommandId="ID_RESTORE_IMAGE_SIZE" Paths="上下文选项卡&gt;图像" />
+  <ShortcutItem CommandName="调整" CommandId="ID_RESIZE_IMAGE_ROWS" Paths="上下文选项卡&gt;图像" />
+  <ShortcutItem CommandName="删除 中继器" CommandId="ID_COMPONENTREPEATER_REMOVEREPEATER" Paths="上下文选项卡&gt;中继器" />
+  <ShortcutItem CommandName="编辑 &#xA;零件" CommandId="ID_FABRICATION_PART_TAKEOFF_DIALOG" Shortcuts="EP" Paths="上下文选项卡&gt;选项; 上下文选项卡&gt;编辑" />
+  <ShortcutItem CommandName="旋转 &#xA;零件" CommandId="ID_FABRICATION_PART_PRE_ROTATE" Paths="上下文选项卡&gt;选项" />
+  <ShortcutItem CommandName="切换 &#xA;连接件" CommandId="ID_FABRICATION_PART_TOGGLE_CONNECTOR" Paths="上下文选项卡&gt;选项" />
+  <ShortcutItem CommandName="插入 &#xA;零件" CommandId="ID_FABRICATION_PART_INSERT" Paths="上下文选项卡&gt;选项" />
+  <ShortcutItem CommandName="连接为 &#xA;接头" CommandId="ID_FABRICATION_PART_CONNECT_AS_TAP" Paths="上下文选项卡&gt;选项" />
+  <ShortcutItem CommandName="智能 &#xA;捕捉" CommandId="ID_FABRICATION_PART_SMART_SNAPPING" Paths="上下文选项卡&gt;选项" />
+  <ShortcutItem CommandName="显示帮助 &#xA;工具提示" CommandId="ID_FABRICATION_PART_SHOW_TOOLTIP" Shortcuts="HT" Paths="上下文选项卡&gt;选项" />
+  <ShortcutItem CommandName="坡度" CommandId="ID_RBS_ROUTEPATH_SLOPE1" Paths="上下文选项卡&gt;修改" />
+  <ShortcutItem CommandName="更改服务" CommandId="ID_FABRICATION_NETWORK_CHANGE_SERVICE" Paths="上下文选项卡&gt;修改" />
+  <ShortcutItem CommandName="更改尺寸" CommandId="ID_FABRICATION_NETWORK_CHANGE_SIZE" Paths="上下文选项卡&gt;修改" />
+  <ShortcutItem CommandName="优化 &#xA;长度" CommandId="ID_FABRICATION_OPTIMIZE_LENGTH" Paths="上下文选项卡&gt;修改" />
+  <ShortcutItem CommandName="显示 &#xA;服务" CommandId="ID_FABRICATION_PART_SHOW_SERVICE_IN_PART_BROWSER" Paths="上下文选项卡&gt;零件" />
+  <ShortcutItem CommandName="布线 &#xA;填充" CommandId="ID_FABRICATION_PART_ROUTE_AND_FILL" Paths="上下文选项卡&gt;零件" />
+  <ShortcutItem CommandName="附着到 &#xA;结构" CommandId="ID_FABRICATION_HANGER_ATTACH" Paths="上下文选项卡&gt;编辑" />
+  <ShortcutItem CommandName="旋转 &#xA;45 °" CommandId="ID_FABRICATION_PART_ROTATE_45DEGREES" Paths="上下文选项卡&gt;编辑" />
+  <ShortcutItem CommandName="旋转 &#xA;90 °" CommandId="ID_FABRICATION_PART_ROTATE_90DEGREES" Paths="上下文选项卡&gt;编辑" />
+  <ShortcutItem CommandName="旋转 &#xA;180°" CommandId="ID_FABRICATION_PART_ROTATE_180DEGREES" Paths="上下文选项卡&gt;编辑" />
+  <ShortcutItem CommandName="切换 &#xA;连接件" CommandId="ID_FABRICATION_PART_POST_TOGGLE_CONNECTOR" Paths="上下文选项卡&gt;编辑" />
+  <ShortcutItem CommandName="创建 &#xA;PCF" CommandId="ID_EXPORT_FABRICATION_PCF" Paths="上下文选项卡&gt;导出" />
+  <ShortcutItem CommandName="创建参数" CommandId="ID_ADD_PARAMETER" Paths="上下文选项卡&gt;标签尺寸标注" />
+  <ShortcutItem CommandName="分析 &#xA;连接" CommandId="ID_MEP_ANALYTICAL_PIPE_CONNECTION" Paths="上下文选项卡&gt;创建" />
+  <ShortcutItem CommandName="顶部对齐" CommandId="ID_ALIGN_TOP" Paths="上下文选项卡&gt;对齐" />
+  <ShortcutItem CommandName="居中对齐" CommandId="ID_ALIGN_MIDDLE" Paths="上下文选项卡&gt;对齐" />
+  <ShortcutItem CommandName="底部对齐" CommandId="ID_ALIGN_BOTTOM" Paths="上下文选项卡&gt;对齐" />
+  <ShortcutItem CommandName="左对齐" CommandId="ID_ALIGN_LEFT" Paths="上下文选项卡&gt;对齐" />
+  <ShortcutItem CommandName="居中对齐" CommandId="ID_ALIGN_CENTER" Paths="上下文选项卡&gt;对齐" />
+  <ShortcutItem CommandName="右对齐" CommandId="ID_ALIGN_RIGHT" Paths="上下文选项卡&gt;对齐" />
+  <ShortcutItem CommandName="编辑时显示边框" CommandId="ID_TEXTEDITOR_SHOWBORDER" Paths="上下文选项卡&gt;文字; 上下文选项卡&gt;编辑文字; 文本编辑器" />
+  <ShortcutItem CommandName="编辑时显示不透明背景" CommandId="ID_TEXTEDITOR_SHOWOPAQUEBK" Paths="上下文选项卡&gt;文字; 上下文选项卡&gt;编辑文字; 文本编辑器" />
+  <ShortcutItem CommandName="编辑 系统" CommandId="ID_MECHANICAL_EQUIPMENT_SET_EDIT_SYSTEM" Paths="上下文选项卡&gt;系统工具" />
+  <ShortcutItem CommandName="添加 &#xA;分离" CommandId="ID_MEP_HYDRAULIC_SEPARATION" Paths="上下文选项卡&gt;水力分离" />
+  <ShortcutItem CommandName="删除 &#xA;分离" CommandId="ID_REMOVE_HYDRAULIC_SEPARATION" Paths="上下文选项卡&gt;水力分离" />
+  <ShortcutItem CommandName="修改 样板" CommandId="Dialog_BuildingSystems_PanelScheduleTemplateDlgbar:Control_BuildingSystems_PanelScheduleChangeTemplate" Paths="上下文选项卡&gt;样板" />
+  <ShortcutItem CommandName="风管" CommandId="Dialog_BuildingSystems_RbsCreateHvacSystemGroup:Control_BuildingSystems_RbsCreateDuctSystem" Paths="上下文选项卡&gt;创建系统" />
+  <ShortcutItem CommandName="电力" CommandId="Dialog_BuildingSystems_RbsCreateCircuitGroup:Control_BuildingSystems_RbsCreatePowerCircuit" Paths="上下文选项卡&gt;创建系统" />
+  <ShortcutItem CommandName="数据" CommandId="Dialog_BuildingSystems_RbsCreateCircuitGroup:Control_BuildingSystems_RbsCreateDataCircuit" Paths="上下文选项卡&gt;创建系统" />
+  <ShortcutItem CommandName="电话" CommandId="Dialog_BuildingSystems_RbsCreateCircuitGroup:Control_BuildingSystems_RbsCreateTelephoneCircuit" Paths="上下文选项卡&gt;创建系统" />
+  <ShortcutItem CommandName="安全" CommandId="Dialog_BuildingSystems_RbsCreateCircuitGroup:Control_BuildingSystems_RbsCreateSecurityCircuit" Paths="上下文选项卡&gt;创建系统" />
+  <ShortcutItem CommandName="火 警" CommandId="Dialog_BuildingSystems_RbsCreateCircuitGroup:Control_BuildingSystems_RbsCreateFireAlarmCircuit" Paths="上下文选项卡&gt;创建系统" />
+  <ShortcutItem CommandName="护士 呼叫" CommandId="Dialog_BuildingSystems_RbsCreateCircuitGroup:Control_BuildingSystems_RbsCreateNurseCallCircuit" Paths="上下文选项卡&gt;创建系统" />
+  <ShortcutItem CommandName="控制" CommandId="Dialog_BuildingSystems_RbsCreateCircuitGroup:Control_BuildingSystems_RbsCreateControlsCircuit" Paths="上下文选项卡&gt;创建系统" />
+  <ShortcutItem CommandName="通讯" CommandId="Dialog_BuildingSystems_RbsCreateCircuitGroup:Control_BuildingSystems_RbsCreateCommunicationCircuit" Paths="上下文选项卡&gt;创建系统" />
+  <ShortcutItem CommandName="管道" CommandId="Dialog_BuildingSystems_RbsCreatePipingSystemGroup:Control_BuildingSystems_RbsCreatePipingSystem" Paths="上下文选项卡&gt;创建系统" />
+  <ShortcutItem CommandName="开关" CommandId="Dialog_BuildingSystems_RbsCreateSwitchSystem:Control_BuildingSystems_RbsCreateSwitchSystem" Paths="上下文选项卡&gt;创建系统" />
+  <ShortcutItem CommandName="系统 检查器" CommandId="Dialog_BuildingSystems_RbsSystemInspectBar:Control_BuildingSystems_RbsSystemInspectorInspect" Paths="上下文选项卡&gt;分析" />
+  <ShortcutItem CommandName="调整风管/管道 大小" CommandId="Dialog_BuildingSystems_RbsDuctSizingBar:Control_BuildingSystems_RbsBtnSizing" Paths="上下文选项卡&gt;分析" />
+  <ShortcutItem CommandName="编辑 系统" CommandId="Dialog_BuildingSystems_RbsEditSystemGroup:Control_BuildingSystems_RbsEditSystemGroup" Paths="上下文选项卡&gt;系统工具" />
+  <ShortcutItem CommandName="选择 设备" CommandId="Dialog_BuildingSystems_RbsEditSystemGroup:Control_BuildingSystems_RbsEditSystemGroupSelectBaseObject" Paths="上下文选项卡&gt;系统工具" />
+  <ShortcutItem CommandName="断开与设备的 连接" CommandId="Dialog_BuildingSystems_RbsEditSystemGroup:Control_BuildingSystems_RbsDisconnectBaseObject" Paths="上下文选项卡&gt;系统工具" />
+  <ShortcutItem CommandName="分割 &#xA;系统" CommandId="Dialog_BuildingSystems_RbsEditSystemGroup:Control_BuildingSystems_SplitHvacSystemGroup" Paths="上下文选项卡&gt;系统工具" />
+  <ShortcutItem CommandName="编辑 线路" CommandId="Dialog_BuildingSystems_RbsEditCircuitGroup:Control_BuildingSystems_RbsEditCircuitGroup" Paths="上下文选项卡&gt;系统工具" />
+  <ShortcutItem CommandName="编辑 路径" CommandId="Dialog_BuildingSystems_RbsEditCircuitGroup:Control_BuildingSystems_RbsEditCircuitPath" Paths="上下文选项卡&gt;系统工具" />
+  <ShortcutItem CommandName="选择 配电盘" CommandId="Dialog_BuildingSystems_RbsEditCircuitGroup:Control_BuildingSystems_RbsEditCircuitGroupSelectPanel" Paths="上下文选项卡&gt;系统工具" />
+  <ShortcutItem CommandName="断开与配电盘的 连接" CommandId="Dialog_BuildingSystems_RbsEditCircuitGroup:Control_BuildingSystems_RbsDisconnectPanel" Paths="上下文选项卡&gt;系统工具" />
+  <ShortcutItem CommandName="编辑 系统" CommandId="Dialog_BuildingSystems_EditPipingSystemGroup:Control_BuildingSystems_EditPipingSystemGroup" Paths="上下文选项卡&gt;系统工具" />
+  <ShortcutItem CommandName="选择 设备" CommandId="Dialog_BuildingSystems_EditPipingSystemGroup:Control_BuildingSystems_EditPipingSystemGroupSelectBaseObject" Paths="上下文选项卡&gt;系统工具" />
+  <ShortcutItem CommandName="断开与设备的 连接" CommandId="Dialog_BuildingSystems_EditPipingSystemGroup:Control_BuildingSystems_EditPipingSystemGroupDisconnectBaseObject" Paths="上下文选项卡&gt;系统工具" />
+  <ShortcutItem CommandName="分割 &#xA;系统" CommandId="Dialog_BuildingSystems_EditPipingSystemGroup:Control_BuildingSystems_SplitPipingSystemGroup" Paths="上下文选项卡&gt;系统工具" />
+  <ShortcutItem CommandName="编辑 开关系统" CommandId="Dialog_BuildingSystems_RbsEditSwitchSystem:Control_BuildingSystems_RbsEditSwitchSystem" Paths="上下文选项卡&gt;系统工具" />
+  <ShortcutItem CommandName="选择 开关" CommandId="Dialog_BuildingSystems_RbsEditSwitchSystem:Control_BuildingSystems_RbsEditSwitchSystemSelectSwitch" Paths="上下文选项卡&gt;系统工具" />
+  <ShortcutItem CommandName="断开与开关的 连接" CommandId="Dialog_BuildingSystems_RbsEditSwitchSystem:Control_BuildingSystems_RbsEditSwitchSystemDisconnectSwitch" Paths="上下文选项卡&gt;系统工具" />
+  <ShortcutItem CommandName="对正" CommandId="Dialog_BuildingSystems_RbsLayoutOptionsBar:Control_BuildingSystems_RbsBtnJustification" Paths="上下文选项卡&gt;放置工具" />
+  <ShortcutItem CommandName="自动 连接" CommandId="Dialog_BuildingSystems_RbsLayoutOptionsBar:Control_BuildingSystems_RbsBtnAutoconnect" Paths="上下文选项卡&gt;放置工具" />
+  <ShortcutItem CommandName="继承 高程" CommandId="Dialog_BuildingSystems_RbsLayoutOptionsBar:Control_BuildingSystems_InheritElevation" Paths="上下文选项卡&gt;放置工具" />
+  <ShortcutItem CommandName="继承 大小" CommandId="Dialog_BuildingSystems_RbsLayoutOptionsBar:Control_BuildingSystems_InheritSize" Paths="上下文选项卡&gt;放置工具" />
+  <ShortcutItem CommandName="添加 &#xA;垂直" CommandId="Dialog_BuildingSystems_RbsLayoutOptionsBar:Control_BuildingSystems_MaintainSlope" Paths="上下文选项卡&gt;偏移连接" />
+  <ShortcutItem CommandName="更改 &#xA;坡度" CommandId="Dialog_BuildingSystems_RbsLayoutOptionsBar:Control_BuildingSystems_3dSnapping" Paths="上下文选项卡&gt;偏移连接" />
+  <ShortcutItem CommandName="在放置时 进行标记" CommandId="Dialog_BuildingSystems_RbsLayoutOptionsBar:Control_BuildingSystems_RbsBtnTagonplacement" Paths="上下文选项卡&gt;标记" />
+  <ShortcutItem CommandName="坡度: 禁用" CommandId="ID_SLOPE_PIPE_OFF" Paths="上下文选项卡&gt;带坡度管道" />
+  <ShortcutItem CommandName="坡度: 向上" CommandId="ID_SLOPE_PIPE_UP" Paths="上下文选项卡&gt;带坡度管道" />
+  <ShortcutItem CommandName="坡度: 向下" CommandId="ID_SLOPE_PIPE_DOWN" Paths="上下文选项卡&gt;带坡度管道" />
+  <ShortcutItem CommandName="显示坡度工具提示" CommandId="ID_SLOPE_PIPE_SHOW_TOOLTIP" Paths="上下文选项卡&gt;带坡度管道" />
+  <ShortcutItem CommandName="生成 布局" CommandId="Dialog_BuildingSystems_RbsLayoutpathBar:Control_BuildingSystems_RbsLayoutpath" Paths="上下文选项卡&gt;布局" />
+  <ShortcutItem CommandName="生成 占位符" CommandId="Dialog_BuildingSystems_RbsLayoutpathBar:Control_BuildingSystems_RbsLayoutpath1LinePath" Paths="上下文选项卡&gt;布局" />
+  <ShortcutItem CommandName="连接 &#xA;到" CommandId="Dialog_BuildingSystems_RbsConnectIntoBar:Control_BuildingSystems_RbsConnectInto" Paths="上下文选项卡&gt;布局" />
+  <ShortcutItem CommandName="布线 解决方案" CommandId="Dialog_BuildingSystems_RbsRoutepathEdit:Control_BuildingSystems_RbsroutepathEdit" Paths="上下文选项卡&gt;布局" />
+  <ShortcutItem CommandName="创建 配电盘明细表" CommandId="Dialog_BuildingSystems_RbsPanelScheduleCreateupdateDlgbar:Control_BuildingSystems_RbsPanelScheduleCreate" Paths="上下文选项卡&gt;电气" />
+  <ShortcutItem CommandName="创建 配电盘明细表" CommandId="Dialog_BuildingSystems_RbsPanelScheduleCreateupdateDlgbar:Control_BuildingSystems_ChooseTemplate" Paths="上下文选项卡&gt;电气" />
+  <ShortcutItem CommandName="编辑 配电盘明细表" CommandId="Dialog_BuildingSystems_RbsPanelScheduleCreateupdateDlgbar:Control_BuildingSystems_RbsPanelScheduleUpdate" Paths="上下文选项卡&gt;电气" />
+  <ShortcutItem CommandName="对正" CommandId="Dialog_BuildingSystems_RbsRoutepathJustify:Control_BuildingSystems_RbsroutepathJustify" Paths="上下文选项卡&gt;编辑" />
+  <ShortcutItem CommandName="坡度" CommandId="Dialog_BuildingSystems_RbsRoutepathSlope:Control_BuildingSystems_RbsroutepathSlope" Paths="上下文选项卡&gt;编辑" />
+  <ShortcutItem CommandName="修改 类型" CommandId="Dialog_BuildingSystems_ChangeCurveType:Control_BuildingSystems_ChangeType" Paths="上下文选项卡&gt;编辑" />
+  <ShortcutItem CommandName="重新应用 &#xA;类型" CommandId="Dialog_BuildingSystems_ChangeCurveType:Control_BuildingSystems_ReapplyType" Paths="上下文选项卡&gt;编辑" />
+  <ShortcutItem CommandName="转换 &#xA;占位符" CommandId="Dialog_BuildingSystems_ConvertPlaceHolder:Control_BuildingSystems_ConvertPlaceHolder" Paths="上下文选项卡&gt;编辑" />
+  <ShortcutItem CommandName="管帽 &#xA;开放端点" CommandId="Dialog_BuildingSystems_AddCap:Control_BuildingSystems_AddCap" Paths="上下文选项卡&gt;编辑" />
+  <ShortcutItem CommandName="添加 &#xA;垂直" CommandId="Dialog_BuildingSystems_3dSnapping:Control_BuildingSystems_MaintainSlope" Paths="上下文选项卡&gt;偏移连接" />
+  <ShortcutItem CommandName="更改 &#xA;坡度" CommandId="Dialog_BuildingSystems_3dSnapping:Control_BuildingSystems_3dSnapping" Paths="上下文选项卡&gt;偏移连接" />
+  <ShortcutItem CommandName="占位符" CommandId="Dialog_BuildingSystems_RbsRoutepathModify:Control_BuildingSystems_RbsBtnUsingPlaceholders" Paths="上下文选项卡&gt;解决方案几何图形" />
+  <ShortcutItem CommandName="三维图元" CommandId="Dialog_BuildingSystems_RbsRoutepathModify:Control_BuildingSystems_RbsBtnUsing3DElements" Paths="上下文选项卡&gt;解决方案几何图形" />
+  <ShortcutItem CommandName="完成" CommandId="Dialog_BuildingSystems_RbsRoutepathModify:Control_BuildingSystems_RbsFinish" Paths="上下文选项卡&gt;布线解决方案" />
+  <ShortcutItem CommandName="取消" CommandId="Dialog_BuildingSystems_RbsRoutepathModify:Control_BuildingSystems_RbsRoutingSolutionQuit" Paths="上下文选项卡&gt;布线解决方案" />
+  <ShortcutItem CommandName="弧形 导线" CommandId="Dialog_BuildingSystems_RbsWireConversionBar:Control_BuildingSystems_RbsWireConversionArc" Paths="上下文选项卡&gt;转换为导线" />
+  <ShortcutItem CommandName="带倒角 导线" CommandId="Dialog_BuildingSystems_RbsWireConversionBar:Control_BuildingSystems_RbsWireConversionChamfered" Paths="上下文选项卡&gt;转换为导线" />
+  <ShortcutItem CommandName="编辑 分区" CommandId="Dialog_BuildingSystems_RbsZoneEditBar:Control_BuildingSystems_RbsZoneEdit" Paths="上下文选项卡&gt;分区" />
+  <ShortcutItem CommandName="全部 分段" CommandId="Dialog_CurtainGridFamily_CurtainGridDialog:Control_CurtainGridFamily_WholeGrid" Paths="上下文选项卡&gt;放置" />
+  <ShortcutItem CommandName="一 段" CommandId="Dialog_CurtainGridFamily_CurtainGridDialog:Control_CurtainGridFamily_OneSeg" Paths="上下文选项卡&gt;放置" />
+  <ShortcutItem CommandName="除拾取外的 全部" CommandId="Dialog_CurtainGridFamily_CurtainGridDialog:Control_CurtainGridFamily_ExcludeSegs" Paths="上下文选项卡&gt;放置" />
+  <ShortcutItem CommandName="重新放置 幕墙网格" CommandId="Dialog_CurtainGridFamily_CurtainGridDialog:Control_CurtainGridFamily_FinishGirdLine" Paths="上下文选项卡&gt;放置" />
+  <ShortcutItem CommandName="选择 多个" CommandId="Dialog_CurtainGridFamily_CurtasysByFaceDbar:Control_CurtainGridFamily_SelMultiCheck" Paths="上下文选项卡&gt;多重选择" />
+  <ShortcutItem CommandName="清除 选择" CommandId="Dialog_CurtainGridFamily_CurtasysByFaceDbar:Control_CurtainGridFamily_CancelMultiPickDbar" Paths="上下文选项卡&gt;多重选择" />
+  <ShortcutItem CommandName="创建 系统" CommandId="Dialog_CurtainGridFamily_CurtasysByFaceDbar:Control_CurtainGridFamily_FinishMultiPickDbar" Paths="上下文选项卡&gt;多重选择" />
+  <ShortcutItem CommandName="清除 选择" CommandId="Dialog_CurtainGridFamily_CurtasysByFaceEditDbar:Control_CurtainGridFamily_CancelMultiPickDbar" Paths="上下文选项卡&gt;多重选择" />
+  <ShortcutItem CommandName="重新创建 系统" CommandId="Dialog_CurtainGridFamily_CurtasysByFaceEditDbar:Control_CurtainGridFamily_FinishMultiPickDbar" Paths="上下文选项卡&gt;多重选择" />
+  <ShortcutItem CommandName="编辑面 选择" CommandId="Dialog_CurtainGridFamily_CurtaSystemEdit:Control_CurtainGridFamily_EditCurtaSystem" Paths="上下文选项卡&gt;面模型" />
+  <ShortcutItem CommandName="面的 更新" CommandId="Dialog_CurtainGridFamily_CurtaSystemEdit:Control_CurtainGridFamily_RedoCurtaSystem" Paths="上下文选项卡&gt;面模型" />
+  <ShortcutItem CommandName="结合" CommandId="Dialog_CurtainGridFamily_MullionJoinsBar:Control_CurtainGridFamily_SetMillionJoinsConti" Paths="上下文选项卡&gt;竖梃" />
+  <ShortcutItem CommandName="打断" CommandId="Dialog_CurtainGridFamily_MullionJoinsBar:Control_CurtainGridFamily_SetMillionJoinsButt" Paths="上下文选项卡&gt;竖梃" />
+  <ShortcutItem CommandName="网格 线" CommandId="Dialog_CurtainGridFamily_MullionPlacement:Control_CurtainGridFamily_RadioMullionLine" Paths="上下文选项卡&gt;放置" />
+  <ShortcutItem CommandName="单段 网格线" CommandId="Dialog_CurtainGridFamily_MullionPlacement:Control_CurtainGridFamily_RadioMullionSegment" Paths="上下文选项卡&gt;放置" />
+  <ShortcutItem CommandName="全部 网格线" CommandId="Dialog_CurtainGridFamily_MullionPlacement:Control_CurtainGridFamily_RadioMullionGrid" Paths="上下文选项卡&gt;放置" />
+  <ShortcutItem CommandName="编辑 标签" CommandId="Dialog_Detail_TagNoteDlgBar:Control_Detail_EditSubstitutionText" Paths="上下文选项卡&gt;标签" />
+  <ShortcutItem CommandName="添加左直线引线" CommandId="Dialog_Detail_TextNoteDlgBar:Control_Detail_TextnoteAddleader" Paths="上下文选项卡&gt;引线" />
+  <ShortcutItem CommandName="添加右直线引线" CommandId="Dialog_Detail_TextNoteDlgBar:Control_Detail_TextnoteAddleaderR" Paths="上下文选项卡&gt;引线" />
+  <ShortcutItem CommandName="添加左弧引线" CommandId="Dialog_Detail_TextNoteDlgBar:Control_Detail_TextnoteAddLeaderArc" Paths="上下文选项卡&gt;引线" />
+  <ShortcutItem CommandName="添加右弧引线" CommandId="Dialog_Detail_TextNoteDlgBar:Control_Detail_TextnoteAddLeaderArcR" Paths="上下文选项卡&gt;引线" />
+  <ShortcutItem CommandName="删除最后一条引线" CommandId="Dialog_Detail_TextNoteDlgBar:Control_Detail_TextnoteRmvleader" Paths="上下文选项卡&gt;引线" />
+  <ShortcutItem CommandName="左上引线" CommandId="Dialog_Detail_TextNoteDlgBar:Control_Detail_LeaderTopLeft" Paths="上下文选项卡&gt;引线" />
+  <ShortcutItem CommandName="左中引线" CommandId="Dialog_Detail_TextNoteDlgBar:Control_Detail_LeaderMiddleLeft" Paths="上下文选项卡&gt;引线" />
+  <ShortcutItem CommandName="左下引线" CommandId="Dialog_Detail_TextNoteDlgBar:Control_Detail_LeaderBottomLeft" Paths="上下文选项卡&gt;引线" />
+  <ShortcutItem CommandName="右上引线" CommandId="Dialog_Detail_TextNoteDlgBar:Control_Detail_LeaderTopRight" Paths="上下文选项卡&gt;引线" />
+  <ShortcutItem CommandName="右中引线" CommandId="Dialog_Detail_TextNoteDlgBar:Control_Detail_LeaderMiddleRight" Paths="上下文选项卡&gt;引线" />
+  <ShortcutItem CommandName="右下引线" CommandId="Dialog_Detail_TextNoteDlgBar:Control_Detail_LeaderBottomRight" Paths="上下文选项卡&gt;引线" />
+  <ShortcutItem CommandName="无 &#xA;引线" CommandId="Dialog_Detail_TextNoteUiDlgBarNew:Control_Detail_TextLeaderNone" Paths="上下文选项卡&gt;引线" />
+  <ShortcutItem CommandName="一 段" CommandId="Dialog_Detail_TextNoteUiDlgBarNew:Control_Detail_TextLeaderOneseg" Paths="上下文选项卡&gt;引线" />
+  <ShortcutItem CommandName="两 &#xA;段" CommandId="Dialog_Detail_TextNoteUiDlgBarNew:Control_Detail_TextLeaderTwoseg" Paths="上下文选项卡&gt;引线" />
+  <ShortcutItem CommandName="曲线形" CommandId="Dialog_Detail_TextNoteUiDlgBarNew:Control_Detail_TextLeaderArc" Paths="上下文选项卡&gt;引线" />
+  <ShortcutItem CommandName="左上引线" CommandId="Dialog_Detail_TextNoteUiDlgBarNew:Control_Detail_LeaderTopLeft" Paths="上下文选项卡&gt;引线" />
+  <ShortcutItem CommandName="左中引线" CommandId="Dialog_Detail_TextNoteUiDlgBarNew:Control_Detail_LeaderMiddleLeft" Paths="上下文选项卡&gt;引线" />
+  <ShortcutItem CommandName="左下引线" CommandId="Dialog_Detail_TextNoteUiDlgBarNew:Control_Detail_LeaderBottomLeft" Paths="上下文选项卡&gt;引线" />
+  <ShortcutItem CommandName="右上引线" CommandId="Dialog_Detail_TextNoteUiDlgBarNew:Control_Detail_LeaderTopRight" Paths="上下文选项卡&gt;引线" />
+  <ShortcutItem CommandName="右中引线" CommandId="Dialog_Detail_TextNoteUiDlgBarNew:Control_Detail_LeaderMiddleRight" Paths="上下文选项卡&gt;引线" />
+  <ShortcutItem CommandName="右下引线" CommandId="Dialog_Detail_TextNoteUiDlgBarNew:Control_Detail_LeaderBottomRight" Paths="上下文选项卡&gt;引线" />
+  <ShortcutItem CommandName="编辑 组" CommandId="ID_EDITGROUP_GROUP_EDIT" Shortcuts="EG" Paths="上下文选项卡&gt;成组" />
+  <ShortcutItem CommandName="解组" CommandId="ID_EDITGROUP_UNGROUP" Shortcuts="UG" Paths="上下文选项卡&gt;成组" />
+  <ShortcutItem CommandName="链接" CommandId="ID_REPLACE_GROUP_WITH_LINK" Shortcuts="LG" Paths="上下文选项卡&gt;成组" />
+  <ShortcutItem CommandName="附着的 详图组" CommandId="Dialog_ElementGroup_EditGroupNew:Control_ElementGroup_EditGroupAttachDetail" Paths="上下文选项卡&gt;成组" />
+  <ShortcutItem CommandName="从模型组 分离" CommandId="Dialog_ElementGroup_EditGroupNew:Control_ElementGroup_EditGroupDetachDetail" Paths="上下文选项卡&gt;成组" />
+  <ShortcutItem CommandName="恢复所有 已排除成员" CommandId="ID_RESTORE_ALL_EXCLUDED" Shortcuts="RA" Paths="上下文选项卡&gt;成组; 关联菜单" />
+  <ShortcutItem CommandName="编辑 方案" CommandId="Dialog_Essentials_ColorFillDlgBar:Control_Essentials_EditColorScheme" Paths="上下文选项卡&gt;方案" />
+  <ShortcutItem CommandName="可见性 设置" CommandId="Dialog_Essentials_CurveVisibilityDbar:Control_Essentials_Visibility" Paths="上下文选项卡&gt;可见性" />
+  <ShortcutItem CommandName="影响 范围" CommandId="Dialog_Essentials_DatumOptionBar:Control_Essentials_DatumPropagateExtents" Paths="上下文选项卡&gt;基准" />
+  <ShortcutItem CommandName="编辑 尺寸界线" CommandId="IDC_EDIT_WITNESS_REFS" Shortcuts="EW" Paths="上下文选项卡&gt;尺寸界线" />
+  <ShortcutItem CommandName="编辑顶部" CommandId="Dialog_Essentials_EditBlend:Control_Essentials_EditSketch2" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="编辑底部" CommandId="Dialog_Essentials_EditBlend:Control_Essentials_EditSketch" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="可见性 设置" CommandId="Dialog_Essentials_EditBlend:Control_Essentials_SketchVisibility" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="编辑 放样" CommandId="Dialog_Essentials_EditSweep:Control_Essentials_EditSweep" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="可见性 设置" CommandId="Dialog_Essentials_EditSweep:Control_Essentials_SketchVisibility" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="编辑 放样融合" CommandId="Dialog_Essentials_EditSweptBlend:Control_Essentials_EditSweptBlend" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="可见性 设置" CommandId="Dialog_Essentials_EditSweptBlend:Control_Essentials_SketchVisibility" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="编辑模型文字" CommandId="Dialog_Essentials_EditTextDbar:Control_Essentials_EditText" Paths="上下文选项卡&gt;文字" />
+  <ShortcutItem CommandName="编辑模型文字" CommandId="Dialog_Essentials_EditTextVisDbar:Control_Essentials_EditText" Paths="上下文选项卡&gt;文字" />
+  <ShortcutItem CommandName="可见性 设置" CommandId="Dialog_Essentials_EditTextVisDbar:Control_Essentials_Visibility" Paths="上下文选项卡&gt;文字" />
+  <ShortcutItem CommandName="可见性 设置" CommandId="Dialog_Essentials_ElemVisibilityDbar:Control_Essentials_SketchVisibility" Paths="上下文选项卡&gt;可见性" />
+  <ShortcutItem CommandName="过滤器" CommandId="Dialog_Essentials_FilterSelection:Control_Essentials_BtnFilterSelection" Paths="上下文选项卡&gt;过滤器" />
+  <ShortcutItem CommandName="取消隐藏 图元" CommandId="ID_VIEW_UNHIDE_ELEMENTS" Shortcuts="EU" Paths="上下文选项卡&gt;显示隐藏的图元" />
+  <ShortcutItem CommandName="取消隐藏 类别" CommandId="ID_VIEW_UNHIDE_BY_CATEGORY" Shortcuts="VU" Paths="上下文选项卡&gt;显示隐藏的图元" />
+  <ShortcutItem CommandName="切换显示隐藏 图元模式" CommandId="ID_VIEW_FRAME_REVEALHIDDEN" Shortcuts="RH" Paths="上下文选项卡&gt;显示隐藏的图元; 视图控制栏" />
+  <ShortcutItem CommandName="放置在 垂直面上; 放置在垂直面上" CommandId="Dialog_Essentials_GenhostCreate:Control_Essentials_PlaceByInsert" Paths="上下文选项卡&gt;放置" />
+  <ShortcutItem CommandName="放置在 面上; 放置在面上" CommandId="Dialog_Essentials_GenhostCreate:Control_Essentials_PlaceByXface" Paths="上下文选项卡&gt;放置" />
+  <ShortcutItem CommandName="放置在 工作平面上; 放置在工作平面上" CommandId="Dialog_Essentials_GenhostCreate:Control_Essentials_PlaceByWorkplane" Paths="上下文选项卡&gt;放置" />
+  <ShortcutItem CommandName="删除图层" CommandId="Dialog_Essentials_ImportInstanceExplode:Control_Essentials_ImportDeleteLayers" Paths="上下文选项卡&gt;导入实例" />
+  <ShortcutItem CommandName="分解" CommandId="Dialog_Essentials_ImportInstanceExplode:Control_Essentials_ImportPartialExplode" Paths="上下文选项卡&gt;导入实例" />
+  <ShortcutItem CommandName="分解" CommandId="Dialog_Essentials_ImportInstanceExplode:Control_Essentials_ImportExplode" Paths="上下文选项卡&gt;导入实例" />
+  <ShortcutItem CommandName="查询" CommandId="Dialog_Essentials_ImportInstanceExplode:Control_Essentials_ImportQuery" Paths="上下文选项卡&gt;导入实例" />
+  <ShortcutItem CommandName="可见性 设置" CommandId="Dialog_Essentials_ImportInstanceExplode:Control_Essentials_SketchVisibility" Paths="上下文选项卡&gt;导入实例" />
+  <ShortcutItem CommandName="光源 定义" CommandId="Dialog_Essentials_LightSourceDefinitionDlgBar:Control_Essentials_LightSourceDefinition" Paths="上下文选项卡&gt;照明" />
+  <ShortcutItem CommandName="融合" CommandId="Dialog_Essentials_ModifyCurveDBar:Control_Essentials_CurveByPointsDissolveButton" Paths="上下文选项卡&gt;修改线" />
+  <ShortcutItem CommandName="编辑粘贴的 图元" CommandId="Dialog_Essentials_PasteMode:Control_Essentials_PasteEditMode" Paths="上下文选项卡&gt;编辑粘贴内容" />
+  <ShortcutItem CommandName="完成" CommandId="Dialog_Essentials_PasteMode:Control_Essentials_FinishPaste" Paths="上下文选项卡&gt;编辑粘贴内容" />
+  <ShortcutItem CommandName="取消" CommandId="Dialog_Essentials_PasteMode:Control_Essentials_QuitPaste" Paths="上下文选项卡&gt;编辑粘贴内容" />
+  <ShortcutItem CommandName="视图 范围" CommandId="ID_EDIT_VIEW_RANGE" Shortcuts="VR" Paths="上下文选项卡&gt;区域; “属性”面板" />
+  <ShortcutItem CommandName="使自适应" CommandId="Dialog_Essentials_PointElementFlexGeomDbar:Control_Essentials_PointElementMakeAdaptive" Paths="上下文选项卡&gt;自适应构件" />
+  <ShortcutItem CommandName="重新指定 主连接件" CommandId="Dialog_Essentials_RbsConnectorLinkConnectorBar:Control_Essentials_RbsConnectorBtnPrimary" Paths="上下文选项卡&gt;主连接件" />
+  <ShortcutItem CommandName="链接连接件" CommandId="Dialog_Essentials_RbsConnectorLinkConnectorBar:Control_Essentials_RbsConnectorBtnLinkConnector" Paths="上下文选项卡&gt;连接件链接" />
+  <ShortcutItem CommandName="删除链接" CommandId="Dialog_Essentials_RbsConnectorLinkConnectorBar:Control_Essentials_RbsConnectorBtnRemoveLink" Paths="上下文选项卡&gt;连接件链接" />
+  <ShortcutItem CommandName="放置在面上" CommandId="Dialog_Essentials_RbsConnectorPlacementBar:Control_Essentials_PlaceByXface" Paths="上下文选项卡&gt;放置" />
+  <ShortcutItem CommandName="放置在工作平面上" CommandId="Dialog_Essentials_RbsConnectorPlacementBar:Control_Essentials_PlaceByWorkplane" Paths="上下文选项卡&gt;放置" />
+  <ShortcutItem CommandName="协调 查阅" CommandId="Dialog_Essentials_ReconcileRvtLink:Control_Essentials_ReconcileCurrentLink" Paths="上下文选项卡&gt;监视" />
+  <ShortcutItem CommandName="拾取 新主体" CommandId="Dialog_Essentials_RehostPoint:Control_Essentials_RehostPoint" Paths="上下文选项卡&gt;主体" />
+  <ShortcutItem CommandName="绑定 链接" CommandId="Dialog_Essentials_RvtLinkInstanceStdDbar:Control_Essentials_BindLinkAsGroup" Paths="上下文选项卡&gt;链接" />
+  <ShortcutItem CommandName="拆分 线段" CommandId="Dialog_Essentials_SectionBar:Control_Essentials_SplitSectionSegment" Paths="上下文选项卡&gt;剖面" />
+  <ShortcutItem CommandName="编辑 草图; 编辑 边界; 编辑 迹线; 编辑 路径" CommandId="Dialog_Essentials_SketchEdit:Control_Essentials_EditSketch" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="编辑 旋转; 编辑 边界" CommandId="Dialog_Essentials_SketchEditVisib:Control_Essentials_EditSketch" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="可见性 设置" CommandId="Dialog_Essentials_SketchEditVisib:Control_Essentials_SketchVisibility" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="编辑 拉伸" CommandId="Dialog_Essentials_SketchEditVisibDepth:Control_Essentials_EditSketch" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="可见性 设置" CommandId="Dialog_Essentials_SketchEditVisibDepth:Control_Essentials_SketchVisibility" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="添加 控制点" CommandId="Dialog_Essentials_SplineEdit:Control_Essentials_SplineAddControl" Paths="上下文选项卡&gt;编辑样条曲线" />
+  <ShortcutItem CommandName="删除 控制点" CommandId="Dialog_Essentials_SplineEdit:Control_Essentials_SplineDeleteControl" Paths="上下文选项卡&gt;编辑样条曲线" />
+  <ShortcutItem CommandName="在放置时 进行标记" CommandId="Dialog_Essentials_TagOnPlacement:Control_Essentials_TagOnPlacement" Paths="上下文选项卡&gt;标记" />
+  <ShortcutItem CommandName="向右 扭曲" CommandId="Dialog_Essentials_VertexLinksDbar:Control_Essentials_ShiftCw" Paths="上下文选项卡&gt;顶点连接" />
+  <ShortcutItem CommandName="向左 扭曲" CommandId="Dialog_Essentials_VertexLinksDbar:Control_Essentials_ShiftCcw" Paths="上下文选项卡&gt;顶点连接" />
+  <ShortcutItem CommandName="重设顶点连接" CommandId="Dialog_Essentials_VertexLinksDbar:Control_Essentials_ResetVtxConnections" Paths="上下文选项卡&gt;顶点连接" />
+  <ShortcutItem CommandName="底部 控件" CommandId="Dialog_Essentials_VertexLinksDbar:Control_Essentials_VtxCtrlOnLoop0" Paths="上下文选项卡&gt;顶点连接" />
+  <ShortcutItem CommandName="顶部 控件" CommandId="Dialog_Essentials_VertexLinksDbar:Control_Essentials_VtxCtrlOnLoop1" Paths="上下文选项卡&gt;顶点连接" />
+  <ShortcutItem CommandName="完成 漫游" CommandId="Dialog_Essentials_WalkthroughFinish:Control_Essentials_CancelEditor" Paths="上下文选项卡&gt;漫游" />
+  <ShortcutItem CommandName="拾取 新主体" CommandId="Dialog_Family_EditInsertRehostDbar:Control_Family_EditInsertRehost" Paths="上下文选项卡&gt;主体" />
+  <ShortcutItem CommandName="在位 编辑" CommandId="Dialog_Family_FamInstDbar:Control_Family_EditInplaceFam" Paths="上下文选项卡&gt;模型" />
+  <ShortcutItem CommandName="编辑内建 Rvt 链接" CommandId="Dialog_Family_FamInstDbarRvtLink:Control_Family_EditInplaceFamRvtLink" Paths="上下文选项卡&gt;Model1" />
+  <ShortcutItem CommandName="拾取新的 工作平面" CommandId="Dialog_Family_FamInstGridDbar:Control_Family_PickHost" Paths="上下文选项卡&gt;工作平面" />
+  <ShortcutItem CommandName="添加引线" CommandId="Dialog_Family_FaminstLeaderDlgbar:Control_Family_FaminstAddleader" Paths="上下文选项卡&gt;引线" />
+  <ShortcutItem CommandName="删除引线" CommandId="Dialog_Family_FaminstLeaderDlgbar:Control_Family_FaminstRmvleader" Paths="上下文选项卡&gt;引线" />
+  <ShortcutItem CommandName="拾取主要 主体" CommandId="Dialog_Family_FamInstMultihostPickMain:Control_Family_PickMainHost" Paths="上下文选项卡&gt;主体" />
+  <ShortcutItem CommandName="拾取 新主体" CommandId="Dialog_Family_FamInstOffsetDbar:Control_Family_PickHost" Paths="上下文选项卡&gt;主体" />
+  <ShortcutItem CommandName="在位 编辑" CommandId="Dialog_Family_FamInstPanelDbar:Control_Family_EditInplaceFam" Paths="上下文选项卡&gt;模型" />
+  <ShortcutItem CommandName="内建 模型" CommandId="Dialog_Family_ManyInstDbar:Control_Family_NewInplaceAny" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="在轴网交点处" CommandId="Dialog_Family_NewIsoFooting:Control_Family_CreateFootingByGridIntersection" Paths="上下文选项卡&gt;多个" />
+  <ShortcutItem CommandName="在结构柱处" CommandId="Dialog_Family_NewIsoFooting:Control_Family_CreateFootingFromStructuralColumn" Paths="上下文选项卡&gt;多个" />
+  <ShortcutItem CommandName="在轴网交点处" CommandId="Dialog_Family_NewStructuralColumn:Control_Family_GridIntersection" Paths="上下文选项卡&gt;多个" />
+  <ShortcutItem CommandName="在建筑柱处" CommandId="Dialog_Family_NewStructuralColumn:Control_Family_FromArchColumn" Paths="上下文选项卡&gt;多个" />
+  <ShortcutItem CommandName="单向 垂直" CommandId="Dialog_Family_SelectCtrlIcon:Control_Family_RadioVerArrow" Paths="上下文选项卡&gt;控制点类型" />
+  <ShortcutItem CommandName="双向 垂直" CommandId="Dialog_Family_SelectCtrlIcon:Control_Family_RadioVerArrow2" Paths="上下文选项卡&gt;控制点类型" />
+  <ShortcutItem CommandName="单向 水平" CommandId="Dialog_Family_SelectCtrlIcon:Control_Family_RadioHorArrow" Paths="上下文选项卡&gt;控制点类型" />
+  <ShortcutItem CommandName="双向 水平" CommandId="Dialog_Family_SelectCtrlIcon:Control_Family_RadioHorArrow2" Paths="上下文选项卡&gt;控制点类型" />
+  <ShortcutItem CommandName="水平" CommandId="Dialog_HostObj_CorniceReveal:Control_HostObj_CorniceHorizontal" Paths="上下文选项卡&gt;放置" />
+  <ShortcutItem CommandName="垂直" CommandId="Dialog_HostObj_CorniceReveal:Control_HostObj_CorniceVertical" Paths="上下文选项卡&gt;放置" />
+  <ShortcutItem CommandName="重新放置 墙饰条; 重新放置 分隔条" CommandId="Dialog_HostObj_CorniceReveal:Control_HostObj_FinishCorniceReveal" Paths="上下文选项卡&gt;放置" />
+  <ShortcutItem CommandName="编辑 轮廓" CommandId="Dialog_HostObj_SketchEditElevationRem:Control_HostObj_EditElevationSketch" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="重设 轮廓" CommandId="Dialog_HostObj_SketchEditElevationRem:Control_HostObj_RemoveElevationSketch" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="墙 洞口" CommandId="Dialog_HostObj_CreateWallOpening:Control_HostObj_CreateWallOpening" Paths="上下文选项卡&gt;修改墙" />
+  <ShortcutItem CommandName="附着 顶部/底部" CommandId="Dialog_HostObj_CreateWallOpening:Control_HostObj_ExtendWalls" Paths="上下文选项卡&gt;修改墙" />
+  <ShortcutItem CommandName="分离 顶部/底部" CommandId="Dialog_HostObj_CreateWallOpening:Control_HostObj_UnextendWalls" Paths="上下文选项卡&gt;修改墙" />
+  <ShortcutItem CommandName="完成" CommandId="Dialog_HostObj_DividedPathEditRefSelectionDbar:Control_HostObj_DividedPathFinishMultiPickDbar" Paths="上下文选项卡&gt;交点" />
+  <ShortcutItem CommandName="取消" CommandId="Dialog_HostObj_DividedPathEditRefSelectionDbar:Control_HostObj_DividedPathCancelMultiPickDbar" Paths="上下文选项卡&gt;交点" />
+  <ShortcutItem CommandName="U 网格" CommandId="Dialog_HostObj_DividedSurfaceDirection1Bar:Control_HostObj_GridlinesU" Paths="上下文选项卡&gt;UV 网格和交点" />
+  <ShortcutItem CommandName="V 网格" CommandId="Dialog_HostObj_DividedSurfaceDirection1Bar:Control_HostObj_GridlinesV" Paths="上下文选项卡&gt;UV 网格和交点" />
+  <ShortcutItem CommandName="交点" CommandId="Dialog_HostObj_DividedSurfaceDirection1Bar:Control_HostObj_IntrstPick" Paths="上下文选项卡&gt;UV 网格和交点" />
+  <ShortcutItem CommandName="交点" CommandId="Dialog_HostObj_DividedSurfaceDirection1Bar:Control_HostObj_IntrstList" Paths="上下文选项卡&gt;UV 网格和交点" />
+  <ShortcutItem CommandName="表面" CommandId="Dialog_HostObj_DividedSurfaceDisplayPropertiesBar:Control_HostObj_ShowSurf" Paths="上下文选项卡&gt;表面表示" />
+  <ShortcutItem CommandName="填充图案" CommandId="Dialog_HostObj_DividedSurfaceDisplayPropertiesBar:Control_HostObj_ShowPtrn" Paths="上下文选项卡&gt;表面表示" />
+  <ShortcutItem CommandName="构件" CommandId="Dialog_HostObj_DividedSurfaceDisplayPropertiesBar:Control_HostObj_ShowComp" Paths="上下文选项卡&gt;表面表示" />
+  <ShortcutItem CommandName="完成" CommandId="Dialog_HostObj_DividedSurfaceEditRefSelectionDbar:Control_HostObj_DividedSurfaceFinishMultiPickDbar" Paths="上下文选项卡&gt;交点" />
+  <ShortcutItem CommandName="取消" CommandId="Dialog_HostObj_DividedSurfaceEditRefSelectionDbar:Control_HostObj_DividedSurfaceCancelMultiPickDbar" Paths="上下文选项卡&gt;交点" />
+  <ShortcutItem CommandName="添加/删除 墙" CommandId="Dialog_HostObj_EditCornice:Control_HostObj_EditWallSweep" Paths="上下文选项卡&gt;墙饰条" />
+  <ShortcutItem CommandName="修改 转角" CommandId="Dialog_HostObj_EditCornice:Control_HostObj_ChangeSweepReturns" Paths="上下文选项卡&gt;墙饰条" />
+  <ShortcutItem CommandName="添加/删除 线段" CommandId="Dialog_HostObj_EditCurtainGridDialog:Control_HostObj_CurtaGridLineAddRemoveSegs" Paths="上下文选项卡&gt;幕墙网格" />
+  <ShortcutItem CommandName="编辑老虎窗 洞口" CommandId="Dialog_HostObj_EditDormerOpening:Control_HostObj_EditDormerOpening" Paths="上下文选项卡&gt;洞口" />
+  <ShortcutItem CommandName="添加/删除 线段" CommandId="Dialog_HostObj_EditMiterSweepHostDialog:Control_HostObj_EditSweepHost" Paths="上下文选项卡&gt;屋顶封檐板" />
+  <ShortcutItem CommandName="修改 斜接" CommandId="Dialog_HostObj_EditMiterSweepHostDialog:Control_HostObj_MiterSweepHost" Paths="上下文选项卡&gt;屋顶封檐板" />
+  <ShortcutItem CommandName="添加/删除 墙" CommandId="Dialog_HostObj_EditReveal:Control_HostObj_EditWallSweep" Paths="上下文选项卡&gt;分隔条" />
+  <ShortcutItem CommandName="修改 转角" CommandId="Dialog_HostObj_EditReveal:Control_HostObj_ChangeSweepReturns" Paths="上下文选项卡&gt;分隔条" />
+  <ShortcutItem CommandName="添加/删除 线段" CommandId="Dialog_HostObj_EditSweepHostDialog:Control_HostObj_EditSweepHost" Paths="上下文选项卡&gt;轮廓" />
+  <ShortcutItem CommandName="修改 转角" CommandId="Dialog_HostObj_EditWallsweepReturns:Control_HostObj_ChangeSweepReturns" Paths="上下文选项卡&gt;墙饰条" />
+  <ShortcutItem CommandName="编辑面 选择" CommandId="Dialog_HostObj_FaceRoofEdit:Control_HostObj_EditFaceRoof" Paths="上下文选项卡&gt;面模型" />
+  <ShortcutItem CommandName="面的 更新" CommandId="Dialog_HostObj_FaceRoofEdit:Control_HostObj_RedoFaceRoof" Paths="上下文选项卡&gt;面模型" />
+  <ShortcutItem CommandName="选择 多个" CommandId="Dialog_HostObj_FloorByFaceDbar:Control_HostObj_SelMultiCheck" Paths="上下文选项卡&gt;多重选择" />
+  <ShortcutItem CommandName="清除 选择" CommandId="Dialog_HostObj_FloorByFaceDbar:Control_HostObj_CancelMultiPickDbar" Paths="上下文选项卡&gt;多重选择" />
+  <ShortcutItem CommandName="创建 楼板" CommandId="Dialog_HostObj_FloorByFaceDbar:Control_HostObj_FinishMultiPickDbar" Paths="上下文选项卡&gt;多重选择" />
+  <ShortcutItem CommandName="垂直" CommandId="Dialog_HostObj_MiterSweepHostDialog:Control_HostObj_MiterVertical" Paths="上下文选项卡&gt;斜接" />
+  <ShortcutItem CommandName="水平" CommandId="Dialog_HostObj_MiterSweepHostDialog:Control_HostObj_MiterHorizontal" Paths="上下文选项卡&gt;斜接" />
+  <ShortcutItem CommandName="垂足" CommandId="Dialog_HostObj_MiterSweepHostDialog:Control_HostObj_MiterNormalToPath" Paths="上下文选项卡&gt;斜接" />
+  <ShortcutItem CommandName="编辑 草图" CommandId="Dialog_HostObj_OpeningDbar:Control_HostObj_EditSketch" Paths="上下文选项卡&gt;洞口" />
+  <ShortcutItem CommandName="编辑 草图" CommandId="Dialog_HostObj_OpeningWRehostDbar:Control_HostObj_EditSketch1" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="拾取 新主体" CommandId="Dialog_HostObj_OpeningWRehostDbar:Control_HostObj_PickHost" Paths="上下文选项卡&gt;主体" />
+  <ShortcutItem CommandName="面的 更新" CommandId="Dialog_HostObj_RedoFaceBased:Control_HostObj_RedoFaceBased" Paths="上下文选项卡&gt;面模型" />
+  <ShortcutItem CommandName="选择 多个" CommandId="Dialog_HostObj_RoofByFaceDbar:Control_HostObj_SelMultiCheck" Paths="上下文选项卡&gt;多重选择" />
+  <ShortcutItem CommandName="清除 选择" CommandId="Dialog_HostObj_RoofByFaceDbar:Control_HostObj_CancelMultiPickDbar" Paths="上下文选项卡&gt;多重选择" />
+  <ShortcutItem CommandName="创建 屋顶" CommandId="Dialog_HostObj_RoofByFaceDbar:Control_HostObj_FinishMultiPickDbar" Paths="上下文选项卡&gt;多重选择" />
+  <ShortcutItem CommandName="清除 选择" CommandId="Dialog_HostObj_RoofByFaceEditDbar:Control_HostObj_CancelMultiPickDbar" Paths="上下文选项卡&gt;多重选择" />
+  <ShortcutItem CommandName="重新创建 屋顶" CommandId="Dialog_HostObj_RoofByFaceEditDbar:Control_HostObj_FinishMultiPickDbar" Paths="上下文选项卡&gt;多重选择" />
+  <ShortcutItem CommandName="编辑 轮廓" CommandId="Dialog_HostObj_SketchEditElevation:Control_HostObj_EditElevationSketch" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="墙 洞口" CommandId="Dialog_HostObj_SketchEditElevation:Control_HostObj_CreateWallOpening" Paths="上下文选项卡&gt;修改墙" />
+  <ShortcutItem CommandName="附着 顶部/底部" CommandId="Dialog_HostObj_SketchEditElevation:Control_HostObj_ExtendWalls" Paths="上下文选项卡&gt;修改墙" />
+  <ShortcutItem CommandName="分离 顶部/底部" CommandId="Dialog_HostObj_SketchEditElevation:Control_HostObj_UnextendWalls" Paths="上下文选项卡&gt;修改墙" />
+  <ShortcutItem CommandName="附着 顶部/底部" CommandId="Dialog_HostObj_SketchEditElevationRem:Control_HostObj_ExtendWalls" Paths="上下文选项卡&gt;修改墙" />
+  <ShortcutItem CommandName="分离 顶部/底部" CommandId="Dialog_HostObj_SketchEditElevationRem:Control_HostObj_UnextendWalls" Paths="上下文选项卡&gt;修改墙" />
+  <ShortcutItem CommandName="编辑 轮廓" CommandId="Dialog_HostObj_SketchEditPlanNoStuff:Control_HostObj_EditSketch1" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="垂直洞口" CommandId="Dialog_HostObj_SketchEditPlanNoStuff:Control_HostObj_EditSketch2" Paths="上下文选项卡&gt;洞口" />
+  <ShortcutItem CommandName="修改 子图元" CommandId="Dialog_HostObj_SlabShapeMainEditorBar:Control_HostObj_ModifySlabShapeSubs" Paths="上下文选项卡&gt;形状编辑" />
+  <ShortcutItem CommandName="添加点" CommandId="Dialog_HostObj_SlabShapeMainEditorBar:Control_HostObj_DrawSlabShapeVertex" Paths="上下文选项卡&gt;形状编辑" />
+  <ShortcutItem CommandName="添加分割线" CommandId="Dialog_HostObj_SlabShapeMainEditorBar:Control_HostObj_DrawSlabShapeLines" Paths="上下文选项卡&gt;形状编辑" />
+  <ShortcutItem CommandName="拾取支座" CommandId="Dialog_HostObj_SlabShapeMainEditorBar:Control_HostObj_PickSlabShapeSupports" Paths="上下文选项卡&gt;形状编辑" />
+  <ShortcutItem CommandName="重设 形状" CommandId="Dialog_HostObj_SlabShapeMainEditorBar:Control_HostObj_RemoveSlabEdit" Paths="上下文选项卡&gt;形状编辑" />
+  <ShortcutItem CommandName="重新放置 封檐板; 重新放置 檐沟; 重新放置 楼板边缘" CommandId="Dialog_HostObj_SweepHostDialog:Control_HostObj_FinishSweepHost" Paths="上下文选项卡&gt;放置" />
+  <ShortcutItem CommandName="相关 主体" CommandId="Dialog_Massing_RelatedHosts:Control_Massing_RelatedHosts" Paths="上下文选项卡&gt;模型" />
+  <ShortcutItem CommandName="体量 楼层" CommandId="Dialog_Massing_CreateFaf:Control_Massing_CreateFaf" Paths="上下文选项卡&gt;模型" />
+  <ShortcutItem CommandName="插入 &#xA;接头" CommandId="Dialog_Rebar_CouplerDialogBar:Control_Rebar_Coupler" Paths="上下文选项卡&gt;钢筋接头" />
+  <ShortcutItem CommandName="单钢筋接头" CommandId="Dialog_Rebar_CouplerPlaceOneTwoDbar:Control_Rebar_CouplerOne" Paths="上下文选项卡&gt;放置选项" />
+  <ShortcutItem CommandName="双钢筋接头" CommandId="Dialog_Rebar_CouplerPlaceOneTwoDbar:Control_Rebar_CouplerTwo" Paths="上下文选项卡&gt;放置选项" />
+  <ShortcutItem CommandName="显示所选项的所有钢筋" CommandId="Dialog_Rebar_EditRebarSelectionDialogBar:Control_Rebar_EditRebarSelectShowAll" Paths="上下文选项卡&gt;编辑钢筋演示视图" />
+  <ShortcutItem CommandName="隐藏所选项的所有钢筋" CommandId="Dialog_Rebar_EditRebarSelectionDialogBar:Control_Rebar_EditRebarSelectHideAll" Paths="上下文选项卡&gt;编辑钢筋演示视图" />
+  <ShortcutItem CommandName="完成" CommandId="Dialog_Rebar_EditRebarSelectionDialogBar:Control_Rebar_EditRebarSelectFinish" Paths="上下文选项卡&gt;编辑钢筋演示视图" />
+  <ShortcutItem CommandName="取消" CommandId="Dialog_Rebar_EditRebarSelectionDialogBar:Control_Rebar_EditRebarSelectCancel" Paths="上下文选项卡&gt;编辑钢筋演示视图" />
+  <ShortcutItem CommandName="不同的 &#xA;钢筋集" CommandId="Dialog_Rebar_DistributionType:Control_Rebar_DistributionType" Paths="上下文选项卡&gt;钢筋集类型" />
+  <ShortcutItem CommandName="顶侧方向平行于工作平面放置" CommandId="Dialog_Rebar_RebarPlaceMultiPlanarOrientDbar:Control_Rebar_RebarPlaceLookingAtTop" Paths="上下文选项卡&gt;放置透视" />
+  <ShortcutItem CommandName="底侧方向平行于工作平面放置" CommandId="Dialog_Rebar_RebarPlaceMultiPlanarOrientDbar:Control_Rebar_RebarPlaceLookingAtBottom" Paths="上下文选项卡&gt;放置透视" />
+  <ShortcutItem CommandName="前侧方向平行于工作平面放置" CommandId="Dialog_Rebar_RebarPlaceMultiPlanarOrientDbar:Control_Rebar_RebarPlaceLookingAtFront" Paths="上下文选项卡&gt;放置透视" />
+  <ShortcutItem CommandName="后侧方向平行于工作平面放置" CommandId="Dialog_Rebar_RebarPlaceMultiPlanarOrientDbar:Control_Rebar_RebarPlaceLookingAtBack" Paths="上下文选项卡&gt;放置透视" />
+  <ShortcutItem CommandName="右侧方向平行于工作平面放置" CommandId="Dialog_Rebar_RebarPlaceMultiPlanarOrientDbar:Control_Rebar_RebarPlaceLookingAtRight" Paths="上下文选项卡&gt;放置透视" />
+  <ShortcutItem CommandName="左侧方向平行于工作平面放置" CommandId="Dialog_Rebar_RebarPlaceMultiPlanarOrientDbar:Control_Rebar_RebarPlaceLookingAtLeft" Paths="上下文选项卡&gt;放置透视" />
+  <ShortcutItem CommandName="平行于工作平面放置" CommandId="Dialog_Rebar_RebarPlaceParaPerpDbar:Control_Rebar_RebarPlaceParallel1" Paths="上下文选项卡&gt;放置方向" />
+  <ShortcutItem CommandName="垂直于工作平面并平行于最近的保护层参照放置" CommandId="Dialog_Rebar_RebarPlaceParaPerpDbar:Control_Rebar_RebarPlacePerpParallelToCover" Paths="上下文选项卡&gt;放置方向" />
+  <ShortcutItem CommandName="垂直于工作平面并垂直于最近的保护层参照放置" CommandId="Dialog_Rebar_RebarPlaceParaPerpDbar:Control_Rebar_RebarPlacePerpendicular1" Paths="上下文选项卡&gt;放置方向" />
+  <ShortcutItem CommandName="放置在当前工作平面上" CommandId="Dialog_Rebar_RebarPlacementPlaneDbar:Control_Rebar_RebarOnCurrentWorkPlane" Paths="上下文选项卡&gt;放置平面" />
+  <ShortcutItem CommandName="放置在近保护层参照上" CommandId="Dialog_Rebar_RebarPlacementPlaneDbar:Control_Rebar_RebarOnNearCover" Paths="上下文选项卡&gt;放置平面" />
+  <ShortcutItem CommandName="放置在远保护层参照上" CommandId="Dialog_Rebar_RebarPlacementPlaneDbar:Control_Rebar_RebarOnFarCover" Paths="上下文选项卡&gt;放置平面" />
+  <ShortcutItem CommandName="拾取新 主体" CommandId="Dialog_Rebar_RebarRehostDialogBar:Control_Rebar_RebarRehost" Paths="上下文选项卡&gt;主体" />
+  <ShortcutItem CommandName="显示钢筋集中的所有钢筋" CommandId="ID_REBAR_PRESENTATION_ALL" Paths="上下文选项卡&gt;演示视图" />
+  <ShortcutItem CommandName="显示钢筋集中的第一个和最后一个钢筋" CommandId="ID_REBAR_PRESENTATION_FIRSTLAST" Paths="上下文选项卡&gt;演示视图" />
+  <ShortcutItem CommandName="显示钢筋集中的中间钢筋" CommandId="ID_REBAR_PRESENTATION_MIDDLE" Paths="上下文选项卡&gt;演示视图" />
+  <ShortcutItem CommandName="在钢筋集中选择要显示的钢筋" CommandId="ID_REBAR_PRESENTATION_SELECT" Paths="上下文选项卡&gt;演示视图" />
+  <ShortcutItem CommandName="编辑 &#xA;约束" CommandId="ID_EDIT_REBAR_JOINS" Paths="上下文选项卡&gt;钢筋约束" />
+  <ShortcutItem CommandName="受约束的 &#xA;放置" CommandId="Dialog_Rebar_ConstraintPlacement:Control_Rebar_ConstraintPlacement" Paths="上下文选项卡&gt;钢筋约束" />
+  <ShortcutItem CommandName="重置 目标" CommandId="ID_RESET_TARGET" Paths="上下文选项卡&gt;相机" />
+  <ShortcutItem CommandName="编辑 &#xA;裁剪" CommandId="Dialog_Revit_CropRegionModeBar:Control_Revit_CropRegionBarSketch" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="重置 &#xA;裁剪" CommandId="Dialog_Revit_CropRegionModeBar:Control_Revit_CropRegionBarSketchRemove" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="尺寸 裁剪" CommandId="Dialog_Revit_CropRegionBar:Control_Revit_CropRegionBarModify" Paths="上下文选项卡&gt;裁剪" />
+  <ShortcutItem CommandName="放到 最前" CommandId="Dialog_Revit_DrawOrder:Control_Revit_BringToFront" Paths="上下文选项卡&gt;排列" />
+  <ShortcutItem CommandName="放到 最前" CommandId="Dialog_Revit_DrawOrder:Control_Revit_BringForward" Paths="上下文选项卡&gt;排列" />
+  <ShortcutItem CommandName="放到 最后" CommandId="Dialog_Revit_DrawOrder:Control_Revit_SendToBack" Paths="上下文选项卡&gt;排列" />
+  <ShortcutItem CommandName="放到 最后" CommandId="Dialog_Revit_DrawOrder:Control_Revit_SendBackward" Paths="上下文选项卡&gt;排列" />
+  <ShortcutItem CommandName="编辑 样式" CommandId="ID_MODIFY_ANALYSIS_DISPLAY_STYLE" Paths="上下文选项卡&gt;样式" />
+  <ShortcutItem CommandName="编辑 族" CommandId="Dialog_Revit_EditLoadedFamilyDbar:Control_Revit_EditLoadedFam" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="编辑 工作平面" CommandId="Dialog_Revit_EditSketchplaneDbar:Control_Revit_EditSketchplane" Paths="上下文选项卡&gt;工作平面" />
+  <ShortcutItem CommandName="拾取新的工作平面" CommandId="Dialog_Revit_EditWpRehostDbar:Control_Revit_EditWpRehost" Paths="上下文选项卡&gt;工作平面" />
+  <ShortcutItem CommandName="显示" CommandId="Dialog_Revit_ExternalSheetFilter:Control_Revit_RoomScheduleFilterShow" Paths="上下文选项卡&gt;过滤占位符图纸" />
+  <ShortcutItem CommandName="隐藏" CommandId="Dialog_Revit_ExternalSheetFilter:Control_Revit_RoomScheduleFilterHide" Paths="上下文选项卡&gt;过滤占位符图纸" />
+  <ShortcutItem CommandName="隔离" CommandId="Dialog_Revit_ExternalSheetFilter:Control_Revit_RoomScheduleFilterIsolate" Paths="上下文选项卡&gt;过滤占位符图纸" />
+  <ShortcutItem CommandName="停止 监视" CommandId="Dialog_Revit_RemoiveWatchesDbar:Control_Revit_RemoveWatch" Paths="上下文选项卡&gt;监视" />
+  <ShortcutItem CommandName="显示" CommandId="Dialog_Revit_RoomScheduleFilter:Control_Revit_RoomScheduleFilterShow" Paths="上下文选项卡&gt;未放置/未闭合" />
+  <ShortcutItem CommandName="隐藏" CommandId="Dialog_Revit_RoomScheduleFilter:Control_Revit_RoomScheduleFilterHide" Paths="上下文选项卡&gt;未放置/未闭合" />
+  <ShortcutItem CommandName="隔离" CommandId="Dialog_Revit_RoomScheduleFilter:Control_Revit_RoomScheduleFilterIsolate" Paths="上下文选项卡&gt;未放置/未闭合" />
+  <ShortcutItem CommandName="使页眉成组; 使页眉 &#xA;成组" CommandId="Dialog_Revit_ScheduleBar:Control_Revit_GroupHeaders" Paths="上下文选项卡&gt;页眉; 上下文选项卡&gt;标题和页眉" />
+  <ShortcutItem CommandName="使页眉解组; 使页眉 &#xA;解组" CommandId="Dialog_Revit_ScheduleBar:Control_Revit_UngroupHeaders" Paths="上下文选项卡&gt;页眉; 上下文选项卡&gt;标题和页眉" />
+  <ShortcutItem CommandName="新建行" CommandId="Dialog_Revit_ScheduleBar:Control_Revit_InsertRow" Paths="上下文选项卡&gt;行" />
+  <ShortcutItem CommandName="删除行" CommandId="Dialog_Revit_ScheduleBar:Control_Revit_DeleteRows" Paths="上下文选项卡&gt;行" />
+  <ShortcutItem CommandName="隐藏列" CommandId="ID_HIDE_COLUMNS" Paths="上下文选项卡&gt;列" />
+  <ShortcutItem CommandName="取消隐藏所有列" CommandId="ID_UNHIDE_ALL_COLUMNS" Paths="上下文选项卡&gt;列" />
+  <ShortcutItem CommandName="在模型中 高亮显示" CommandId="Dialog_Revit_ScheduleBar:Control_Revit_BtnScheduleShow" Paths="上下文选项卡&gt;图元" />
+  <ShortcutItem CommandName="着色" CommandId="ID_SCHEDULE_CELL_EDIT_SHADING" Paths="上下文选项卡&gt;外观" />
+  <ShortcutItem CommandName="边界" CommandId="ID_SCHEDULE_CELL_EDIT_BORDER" Paths="上下文选项卡&gt;外观" />
+  <ShortcutItem CommandName="重置" CommandId="ID_SCHEDULE_RESET_OVERRIDE" Paths="上下文选项卡&gt;外观" />
+  <ShortcutItem CommandName="字体" CommandId="ID_SCHEDULE_TEXT_EDIT_FONT" Paths="上下文选项卡&gt;外观" />
+  <ShortcutItem CommandName="对齐 &#xA;水平:左" CommandId="ID_SCHEDULE_TEXT_HORIZONTAL_ALIGN_LEFT" Paths="上下文选项卡&gt;外观" />
+  <ShortcutItem CommandName="对齐 &#xA;水平:中心" CommandId="ID_SCHEDULE_TEXT_HORIZONTAL_ALIGN_CENTER" Paths="上下文选项卡&gt;外观" />
+  <ShortcutItem CommandName="对齐 &#xA;水平:右" CommandId="ID_SCHEDULE_TEXT_HORIZONTAL_ALIGN_RIGHT" Paths="上下文选项卡&gt;外观" />
+  <ShortcutItem CommandName="对齐 &#xA;垂直:顶" CommandId="ID_SCHEDULE_TEXT_VERTICAL_ALIGN_TOP" Paths="上下文选项卡&gt;外观" />
+  <ShortcutItem CommandName="对齐 &#xA;垂直:中部" CommandId="ID_SCHEDULE_TEXT_VERTICAL_ALIGN_MIDDLE" Paths="上下文选项卡&gt;外观" />
+  <ShortcutItem CommandName="对齐 &#xA;垂直:底" CommandId="ID_SCHEDULE_TEXT_VERTICAL_ALIGN_BOTTOM" Paths="上下文选项卡&gt;外观" />
+  <ShortcutItem CommandName="设置 单位格式" CommandId="ID_SCHEDULE_PARAM_FORMATUNITS" Paths="上下文选项卡&gt;参数" />
+  <ShortcutItem CommandName="计算" CommandId="ID_SCHEDULE_PARAM_CALCULATE" Paths="上下文选项卡&gt;参数" />
+  <ShortcutItem CommandName="合并 参数" CommandId="ID_SCHEDULE_PARAM_COMBINE" Paths="上下文选项卡&gt;参数" />
+  <ShortcutItem CommandName="合并" CommandId="ID_SCHEDULE_CELL_MERGE_UNMERGE" Paths="上下文选项卡&gt;标题和页眉" />
+  <ShortcutItem CommandName="插入 &#xA;图像" CommandId="ID_SCHEDULE_CELL_INSERT_GRAPHIC" Paths="上下文选项卡&gt;标题和页眉" />
+  <ShortcutItem CommandName="清除 &#xA;单元格" CommandId="ID_SCHEDULE_CLEAR_CELL" Paths="上下文选项卡&gt;标题和页眉" />
+  <ShortcutItem CommandName="插入" CommandId="ID_SCHEDULE_COLUMN_INSERT_RIGHT" Paths="上下文选项卡&gt;列" />
+  <ShortcutItem CommandName="删除" CommandId="ID_SCHEDULE_COLUMN_DELETE" Paths="上下文选项卡&gt;列" />
+  <ShortcutItem CommandName="调整" CommandId="ID_SCHEDULE_COLUMN_RESIZE" Paths="上下文选项卡&gt;列" />
+  <ShortcutItem CommandName="冻结行 和列" CommandId="ID_SCHEDULE_FREEZE_COLANDROW" Paths="上下文选项卡&gt;布局" />
+  <ShortcutItem CommandName="插入:在选定位置上方" CommandId="ID_SCHEDULE_ROW_INSERT_ABOVE" Paths="上下文选项卡&gt;行" />
+  <ShortcutItem CommandName="插入:在选定位置下方" CommandId="ID_SCHEDULE_ROW_INSERT_BELOW" Paths="上下文选项卡&gt;行" />
+  <ShortcutItem CommandName="插入 数据行" CommandId="ID_INSERT_ROW" Paths="上下文选项卡&gt;行" />
+  <ShortcutItem CommandName="删除" CommandId="ID_DELETE_ROWS" Paths="上下文选项卡&gt;行" />
+  <ShortcutItem CommandName="调整" CommandId="ID_SCHEDULE_ROW_RESIZE" Paths="上下文选项卡&gt;行" />
+  <ShortcutItem CommandName="解释" CommandId="Dialog_Revit_ScheduleExplainErrorBar:Control_Revit_ScheduleExplainError" Paths="上下文选项卡&gt;错误" />
+  <ShortcutItem CommandName="显示相关 警告" CommandId="ID_SHOW_RELATED_WARNINGS" Paths="上下文选项卡&gt;警告" />
+  <ShortcutItem CommandName="粗体" CommandId="Dialog_Revit_TextRtfUi:Control_Revit_TextBold" Shortcuts="Ctrl+B" Paths="上下文选项卡&gt;字体; 文本编辑器" />
+  <ShortcutItem CommandName="斜体" CommandId="Dialog_Revit_TextRtfUi:Control_Revit_TextItalic" Shortcuts="Ctrl+I" Paths="上下文选项卡&gt;字体; 文本编辑器" />
+  <ShortcutItem CommandName="下划线" CommandId="Dialog_Revit_TextRtfUi:Control_Revit_TextUnderline" Shortcuts="Ctrl+U" Paths="上下文选项卡&gt;字体; 文本编辑器" />
+  <ShortcutItem CommandName="下标" CommandId="Dialog_Revit_TextRtfUi:Control_Revit_TextSubscript" Shortcuts="Ctrl+=" Paths="上下文选项卡&gt;字体; 文本编辑器" />
+  <ShortcutItem CommandName="上标" CommandId="Dialog_Revit_TextRtfUi:Control_Revit_TextSuperscript" Shortcuts="Ctrl+Shift+=" Paths="上下文选项卡&gt;字体; 文本编辑器" />
+  <ShortcutItem CommandName="全部大写" CommandId="Dialog_Revit_TextRtfUi:Control_Revit_TextAllCaps" Shortcuts="Ctrl+Shift+A" Paths="上下文选项卡&gt;字体; 文本编辑器" />
+  <ShortcutItem CommandName="列表: 无" CommandId="Dialog_Revit_TextRtfUi:Control_Revit_TextParaFormatNone" Paths="上下文选项卡&gt;段落; 文本编辑器" />
+  <ShortcutItem CommandName="列表: 项目符号" CommandId="Dialog_Revit_TextRtfUi:Control_Revit_TextParaFormatBullet" Paths="上下文选项卡&gt;段落; 文本编辑器" />
+  <ShortcutItem CommandName="列表: 编号" CommandId="Dialog_Revit_TextRtfUi:Control_Revit_TextParaFormatNumber" Paths="上下文选项卡&gt;段落; 文本编辑器" />
+  <ShortcutItem CommandName="列表: 大写字母" CommandId="Dialog_Revit_TextRtfUi:Control_Revit_TextParaFormatUppercase" Paths="上下文选项卡&gt;段落; 文本编辑器" />
+  <ShortcutItem CommandName="列表: 小写字母" CommandId="Dialog_Revit_TextRtfUi:Control_Revit_TextParaFormatLowercase" Paths="上下文选项卡&gt;段落; 文本编辑器" />
+  <ShortcutItem CommandName="减少缩进" CommandId="Dialog_Revit_TextRtfUi:Control_Revit_TextDecreaseIndent" Paths="上下文选项卡&gt;段落; 文本编辑器" />
+  <ShortcutItem CommandName="增加缩进" CommandId="Dialog_Revit_TextRtfUi:Control_Revit_TextIncreaseIndent" Paths="上下文选项卡&gt;段落; 文本编辑器" />
+  <ShortcutItem CommandName="增量列表值" CommandId="Dialog_Revit_TextRtfUi:Control_Revit_TextIncrementListStart" Paths="上下文选项卡&gt;段落; 文本编辑器" />
+  <ShortcutItem CommandName="减量列表值" CommandId="Dialog_Revit_TextRtfUi:Control_Revit_TextDecrementListStart" Paths="上下文选项卡&gt;段落; 文本编辑器" />
+  <ShortcutItem CommandName="撤消文字编辑" CommandId="Dialog_Revit_TextRtfUi:Control_Revit_TextUndo" Paths="上下文选项卡&gt;撤消; 文本编辑器" />
+  <ShortcutItem CommandName="重做文字编辑" CommandId="Dialog_Revit_TextRtfUi:Control_Revit_TextRedo" Paths="上下文选项卡&gt;撤消; 文本编辑器" />
+  <ShortcutItem CommandName="从剪贴板粘贴" CommandId="Dialog_Revit_TextRtfUi:Control_Revit_TextPaste" Paths="上下文选项卡&gt;剪贴板; 文本编辑器" />
+  <ShortcutItem CommandName="剪切到剪贴板" CommandId="Dialog_Revit_TextRtfUi:Control_Revit_TextCut" Paths="上下文选项卡&gt;剪贴板; 文本编辑器" />
+  <ShortcutItem CommandName="复制到剪贴板" CommandId="Dialog_Revit_TextRtfUi:Control_Revit_TextCopy" Paths="上下文选项卡&gt;剪贴板; 文本编辑器" />
+  <ShortcutItem CommandName="关闭文字编辑器" CommandId="ID_TEXTEDITOR_CLOSE" Shortcuts="Ctrl+Q" Paths="上下文选项卡&gt;编辑文字; 文本编辑器" />
+  <ShortcutItem CommandName="编辑 漫游" CommandId="Dialog_Revit_WalkthroughEdit:Control_Revit_WalkthroughEdit" Paths="上下文选项卡&gt;漫游" />
+  <ShortcutItem CommandName="上一 关键帧" CommandId="Dialog_Revit_WalkthroughModify:Control_Revit_BtnPrevCkp" Paths="上下文选项卡&gt;漫游" />
+  <ShortcutItem CommandName="上一 帧" CommandId="Dialog_Revit_WalkthroughModify:Control_Revit_BtnPrevFrame" Paths="上下文选项卡&gt;漫游" />
+  <ShortcutItem CommandName="下一 帧" CommandId="Dialog_Revit_WalkthroughModify:Control_Revit_BtnNextFrame" Paths="上下文选项卡&gt;漫游" />
+  <ShortcutItem CommandName="下一 关键帧" CommandId="Dialog_Revit_WalkthroughModify:Control_Revit_BtnNextCkp" Paths="上下文选项卡&gt;漫游" />
+  <ShortcutItem CommandName="播放" CommandId="Dialog_Revit_WalkthroughModify:Control_Revit_BtnPlay" Paths="上下文选项卡&gt;漫游" />
+  <ShortcutItem CommandName="打开 漫游" CommandId="Dialog_Revit_WalkthroughModify:Control_Revit_BtnEditActivateview" Paths="上下文选项卡&gt;漫游" />
+  <ShortcutItem CommandName="重设 相机" CommandId="Dialog_Revit_WalkthroughModify:Control_Revit_BtnResetDirections" Paths="上下文选项卡&gt;漫游" />
+  <ShortcutItem CommandName="在放置时 进行标记" CommandId="Dialog_RoomAreaPlan_AreaTagDlgBar:Control_RoomAreaPlan_TagRoomOnPlacement" Paths="上下文选项卡&gt;在放置时进行标记" />
+  <ShortcutItem CommandName="自动放置 &#xA;房间" CommandId="Dialog_RoomAreaPlan_RoomTagDlgBar:Control_RoomAreaPlan_FindAllRooms" Paths="上下文选项卡&gt;房间" />
+  <ShortcutItem CommandName="高亮显示 边界" CommandId="Dialog_RoomAreaPlan_RoomTagDlgBar:Control_RoomAreaPlan_ShowAllRoomBounds" Paths="上下文选项卡&gt;房间; 上下文选项卡&gt;空间" />
+  <ShortcutItem CommandName="在放置时 进行标记" CommandId="Dialog_RoomAreaPlan_RoomTagDlgBar:Control_RoomAreaPlan_TagRoomOnPlacement" Paths="上下文选项卡&gt;标记" />
+  <ShortcutItem CommandName="拾取新 主体" CommandId="ID_PICK_HOST_ROOM_TAG" Paths="上下文选项卡&gt;主体" />
+  <ShortcutItem CommandName="自动 放置空间" CommandId="Dialog_RoomAreaPlan_RoomTagDlgBar:Control_RoomAreaPlan_FindAllSpaces" Paths="上下文选项卡&gt;空间" />
+  <ShortcutItem CommandName="绘制 天花板" CommandId="Dialog_RoomAreaPlan_SketchCeiling:Control_RoomAreaPlan_SketchCeiling" Paths="上下文选项卡&gt;天花板" />
+  <ShortcutItem CommandName="添加 控制点" CommandId="Dialog_Sculpting_FormElemAddDeleteSplineControlDlgbar:Control_Sculpting_FormElemAddSplineControlButton" Paths="上下文选项卡&gt;样条曲线" />
+  <ShortcutItem CommandName="删除 控制点" CommandId="Dialog_Sculpting_FormElemAddDeleteSplineControlDlgbar:Control_Sculpting_FormElemDeleteSplineControlButton" Paths="上下文选项卡&gt;样条曲线" />
+  <ShortcutItem CommandName="编辑 轮廓" CommandId="Dialog_Sculpting_FormElementEditDlgbar:Control_Sculpting_FormElementSketchEdit" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="透视" CommandId="Dialog_Sculpting_FormElementEditDlgbar:Control_Sculpting_FormElementXRay" Paths="上下文选项卡&gt;形状图元" />
+  <ShortcutItem CommandName="添加 边" CommandId="Dialog_Sculpting_FormElementEditDlgbar:Control_Sculpting_FormElemSplitButton" Paths="上下文选项卡&gt;形状图元" />
+  <ShortcutItem CommandName="添加 轮廓" CommandId="Dialog_Sculpting_FormElementEditDlgbar:Control_Sculpting_FormElemCleaveButton" Paths="上下文选项卡&gt;形状图元" />
+  <ShortcutItem CommandName="融合" CommandId="Dialog_Sculpting_FormElementEditDlgbar:Control_Sculpting_FormElemDissolveButton" Paths="上下文选项卡&gt;形状图元" />
+  <ShortcutItem CommandName="拾取 新主体" CommandId="Dialog_Sculpting_FormElementEditDlgbar:Control_Sculpting_FormElemRehost" Paths="上下文选项卡&gt;形状图元" />
+  <ShortcutItem CommandName="锁定 轮廓" CommandId="Dialog_Sculpting_FormElementEditDlgbar:Control_Sculpting_FormElementConstrainProfile" Paths="上下文选项卡&gt;形状图元" />
+  <ShortcutItem CommandName="解锁 轮廓" CommandId="Dialog_Sculpting_FormElementEditDlgbar:Control_Sculpting_FormElementUnconstrainProfile" Paths="上下文选项卡&gt;形状图元" />
+  <ShortcutItem CommandName="编辑 草图" CommandId="Dialog_Site_PropertyLineEditDialog:Control_Site_EditSketch" Paths="上下文选项卡&gt;建筑红线" />
+  <ShortcutItem CommandName="编辑 表格" CommandId="Dialog_Site_PropertyLineEditDialog:Control_Site_PropertyLineEditTable" Paths="上下文选项卡&gt;建筑红线" />
+  <ShortcutItem CommandName="编辑 边界" CommandId="Dialog_Site_SiteRegionSketchEdit:Control_Site_EditSketch" Paths="上下文选项卡&gt;子面域" />
+  <ShortcutItem CommandName="编辑 表面" CommandId="Dialog_Site_SurfaceEdit:Control_Site_EditSurface" Paths="上下文选项卡&gt;表面" />
+  <ShortcutItem CommandName="绘制 梁系统" CommandId="Dialog_Structural_AutoBeamSystemCreateDbar:Control_Structural_SketchJoistSystemFromAuto" Paths="上下文选项卡&gt;梁系统" />
+  <ShortcutItem CommandName="删除 梁系统" CommandId="Dialog_Structural_BeamSystemOptionDlg:Control_Structural_ExplodeBeamSystems" Paths="上下文选项卡&gt;梁系统" />
+  <ShortcutItem CommandName="点边界条件" CommandId="Dialog_Structural_ManyBcDbar:Control_Structural_PointBc" Paths="上下文选项卡&gt;边界条件" />
+  <ShortcutItem CommandName="线边界条件" CommandId="Dialog_Structural_ManyBcDbar:Control_Structural_LineBc" Paths="上下文选项卡&gt;边界条件" />
+  <ShortcutItem CommandName="面边界条件" CommandId="Dialog_Structural_ManyBcDbar:Control_Structural_AreaBc" Paths="上下文选项卡&gt;边界条件" />
+  <ShortcutItem CommandName="点 荷载" CommandId="Dialog_Structural_ManyLoadsDbar:Control_Structural_PointLoad" Paths="上下文选项卡&gt;荷载" />
+  <ShortcutItem CommandName="线 荷载" CommandId="Dialog_Structural_ManyLoadsDbar:Control_Structural_LineLoad" Paths="上下文选项卡&gt;荷载" />
+  <ShortcutItem CommandName="面 荷载" CommandId="Dialog_Structural_ManyLoadsDbar:Control_Structural_AreaLoad" Paths="上下文选项卡&gt;荷载" />
+  <ShortcutItem CommandName="主体 点荷载" CommandId="Dialog_Structural_ManyLoadsDbar:Control_Structural_AutoPointLoad" Paths="上下文选项卡&gt;荷载" />
+  <ShortcutItem CommandName="主体 线荷载" CommandId="Dialog_Structural_ManyLoadsDbar:Control_Structural_AutoLineLoad" Paths="上下文选项卡&gt;荷载" />
+  <ShortcutItem CommandName="主体 面荷载" CommandId="Dialog_Structural_ManyLoadsDbar:Control_Structural_AutoAreaLoad" Paths="上下文选项卡&gt;荷载" />
+  <ShortcutItem CommandName="在轴网线上" CommandId="Dialog_Structural_NewStructuralBeam:Control_Structural_CreateBeamOnGrid" Paths="上下文选项卡&gt;多个" />
+  <ShortcutItem CommandName="对齐 垂线" CommandId="Dialog_Structural_SpanSymbolPropDbar:Control_Structural_AlignSpanDir" Paths="上下文选项卡&gt;对齐符号" />
+  <ShortcutItem CommandName="在放置时 进行标记" CommandId="Dialog_Structural_TagOnPlacementDlg:Control_Structural_TagOnPlacementCheckbox" Paths="上下文选项卡&gt;标记" />
+  <ShortcutItem CommandName="编辑 轮廓" CommandId="Dialog_Structural_TrussEditProfileSketch:Control_Structural_EditTrussSketch" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="重设 轮廓" CommandId="Dialog_Structural_TrussEditProfileSketchRem:Control_Structural_RemoveTrussSketch" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="重设 桁架" CommandId="Dialog_Structural_TrussEditProfileSketch:Control_Structural_ResetTruss" Paths="上下文选项卡&gt;修改桁架" />
+  <ShortcutItem CommandName="删除 桁架族" CommandId="Dialog_Structural_TrussEditProfileSketch:Control_Structural_ExplodeTruss" Paths="上下文选项卡&gt;修改桁架" />
+  <ShortcutItem CommandName="附着 顶部/底部" CommandId="Dialog_Structural_TrussEditProfileSketch:Control_Structural_AttachTrusses" Paths="上下文选项卡&gt;修改桁架" />
+  <ShortcutItem CommandName="分离 顶部/底部" CommandId="Dialog_Structural_TrussEditProfileSketch:Control_Structural_DetachTrusses" Paths="上下文选项卡&gt;修改桁架" />
+  <ShortcutItem CommandName="编辑 轮廓" CommandId="Dialog_Structural_TrussEditProfileSketchRem:Control_Structural_EditTrussSketch" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="重设 桁架" CommandId="Dialog_Structural_TrussEditProfileSketchRem:Control_Structural_ResetTruss" Paths="上下文选项卡&gt;修改桁架" />
+  <ShortcutItem CommandName="删除 桁架族" CommandId="Dialog_Structural_TrussEditProfileSketchRem:Control_Structural_ExplodeTruss" Paths="上下文选项卡&gt;修改桁架" />
+  <ShortcutItem CommandName="附着 顶部/底部" CommandId="Dialog_Structural_TrussEditProfileSketchRem:Control_Structural_AttachTrusses" Paths="上下文选项卡&gt;修改桁架" />
+  <ShortcutItem CommandName="分离 顶部/底部" CommandId="Dialog_Structural_TrussEditProfileSketchRem:Control_Structural_DetachTrusses" Paths="上下文选项卡&gt;修改桁架" />
+  <ShortcutItem CommandName="重设 桁架" CommandId="Dialog_Structural_TrussMultiSelect:Control_Structural_ResetTruss" Paths="上下文选项卡&gt;修改桁架" />
+  <ShortcutItem CommandName="删除 桁架族" CommandId="Dialog_Structural_TrussMultiSelect:Control_Structural_ExplodeTrusses" Paths="上下文选项卡&gt;修改桁架" />
+  <ShortcutItem CommandName="附着 顶部/底部" CommandId="Dialog_Structural_TrussMultiSelect:Control_Structural_AttachTrusses" Paths="上下文选项卡&gt;修改桁架" />
+  <ShortcutItem CommandName="分离 顶部/底部" CommandId="Dialog_Structural_TrussMultiSelect:Control_Structural_DetachTrusses" Paths="上下文选项卡&gt;修改桁架" />
+  <ShortcutItem CommandName="垂直 柱" CommandId="Dialog_Structural_VerticalSlantedColumnsDialogBar:Control_Structural_VerticalColumns" Paths="上下文选项卡&gt;放置" />
+  <ShortcutItem CommandName="斜 柱" CommandId="Dialog_Structural_VerticalSlantedColumnsDialogBar:Control_Structural_SlantedColumns" Paths="上下文选项卡&gt;放置" />
+  <ShortcutItem CommandName="多段网格" CommandId="ID_OBJECTS_GRID_CHAIN" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="附着 顶部/底部" CommandId="IDD_COLUMN_ATTACH_DETACH:ID_ATTACH_COLUMNS" Paths="上下文选项卡&gt;修改柱" />
+  <ShortcutItem CommandName="分离 顶部/底部" CommandId="IDD_COLUMN_ATTACH_DETACH:ID_DETACH_COLUMNS" Paths="上下文选项卡&gt;修改柱" />
+  <ShortcutItem CommandName="完成" CommandId="IDD_MULTIPICK_DBAR:ID_FINISH_MULTI_PICK_DBAR" Paths="上下文选项卡&gt;多个" />
+  <ShortcutItem CommandName="取消" CommandId="IDD_MULTIPICK_DBAR:ID_CANCEL_MULTI_PICK_DBAR" Paths="上下文选项卡&gt;多个" />
+  <ShortcutItem CommandName="选择 多个" CommandId="IDD_MULTIPICK_DBAR:ID_SEL_MULTI_CHECK" Paths="上下文选项卡&gt;多个" />
+  <ShortcutItem CommandName="附着 顶部/底部" CommandId="IDD_WALL_ATTACH_DETACH:ID_EXTEND_WALLS" Paths="上下文选项卡&gt;修改墙" />
+  <ShortcutItem CommandName="分离 顶部/底部" CommandId="IDD_WALL_ATTACH_DETACH:ID_UNEXTEND_WALLS" Paths="上下文选项卡&gt;修改墙" />
+  <ShortcutItem CommandName="重新平衡 负荷" CommandId="Dialog_BuildingSystems_PanelScheduleLoadDlgbar:Control_BuildingSystems_CircuitsRebalanceLoads" Paths="上下文选项卡&gt;荷载" />
+  <ShortcutItem CommandName="上 移" CommandId="Dialog_BuildingSystems_PanelScheduleCircuitDlgbar:Control_BuildingSystems_CircuitsMoveUp" Paths="上下文选项卡&gt;线路" />
+  <ShortcutItem CommandName="下 移" CommandId="Dialog_BuildingSystems_PanelScheduleCircuitDlgbar:Control_BuildingSystems_CircuitsMoveDown" Paths="上下文选项卡&gt;线路" />
+  <ShortcutItem CommandName="交叉 移动" CommandId="Dialog_BuildingSystems_PanelScheduleCircuitDlgbar:Control_BuildingSystems_CircuitsMoveAcross" Paths="上下文选项卡&gt;线路" />
+  <ShortcutItem CommandName="移动 到" CommandId="Dialog_BuildingSystems_PanelScheduleCircuitDlgbar:Control_BuildingSystems_CircuitsMoveTo" Paths="上下文选项卡&gt;线路" />
+  <ShortcutItem CommandName="指定 备件" CommandId="Dialog_BuildingSystems_PanelScheduleCircuitDlgbar:Control_BuildingSystems_CircuitsAssignSpare" Paths="上下文选项卡&gt;线路" />
+  <ShortcutItem CommandName="指定 空间" CommandId="Dialog_BuildingSystems_PanelScheduleCircuitDlgbar:Control_BuildingSystems_CircuitsAssignSpace" Paths="上下文选项卡&gt;线路" />
+  <ShortcutItem CommandName="删除 备件/空间" CommandId="Dialog_BuildingSystems_PanelScheduleCircuitDlgbar:Control_BuildingSystems_CircuitsRemoveSpareSpace" Paths="上下文选项卡&gt;线路" />
+  <ShortcutItem CommandName="锁定/ 解锁" CommandId="Dialog_BuildingSystems_PanelScheduleCircuitDlgbar:Control_BuildingSystems_CircuitsLockUnlock" Paths="上下文选项卡&gt;线路" />
+  <ShortcutItem CommandName="成组/ 解组" CommandId="Dialog_BuildingSystems_PanelScheduleCircuitDlgbar:Control_BuildingSystems_CircuitsGroupUngroup" Paths="上下文选项卡&gt;线路" />
+  <ShortcutItem CommandName="更新 名称" CommandId="Dialog_BuildingSystems_PanelScheduleCircuitDlgbar:Control_BuildingSystems_CircuitsUpdateNames" Paths="上下文选项卡&gt;线路" />
+  <ShortcutItem CommandName="编辑 字体" CommandId="Dialog_BuildingSystems_PanelScheduleTextDlgbar:Control_BuildingSystems_EditFont" Paths="上下文选项卡&gt;文字" />
+  <ShortcutItem CommandName="水平 对齐" CommandId="Dialog_BuildingSystems_PanelScheduleTextDlgbar:Control_BuildingSystems_TextHorizontalAlignLeft" Paths="上下文选项卡&gt;文字" />
+  <ShortcutItem CommandName="水平 对齐" CommandId="Dialog_BuildingSystems_PanelScheduleTextDlgbar:Control_BuildingSystems_TextHorizontalAlignCenter" Paths="上下文选项卡&gt;文字" />
+  <ShortcutItem CommandName="水平 对齐" CommandId="Dialog_BuildingSystems_PanelScheduleTextDlgbar:Control_BuildingSystems_TextHorizontalAlignRight" Paths="上下文选项卡&gt;文字" />
+  <ShortcutItem CommandName="垂直 对齐" CommandId="Dialog_BuildingSystems_PanelScheduleTextDlgbar:Control_BuildingSystems_TextVerticalAlignTop" Paths="上下文选项卡&gt;文字" />
+  <ShortcutItem CommandName="垂直 对齐" CommandId="Dialog_BuildingSystems_PanelScheduleTextDlgbar:Control_BuildingSystems_TextVerticalAlignMiddle" Paths="上下文选项卡&gt;文字" />
+  <ShortcutItem CommandName="垂直 对齐" CommandId="Dialog_BuildingSystems_PanelScheduleTextDlgbar:Control_BuildingSystems_TextVerticalAlignBottom" Paths="上下文选项卡&gt;文字" />
+  <ShortcutItem CommandName="编辑配电盘 明细表" CommandId="Dialog_BuildingSystems_PanelScheduleSheetInstanceEditDlgBar:Control_BuildingSystems_SheetInstanceViewPanelSchedule" Paths="上下文选项卡&gt;编辑" />
+  <ShortcutItem CommandName="转换 线" CommandId="Dialog_Essentials_ConvertToModelLine:Control_Essentials_ConvertLines" Paths="上下文选项卡&gt;编辑" />
+  <ShortcutItem CommandName="转换 线" CommandId="Dialog_Essentials_ConvertToDetailLine:Control_Essentials_ConvertLines" Paths="上下文选项卡&gt;编辑" />
+  <ShortcutItem CommandName="转换 线" CommandId="Dialog_Essentials_ConvertToSymbolicLine:Control_Essentials_ConvertLines" Paths="上下文选项卡&gt;编辑" />
+  <ShortcutItem CommandName="转换 线" CommandId="Dialog_Essentials_ConvertMixedTypesLines:Control_Essentials_ConvertLines" Paths="上下文选项卡&gt;编辑" />
+  <ShortcutItem CommandName="添加 隔热层" CommandId="Dialog_BuildingSystems_RbsInsulationLiningThickness:Control_BuildingSystems_AddDuctInsulation" Paths="上下文选项卡&gt;风管隔热层" />
+  <ShortcutItem CommandName="编辑 隔热层" CommandId="Dialog_BuildingSystems_RbsInsulationLiningThickness:Control_BuildingSystems_EditDuctInsulation" Paths="上下文选项卡&gt;风管隔热层" />
+  <ShortcutItem CommandName="删除 隔热层" CommandId="Dialog_BuildingSystems_RbsInsulationLiningThickness:Control_BuildingSystems_RemoveDuctInsulation" Paths="上下文选项卡&gt;风管隔热层" />
+  <ShortcutItem CommandName="添加 内衬" CommandId="Dialog_BuildingSystems_RbsInsulationLiningThickness:Control_BuildingSystems_AddDuctLining" Paths="上下文选项卡&gt;风管内衬" />
+  <ShortcutItem CommandName="编辑 内衬" CommandId="Dialog_BuildingSystems_RbsInsulationLiningThickness:Control_BuildingSystems_EditDuctLining" Paths="上下文选项卡&gt;风管内衬" />
+  <ShortcutItem CommandName="删除 内衬" CommandId="Dialog_BuildingSystems_RbsInsulationLiningThickness:Control_BuildingSystems_RemoveDuctLining" Paths="上下文选项卡&gt;风管内衬" />
+  <ShortcutItem CommandName="添加 隔热层" CommandId="Dialog_BuildingSystems_RbsPipeInsulationThickness:Control_BuildingSystems_AddPipeInsulation" Paths="上下文选项卡&gt;管道隔热层" />
+  <ShortcutItem CommandName="编辑 隔热层" CommandId="Dialog_BuildingSystems_RbsPipeInsulationThickness:Control_BuildingSystems_EditPipeInsulation" Paths="上下文选项卡&gt;管道隔热层" />
+  <ShortcutItem CommandName="删除 隔热层" CommandId="Dialog_BuildingSystems_RbsPipeInsulationThickness:Control_BuildingSystems_RemovePipeInsulation" Paths="上下文选项卡&gt;管道隔热层" />
+  <ShortcutItem CommandName="编辑 部件" CommandId="ID_RM_ASSEMBLY_EDITOR" Paths="上下文选项卡&gt;部件" />
+  <ShortcutItem CommandName="分解" CommandId="ID_ASSEMBLY_DISASSEMBLE" Paths="上下文选项卡&gt;部件" />
+  <ShortcutItem CommandName="创建 视图" CommandId="ID_CREATE_SHOP_DRAWING" Paths="上下文选项卡&gt;部件" />
+  <ShortcutItem CommandName="获取 视图" CommandId="ID_ACQUIRE_ASSEMBLY_VIEWS" Paths="上下文选项卡&gt;部件" />
+  <ShortcutItem CommandName="完成" CommandId="ID_FINISH_MULTI_PICK_DBAR" Paths="上下文选项卡&gt;交点" />
+  <ShortcutItem CommandName="取消" CommandId="ID_CANCEL_MULTI_PICK_DBAR" Paths="上下文选项卡&gt;交点" />
+  <ShortcutItem CommandName="水平数" CommandId="ID_PARALLEL_PIPES_HORIZONTAL_NUMBER" Paths="上下文选项卡&gt;平行管道" />
+  <ShortcutItem CommandName="垂直数" CommandId="ID_PARALLEL_PIPES_VERTICAL_NUMBER" Paths="上下文选项卡&gt;平行管道" />
+  <ShortcutItem CommandName="水平偏移" CommandId="ID_PARALLEL_PIPES_HORIZONTAL_OFFSET" Paths="上下文选项卡&gt;平行管道" />
+  <ShortcutItem CommandName="垂直偏移" CommandId="ID_PARALLEL_PIPES_VERTICAL_OFFSET" Paths="上下文选项卡&gt;平行管道" />
+  <ShortcutItem CommandName="相同弯曲半径" CommandId="ID_PARALLEL_CONDUITS_SAME_BEND_RADIUS" Paths="上下文选项卡&gt;平行线管" />
+  <ShortcutItem CommandName="同心弯曲半径" CommandId="ID_PARALLEL_CONDUITS_RAINBOW_BEND_RADIUS" Paths="上下文选项卡&gt;平行线管" />
+  <ShortcutItem CommandName="水平数" CommandId="ID_PARALLEL_CONDUITS_HORIZONTAL_NUMBER" Paths="上下文选项卡&gt;平行线管" />
+  <ShortcutItem CommandName="垂直数" CommandId="ID_PARALLEL_CONDUITS_VERTICAL_NUMBER" Paths="上下文选项卡&gt;平行线管" />
+  <ShortcutItem CommandName="水平偏移" CommandId="ID_PARALLEL_CONDUITS_HORIZONTAL_OFFSET" Paths="上下文选项卡&gt;平行线管" />
+  <ShortcutItem CommandName="垂直偏移" CommandId="ID_PARALLEL_CONDUITS_VERTICAL_OFFSET" Paths="上下文选项卡&gt;平行线管" />
+  <ShortcutItem CommandName="高亮显示分析模型" CommandId="IDD_SHOW_ANALYTICAL_MODEL:IDC_SHOW_ANALYTICAL" Paths="上下文选项卡&gt;分析" />
+  <ShortcutItem CommandName="高亮显示物理模型" CommandId="IDD_SHOW_PHYSICAL_MODEL:IDC_SHOW_PHYSICAL" Paths="上下文选项卡&gt;物理特性" />
+  <ShortcutItem CommandName="布局" CommandId="Dialog_ArrayElems_DividedPathSplitReferenceBar:Control_ArrayElems_DividedPathApplyLayout" Paths="上下文选项卡&gt;分区和交点" />
+  <ShortcutItem CommandName="交点" CommandId="Dialog_ArrayElems_DividedPathSplitReferenceBar:Control_ArrayElems_IntersectPick" Paths="上下文选项卡&gt;分区和交点" />
+  <ShortcutItem CommandName="交点" CommandId="Dialog_ArrayElems_DividedPathSplitReferenceBar:Control_ArrayElems_IntersectList" Paths="上下文选项卡&gt;分区和交点" />
+  <ShortcutItem CommandName="路径" CommandId="Dialog_ArrayElems_DividedPathDisplayPropertiesBar:Control_ArrayElems_DividedPathPath" Paths="上下文选项卡&gt;路径表示" />
+  <ShortcutItem CommandName="构件" CommandId="Dialog_ArrayElems_DividedPathDisplayPropertiesBar:Control_ArrayElems_DividedPathComponent" Paths="上下文选项卡&gt;路径表示" />
+  <ShortcutItem CommandName="编辑 族" CommandId="ID_EDIT_REBAR_ELEMENT_SHAPE_FAMILY" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="拾取 新主体" CommandId="ID_LOAD_BC_REHOST" Paths="上下文选项卡&gt;主体" />
+  <ShortcutItem CommandName="踏板" CommandId="Dialog_StairRamp_RailingPlaceOnHostDBar:Control_StairRamp_RailingPosTreads" Paths="上下文选项卡&gt;位置" />
+  <ShortcutItem CommandName="梯边梁" CommandId="Dialog_StairRamp_RailingPlaceOnHostDBar:Control_StairRamp_RailingPosStringer" Paths="上下文选项卡&gt;位置" />
+  <ShortcutItem CommandName="编辑 &#xA;楼梯" CommandId="Dialog_StairRamp_EditStairsElementDialogBar:Control_StairRamp_EditStairsElement" Paths="上下文选项卡&gt;编辑" />
+  <ShortcutItem CommandName="不受支持 &#xA;对象" CommandId="Dialog_StairRamp_UnsupportedObjectWarnDbar:Control_StairRamp_UnsupportedObjectWarn" Paths="上下文选项卡&gt;警告" />
+  <ShortcutItem CommandName="编辑" CommandId="ID_DISPLACEMENT_EDIT" Paths="上下文选项卡&gt;位移集" />
+  <ShortcutItem CommandName="重置" CommandId="ID_DISPLACEMENT_RESET" Paths="上下文选项卡&gt;位移集" />
+  <ShortcutItem CommandName="路径" CommandId="ID_DISPLACEMENT_PATH" Paths="上下文选项卡&gt;位移集" />
+  <ShortcutItem CommandName="在工作平面上绘制弯曲线" CommandId="Dialog_Rebar_FabricPlaceBendWireFrameDbar:Control_Rebar_FabricSketchBending" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="拾取新 主体" CommandId="Dialog_Rebar_FabricRehostDialogBar:Control_Rebar_FabricRehost" Paths="上下文选项卡&gt;主体" />
+  <ShortcutItem CommandName="修改 参数" CommandId="IDR_STRUCT_CONNECTION_MODIFY_PARAMETERS" Paths="上下文选项卡&gt;连接" />
+  <ShortcutItem CommandName="自定义" CommandId="ID_STRUCT_CONNECTION_CUSTOMIZE" Paths="上下文选项卡&gt;连接" />
+  <ShortcutItem CommandName="断开" CommandId="IDR_STRUCT_CONNECTION_BREAK" Paths="上下文选项卡&gt;连接" />
+  <ShortcutItem CommandName="编辑" CommandId="ID_STRUCT_CONNECTION_EDIT_CUSTOM" Paths="上下文选项卡&gt;连接" />
+  <ShortcutItem CommandName="对正点" CommandId="Dialog_Structural_BeamJustificationDbar:Control_Structural_BeamJustificationCardinal" Paths="上下文选项卡&gt;对正" />
+  <ShortcutItem CommandName="yOffset" CommandId="Dialog_Structural_BeamJustificationDbar:Control_Structural_BeamJustificationOffsetY" Paths="上下文选项卡&gt;对正" />
+  <ShortcutItem CommandName="zOffset" CommandId="Dialog_Structural_BeamJustificationDbar:Control_Structural_BeamJustificationOffsetZ" Paths="上下文选项卡&gt;对正" />
+  <ShortcutItem CommandName="选择 &#xA;标高" CommandId="Dialog_StairRamp_CreateMultistoryStairsDialogBar:Control_StairRamp_CreateMultistoryStairs" Paths="上下文选项卡&gt;多层楼梯" />
+  <ShortcutItem CommandName="连接/断开 &#xA;标高" CommandId="ID_ADD_REMOVE_CONNECTED_LEVELS" Paths="上下文选项卡&gt;多层楼梯" />
+  <ShortcutItem CommandName="选择 多个" CommandId="Dialog_Rebar_Selection:Control_Rebar_Multiple" Paths="上下文选项卡&gt;多重选择" />
+  <ShortcutItem CommandName="清除 选择" CommandId="Dialog_Rebar_Selection:Control_Rebar_Clear" Paths="上下文选项卡&gt;多重选择" />
+  <ShortcutItem CommandName="起始 &#xA;表面" CommandId="Dialog_Rebar_FreeFormPath:Control_Rebar_ReinfFaces" Paths="上下文选项卡&gt;下一个" />
+  <ShortcutItem CommandName="主体 &#xA;表面" CommandId="Dialog_Rebar_FreeFormDistribPath:Control_Rebar_DistribPath" Paths="上下文选项卡&gt;下一个" />
+  <ShortcutItem CommandName="终止 &#xA;表面" CommandId="Dialog_Rebar_FreeFormStart:Control_Rebar_StartFaces" Paths="上下文选项卡&gt;下一个" />
+  <ShortcutItem CommandName="设置 &#xA;路径" CommandId="Dialog_Rebar_FreeFormHostFacesTransversal:Control_Rebar_HostFacesTransversal" Paths="上下文选项卡&gt;下一个" />
+  <ShortcutItem CommandName="表面 &#xA;分布" CommandId="Dialog_Rebar_RebarSetTypes:Control_Rebar_Morphed" Paths="上下文选项卡&gt;钢筋集类型" />
+  <ShortcutItem CommandName="主体 &#xA;表面" CommandId="Dialog_Rebar_FreeFormEnd:Control_Rebar_EndFaces" Paths="上下文选项卡&gt;下一个" />
+  <ShortcutItem CommandName="取消" CommandId="Dialog_Rebar_FinishCancel:Control_Rebar_Cancel" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="完成" CommandId="Dialog_Rebar_FinishCancel:Control_Rebar_Finish" Paths="上下文选项卡&gt;模式" />
+  <ShortcutItem CommandName="绘制 钢筋" CommandId="ID_REBAR_SKETCH" Paths="上下文选项卡&gt;放置方法" />
+  <ShortcutItem CommandName="自由形式 &#xA;钢筋" CommandId="ID_REBAR_FREE_FORM_MORPHED" Paths="上下文选项卡&gt;放置方法" />
+  <ShortcutItem CommandName="退出 Revit" CommandId="ID_APP_EXIT" Paths="应用程序菜单" />
+  <ShortcutItem CommandName="选项" CommandId="ID_OPTIONS" Paths="应用程序菜单" />
+  <ShortcutItem CommandName="新建; 项目" CommandId="ID_FILE_NEW_CHOOSE_TEMPLATE" Paths="应用程序菜单; 应用程序菜单&gt; 新建; 快速访问工具栏" />
+  <ShortcutItem CommandName="族" CommandId="ID_FAMILY_NEW" Paths="应用程序菜单&gt; 新建" />
+  <ShortcutItem CommandName="概念体量" CommandId="ID_NEW_REVIT_DESIGN_MODEL" Paths="应用程序菜单&gt; 新建" />
+  <ShortcutItem CommandName="标题栏" CommandId="ID_TITLEBLOCK_NEW" Paths="应用程序菜单&gt; 新建" />
+  <ShortcutItem CommandName="注释符号" CommandId="ID_ANNOTATION_SYMBOL_NEW" Paths="应用程序菜单&gt; 新建" />
+  <ShortcutItem CommandName="打开; Revit 文件" CommandId="ID_REVIT_FILE_OPEN" Paths="应用程序菜单; 应用程序菜单&gt; 打开; 快速访问工具栏" />
+  <ShortcutItem CommandName="项目" CommandId="ID_APPMENU_PROJECT_OPEN" Paths="应用程序菜单&gt; 打开" />
+  <ShortcutItem CommandName="族" CommandId="ID_FAMILY_OPEN" Paths="应用程序菜单&gt; 打开" />
+  <ShortcutItem CommandName="建筑构件" CommandId="ID_OPEN_ADSK" Paths="应用程序菜单&gt; 打开" />
+  <ShortcutItem CommandName="IFC" CommandId="ID_IMPORT_IFC" Paths="应用程序菜单&gt; 打开" />
+  <ShortcutItem CommandName="IFC 选项" CommandId="ID_IFC_IMPORT_OPTIONS" Paths="应用程序菜单&gt; 打开" />
+  <ShortcutItem CommandName="样例文件" CommandId="ID_SAMPLES_OPEN" Paths="应用程序菜单&gt; 打开" />
+  <ShortcutItem CommandName="保存" CommandId="ID_REVIT_FILE_SAVE" Paths="应用程序菜单; 快速访问工具栏" />
+  <ShortcutItem CommandName="项目" CommandId="ID_REVIT_FILE_SAVE_AS" Paths="应用程序菜单&gt; 另存为" />
+  <ShortcutItem CommandName="族" CommandId="ID_REVIT_SAVE_AS_FAMILY" Paths="应用程序菜单&gt; 另存为" />
+  <ShortcutItem CommandName="样板" CommandId="ID_REVIT_SAVE_AS_TEMPLATE" Paths="应用程序菜单&gt; 另存为" />
+  <ShortcutItem CommandName="族" CommandId="ID_SAVE_FAMILY_ANY" Paths="应用程序菜单&gt; 另存为 &gt;库" />
+  <ShortcutItem CommandName="成组" CommandId="ID_SAVE_GROUP" Paths="应用程序菜单&gt; 另存为 &gt;库" />
+  <ShortcutItem CommandName="视图" CommandId="ID_SAVE_VIEWS_TO_FILE" Paths="应用程序菜单&gt; 另存为 &gt;库" />
+  <ShortcutItem CommandName="DWG" CommandId="ID_EXPORT_DWG" Paths="应用程序菜单&gt; 导出 &gt;CAD 格式" />
+  <ShortcutItem CommandName="DXF" CommandId="ID_EXPORT_DXF" Paths="应用程序菜单&gt; 导出 &gt;CAD 格式" />
+  <ShortcutItem CommandName="DGN" CommandId="ID_EXPORT_DGN" Paths="应用程序菜单&gt; 导出 &gt;CAD 格式" />
+  <ShortcutItem CommandName="ACIS (SAT)" CommandId="ID_EXPORT_SAT" Paths="应用程序菜单&gt; 导出 &gt;CAD 格式" />
+  <ShortcutItem CommandName="DWF/DWFx" CommandId="ID_EXPORT_DWF" Paths="应用程序菜单&gt; 导出" />
+  <ShortcutItem CommandName="FBX" CommandId="ID_EXPORT_FBX" Paths="应用程序菜单&gt; 导出" />
+  <ShortcutItem CommandName="族类型" CommandId="ID_EXPORT_FAM_TYPES" Paths="应用程序菜单&gt; 导出" />
+  <ShortcutItem CommandName="gbXML" CommandId="ID_EXPORT_GBXML" Paths="应用程序菜单&gt; 导出" />
+  <ShortcutItem CommandName="IFC" CommandId="ID_EXPORT_IFC" Paths="应用程序菜单&gt; 导出" />
+  <ShortcutItem CommandName="ODBC 数据库" CommandId="ID_FILE_EXPORT_ODBC" Paths="应用程序菜单&gt; 导出" />
+  <ShortcutItem CommandName="漫游" CommandId="ID_RM_ANIMATION" Paths="应用程序菜单&gt; 导出 &gt;图像和动画" />
+  <ShortcutItem CommandName="日光研究" CommandId="ID_FILE_EXPORT_SOLAR_STUDY" Paths="应用程序菜单&gt; 导出 &gt;图像和动画" />
+  <ShortcutItem CommandName="图像" CommandId="ID_FILE_PRINT_TO_IMAGE" Paths="应用程序菜单&gt; 导出 &gt;图像和动画" />
+  <ShortcutItem CommandName="明细表" CommandId="ID_FILE_EXPORT_SCHEDULE" Paths="应用程序菜单&gt; 导出 &gt;报告" />
+  <ShortcutItem CommandName="房间/面积报告" CommandId="ID_ROOM_AREA_REPORT" Paths="应用程序菜单&gt; 导出 &gt;报告" />
+  <ShortcutItem CommandName="导出设置 DWG/DXF" CommandId="ID_SETTINGS_EXPORT_SETUPS_DWGDXF" Paths="应用程序菜单&gt; 导出 &gt;选项" />
+  <ShortcutItem CommandName="导出设置 DGN" CommandId="ID_SETTINGS_EXPORT_SETUPS_DGN" Paths="应用程序菜单&gt; 导出 &gt;选项" />
+  <ShortcutItem CommandName="IFC 选项" CommandId="ID_IFC_OPTIONS" Paths="应用程序菜单&gt; 导出 &gt;选项" />
+  <ShortcutItem CommandName="打印" CommandId="ID_REVIT_FILE_PRINT" Paths="应用程序菜单; 应用程序菜单&gt; 打印; 快速访问工具栏" />
+  <ShortcutItem CommandName="打印预览" CommandId="ID_REVIT_FILE_PRINT_PREVIEW" Paths="应用程序菜单&gt; 打印" />
+  <ShortcutItem CommandName="打印设置" CommandId="ID_REVIT_FILE_PRINT_SETUP" Paths="应用程序菜单&gt; 打印" />
+  <ShortcutItem CommandName="关闭" CommandId="ID_REVIT_FILE_CLOSE" Paths="应用程序菜单" />
+  <ShortcutItem CommandName="放弃" CommandId="ID_BUTTON_UNDO" Paths="快速访问工具栏" />
+  <ShortcutItem CommandName="重做" CommandId="ID_BUTTON_REDO" Paths="快速访问工具栏" />
+  <ShortcutItem CommandName="帮助                                          F1" CommandId="ID_HELP_FINDER" Paths="帮助" />
+  <ShortcutItem CommandName="新特性" CommandId="ID_HELP_NEWS" Paths="帮助" />
+  <ShortcutItem CommandName="基本技能视频" CommandId="ID_HELP_ESSENTIAL_VIDEOS" Paths="帮助" />
+  <ShortcutItem CommandName="Revit 社区" CommandId="ID_HELP_VIDEOS" Paths="帮助" />
+  <ShortcutItem CommandName="支持知识库" CommandId="ID_HELP_SUPPORT_KNOWLEDGE_BASE" Paths="帮助" />
+  <ShortcutItem CommandName="第三方学习资源" CommandId="ID_HELP_THIRDPARTYLEARNINGCONTENT" Paths="帮助" />
+  <ShortcutItem CommandName="Autodesk.com/revit" CommandId="ID_HELP_PRODUCTURL" Paths="帮助" />
+  <ShortcutItem CommandName="Autodesk 建筑解决方案" CommandId="ID_HELP_AUTODESK_BUILDING_SOLUTIONS" Paths="帮助" />
+  <ShortcutItem CommandName="桌面分析" CommandId="ID_HELP_DESKTOP_ANALYTICS" Paths="帮助" />
+  <ShortcutItem CommandName="关于 Autodesk Revit 2019" CommandId="ID_APP_ABOUT" Paths="帮助" />
+  <ShortcutItem CommandName="直线:相切-端点弧" CommandId="ID_OBJECTS_CURVE_ARC_TAN" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="创建等高线 - 线" CommandId="ID_EXT_ENTITY_CONTOUR_LINE" />
+  <ShortcutItem CommandName="建筑墙:起点-终点-半径弧" CommandId="ID_WALL_ARC_THREE_PNT" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="直线:起点-终点-半径弧" CommandId="ID_OBJECTS_CURVE_ARC_THREE_PNT" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="创建矩形剪切锚固件" CommandId="ID_EXT_ENTITY_SHEAR_STUD_RECT" />
+  <ShortcutItem CommandName="定向到后右视图" CommandId="ID_ORIENT_TO_BACK_RIGHT" Paths="ViewCube" />
+  <ShortcutItem CommandName="帮助" CommandId="ID_VIEWCUBE_HELP" Paths="ViewCube" />
+  <ShortcutItem CommandName="端点" CommandId="ID_SNAP_OVERRIDE_END" Shortcuts="SE" Paths="捕捉" />
+  <ShortcutItem CommandName="增大/减小焦距" CommandId="ID_SET_FOCAL_LENGTH" Paths="SteeringWheels" />
+  <ShortcutItem CommandName="默认值:圆角弧" CommandId="IDC_RADIO_ARC_FILLET" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="创建钢板 - 三点圆弧" CommandId="ID_EXT_ENTITY_PLATE_ARC_THREE_PNT" />
+  <ShortcutItem CommandName="切换到正交三维视图/切换到透视三维视图" CommandId="ID_VIEWCUBE_TOGGLE_BETWEEN_PERSP_AND_ORTHO" Paths="ViewCube" />
+  <ShortcutItem CommandName="创建钢板 - 线" CommandId="ID_EXT_ENTITY_PLATE_LINE" />
+  <ShortcutItem CommandName="重设为前视图" CommandId="ID_VIEWCUBE_RESET_FRONT" Paths="ViewCube" />
+  <ShortcutItem CommandName="结构墙:外接多边形" CommandId="ID_WALL_STRUCT_POLY_CIRCUMSCRIBED" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="创建钢板 - 弧中心端点" CommandId="ID_EXT_ENTITY_PLATE_ARC_CENTER_ENDS" />
+  <ShortcutItem CommandName="图形由视图中的类别替换: 切换假面" CommandId="ID_VIEW_OVERRIDE_CATEGORY_GHOST" Shortcuts="VOG" />
+  <ShortcutItem CommandName="创建圆形螺栓图案" CommandId="ID_EXT_ENTITY_HOLE_CIRCLE" />
+  <ShortcutItem CommandName="重新定位到内部原点" CommandId="ID_REPOSITION_LINK_ORIGIN_TO_HOST" Paths="关联菜单" />
+  <ShortcutItem CommandName="保存视图" CommandId="ID_NAVWHEEL_SAVEVIEW" Paths="SteeringWheels" />
+  <ShortcutItem CommandName="光线追踪" CommandId="ID_IMAGE_INTERACTIVE_RAYTRACE" Shortcuts="RY" Paths="视图控制栏" />
+  <ShortcutItem CommandName="桁架:直线" CommandId="ID_TRUSS_LINE" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="关闭捕捉" CommandId="ID_SNAP_OVERRIDE_NO_SNAP" Shortcuts="SO" Paths="捕捉" />
+  <ShortcutItem CommandName="降低漫游速度" CommandId="ID_NAVWHEEL_DECREASEWALKSPEED" Paths="SteeringWheels" />
+  <ShortcutItem CommandName="创建等高线 - 圆角弧" CommandId="ID_EXT_ENTITY_CONTOUR_ARC_FILLET" />
+  <ShortcutItem CommandName="结构墙:起点-终点-半径弧" CommandId="ID_WALL_STRUCT_ARC_THREE_PNT" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="恢复临时视图属性" CommandId="ID_RESTORE_VIEW_PROPERTIES" Paths="视图控制栏" />
+  <ShortcutItem CommandName="锁定到选择项" CommandId="ID_VIEWCUBE_LOCK_SELECTION" Paths="ViewCube" />
+  <ShortcutItem CommandName="选择活动选项中的全部实例: 在整个项目中" CommandId="ID_SEL_ALL_IN_PRJ_IN_OPTION" Paths="关联菜单" />
+  <ShortcutItem CommandName="结构墙:拾取面" CommandId="ID_WALL_STRUCT_PICK_FACES" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="隐藏线" CommandId="ID_IMAGE_HIDDENLINE" Shortcuts="HL" Paths="视图控制栏" />
+  <ShortcutItem CommandName="捕捉远距离对象" CommandId="ID_SNAP_OVERRIDE_REMOTE" Shortcuts="SR" Paths="捕捉" />
+  <ShortcutItem CommandName="结构墙:圆角弧" CommandId="ID_WALL_STRUCT_ARC_FILLET" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="直线:半椭圆" CommandId="ID_OBJECTS_CURVE_ELLIPSE_PARTIAL" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="解锁三维视图" CommandId="ID_LOCKUNLOCK3DVIEW_UNLOCK" Paths="视图控制栏" />
+  <ShortcutItem CommandName="默认值:圆心-端点弧" CommandId="IDC_RADIO_ARC_CENTER" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="默认值:内接多边形" CommandId="IDC_RADIO_INSCRIBED_POLYGON" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="撤消视图方向修改" CommandId="ID_NAVWHEEL_UNDOVIEWORIENTATIONCHANGES" Paths="SteeringWheels" />
+  <ShortcutItem CommandName="移动裁剪边界" CommandId="ID_MOVE_CROP_BOUNDARY" Paths="SteeringWheels" />
+  <ShortcutItem CommandName="建筑墙:内接多边形" CommandId="ID_WALL_POLY_INSCRIBED" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="显示指南针" CommandId="ID_SHOW_COMPASS" Paths="ViewCube" />
+  <ShortcutItem CommandName="使工作集可编辑" CommandId="ID_MAKE_EDITABLE_PREFER_CHECKOUT" Paths="关联菜单" />
+  <ShortcutItem CommandName="螺栓" CommandId="ID_EXT_ENTITY_BOLT" />
+  <ShortcutItem CommandName="将旋转中心设置为默认位置" CommandId="ID_DEFAULT_ROTATION_CENTER" Paths="关联菜单" />
+  <ShortcutItem CommandName="默认值:起点-终点-半径弧" CommandId="IDC_RADIO_ARC_3_PNT" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="图形显示选项" CommandId="ID_GRAPHIC_DISPLAY_OPTIONS" Shortcuts="GD" Paths="视图控制栏" />
+  <ShortcutItem CommandName="恢复已排除构件" CommandId="ID_ELEM_GROUP_EXCLUDED_MEMBER" Shortcuts="RB" Paths="关联菜单" />
+  <ShortcutItem CommandName="结构墙:相切-端点弧" CommandId="ID_WALL_STRUCT_ARC_TAN" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="定向到其他视图" CommandId="ID_ORIENT_TO_OTHER_VIEW" Paths="SteeringWheels" />
+  <ShortcutItem CommandName="关闭" CommandId="ID_SNAP_OVERRIDE_CLOSE" Shortcuts="SZ" Paths="捕捉" />
+  <ShortcutItem CommandName="选择主体中的所有钢筋网" CommandId="ID_SELECT_IN_HOST_ALL_FABRIC" Paths="关联菜单" />
+  <ShortcutItem CommandName="显示/隐藏分析模型" CommandId="ID_VIEW_FRAME_TOGGLE_ANALYTICAL_MODEL_VISIBILITY" Paths="视图控制栏" />
+  <ShortcutItem CommandName="后台进程" CommandId="ID_PARALLEL_INDICATOR" Shortcuts="Fn11" Paths="状态栏" />
+  <ShortcutItem CommandName="隔离图元" CommandId="ID_TEMPHIDE_ISOLATE" Shortcuts="HI" Paths="视图控制栏" />
+  <ShortcutItem CommandName="创建等高线 - 弧中心端点" CommandId="ID_EXT_ENTITY_CONTOUR_ARC_CENTER_ENDS" />
+  <ShortcutItem CommandName="锚固件" CommandId="ID_EXT_ENTITY_ANCHOR" />
+  <ShortcutItem CommandName="建筑墙:拾取线" CommandId="ID_WALL_PICK_LINES" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="创建圆形螺栓图案" CommandId="ID_EXT_ENTITY_BOLT_CIRCLE" />
+  <ShortcutItem CommandName="保存方向并锁定三维视图" CommandId="ID_LOCKUNLOCK3DVIEW_LOCKANDSAVE" Paths="视图控制栏" />
+  <ShortcutItem CommandName="定向到俯视图" CommandId="ID_ORIENT_TO_TOP" Paths="ViewCube" />
+  <ShortcutItem CommandName="着色" CommandId="ID_IMAGE_SHADING" Paths="视图控制栏" />
+  <ShortcutItem CommandName="ESF 设置" CommandId="ID_CREATE_EXT_ENTITY_ESF_SETTINGS" />
+  <ShortcutItem CommandName="定向到南方向" CommandId="ID_ORIENT_SOUTH_DIRECTION" Paths="ViewCube" />
+  <ShortcutItem CommandName="建筑墙:圆形" CommandId="ID_WALL_CIRCLE" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="新文件的默认样板 4" CommandId="ID_FILE_NEW_WITH_TEMPLATE4" />
+  <ShortcutItem CommandName="启用临时视图属性" CommandId="ID_ENABLE_TEMPORARY_VIEW_PROPERTIES" Paths="视图控制栏" />
+  <ShortcutItem CommandName="关闭替换" CommandId="ID_SETTINGS_SNAPS_NOOVERRIDE" Shortcuts="SS" Paths="捕捉" />
+  <ShortcutItem CommandName="默认值:外接多边形" CommandId="IDC_RADIO_CIRCUMSCRIBED_POLYGON" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="中等详图" CommandId="ID_DETAIL_LEVEL_MEDIUM" Paths="视图控制栏" />
+  <ShortcutItem CommandName="默认值:相切-端点弧" CommandId="IDC_RADIO_ARC_TAN_END" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="建筑墙:外接多边形" CommandId="ID_WALL_POLY_CIRCUMSCRIBED" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="隔离类别" CommandId="ID_TEMPHIDE_ISOLATECAT" Shortcuts="IC" Paths="视图控制栏" />
+  <ShortcutItem CommandName="切点" CommandId="ID_SNAP_OVERRIDE_TANGENT" Shortcuts="ST" Paths="捕捉" />
+  <ShortcutItem CommandName="选择全部实例: 在视图中可见" CommandId="ID_SEL_ALL_IN_VIEW" Paths="关联菜单" />
+  <ShortcutItem CommandName="新文件的默认样板 3" CommandId="ID_FILE_NEW_WITH_TEMPLATE3" />
+  <ShortcutItem CommandName="缩小两倍" CommandId="ID_ZOOM_OUT_X2" Shortcuts="ZO#ZV" Paths="导航栏" />
+  <ShortcutItem CommandName="创建圆形剪切锚固件" CommandId="ID_EXT_ENTITY_SHEAR_STUD_CIRCLE" />
+  <ShortcutItem CommandName="定向到东南方向" CommandId="ID_ORIENT_SOUTHEAST_DIRECTION" Paths="ViewCube" />
+  <ShortcutItem CommandName="飞行模式" CommandId="ID_NAVBAR_3DCONTROLLER_FLY" Shortcuts="3F" Paths="导航栏" />
+  <ShortcutItem CommandName="默认值:圆" CommandId="IDC_RADIO_CIRCLE" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="图形由视图中的类别替换: 切换透明度" CommandId="ID_VIEW_OVERRIDE_CATEGORY_TRANSPARENT" Shortcuts="VOT" />
+  <ShortcutItem CommandName="对象模式" CommandId="ID_NAVBAR_3DCONTROLLER_OBJECT" Shortcuts="3O" Paths="导航栏" />
+  <ShortcutItem CommandName="直线:外接多边形" CommandId="ID_OBJECTS_CURVE_POLY_CIRCUMSCRIBED" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="创建矩形锚固件图案" CommandId="ID_EXT_ENTITY_ANCHOR_RECT" />
+  <ShortcutItem CommandName="中心" CommandId="ID_SNAP_OVERRIDE_CENTER" Shortcuts="SC" Paths="捕捉" />
+  <ShortcutItem CommandName="查找相关视图" CommandId="ID_FIND_VIEW_GENERATOR" Paths="关联菜单" />
+  <ShortcutItem CommandName="定向到北方向" CommandId="ID_ORIENT_NORTH_DIRECTION" Paths="ViewCube" />
+  <ShortcutItem CommandName="切换高亮显示位移集" CommandId="Control_Revit_ExplodedViewMode" Paths="视图控制栏" />
+  <ShortcutItem CommandName="中点" CommandId="ID_SNAP_OVERRIDE_MID" Shortcuts="SM" Paths="捕捉" />
+  <ShortcutItem CommandName="使相机水平" CommandId="ID_NAVWHEEL_LEVELCAMERA" Paths="SteeringWheels" />
+  <ShortcutItem CommandName="直线:圆角弧" CommandId="ID_OBJECTS_CURVE_ARC_FILLET" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="排除" CommandId="ID_EXCLUDE_GROUP_MEMBERS" Shortcuts="EX" Paths="关联菜单" />
+  <ShortcutItem CommandName="创建等高线 - 外接多边形" CommandId="ID_EXT_ENTITY_CONTOUR_POLY_CIRCUMSCRIBED" />
+  <ShortcutItem CommandName="一致的颜色" CommandId="ID_IMAGE_FLAT_COLORS" Paths="视图控制栏" />
+  <ShortcutItem CommandName="使图元可编辑" CommandId="ID_MAKE_EDITABLE_BY_BORROWING" Paths="关联菜单" />
+  <ShortcutItem CommandName="全导航控制盘(小)" CommandId="ID_NAVWHEEL_MINI_EIGHT_WHEEL" Paths="SteeringWheels" />
+  <ShortcutItem CommandName="孔" CommandId="ID_EXT_ENTITY_HOLE" />
+  <ShortcutItem CommandName="粗略详图" CommandId="ID_DETAIL_LEVEL_COARSE" Paths="视图控制栏" />
+  <ShortcutItem CommandName="关闭" CommandId="ID_NAVWHEEL_CLOSE" Paths="SteeringWheels" />
+  <ShortcutItem CommandName="选项" CommandId="ID_NAVWHEEL_OPTIONS" Paths="SteeringWheels" />
+  <ShortcutItem CommandName="查看对象控制盘(小)" CommandId="ID_NAVWHEEL_MINI_MINI_WHEEL" Paths="SteeringWheels" />
+  <ShortcutItem CommandName="图形由视图中的图元替换: 切换假面" CommandId="ID_VIEW_OVERRIDE_ELEMENTS_GHOST" Shortcuts="EOG" />
+  <ShortcutItem CommandName="精细详图" CommandId="ID_DETAIL_LEVEL_FINE" Paths="视图控制栏" />
+  <ShortcutItem CommandName="创建等高线 - 相切圆弧" CommandId="ID_EXT_ENTITY_CONTOUR_ARC_TAN" />
+  <ShortcutItem CommandName="创建等高线 - 圆" CommandId="ID_EXT_ENTITY_CONTOUR_CIRCLE" />
+  <ShortcutItem CommandName="临时应用样板属性" CommandId="ID_TEMPORARILY_APPLY_TEMPLATE_PROPERTIES" Paths="视图控制栏" />
+  <ShortcutItem CommandName="创建钢板 - 外接多边形" CommandId="ID_EXT_ENTITY_PLATE_POLY_CIRCUMSCRIBED" />
+  <ShortcutItem CommandName="打开阴影" CommandId="ID_IMAGE_SHADOW_ON" Paths="视图控制栏" />
+  <ShortcutItem CommandName="巡视建筑控制盘" CommandId="ID_NAVWHEEL_INTERIOR_WHEEL" Paths="SteeringWheels" />
+  <ShortcutItem CommandName="下一次平移/缩放" CommandId="ID_VIEW_ZOOMANDPAN_NEXTVIEW" Paths="导航栏" />
+  <ShortcutItem CommandName="线框" CommandId="ID_IMAGE_WIREFRAME" Shortcuts="WF" Paths="视图控制栏" />
+  <ShortcutItem CommandName="定向到左视图" CommandId="ID_ORIENT_TO_LEFT" Paths="ViewCube" />
+  <ShortcutItem CommandName="网格:圆心-端点弧" CommandId="ID_GRID_ARC_CENTER_ENDS" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="楼梯梯段:直线" CommandId="ID_RUN_LINE" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="建筑墙: 圆心-端点弧" CommandId="ID_WALL_ARC_CENTER_ENDS" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="重复上一个命令" CommandId="ID_REPEAT_LASTCOMMAND" Shortcuts="RC" Paths="关联菜单" />
+  <ShortcutItem CommandName="结构墙:直线" CommandId="ID_WALL_STRUCT_LINE" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="巡视建筑控制盘(小)" CommandId="ID_NAVWHEEL_MINI_OTHER_WHEEL" Paths="SteeringWheels" />
+  <ShortcutItem CommandName="定向到西方向" CommandId="ID_ORIENT_WEST_DIRECTION" Paths="ViewCube" />
+  <ShortcutItem CommandName="默认值:半椭圆" CommandId="IDC_RADIO_PARTIAL_ELLIPSE" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="将隐藏/隔离应用到视图" CommandId="ID_TEMPHIDE_MAKEPERM" Paths="视图控制栏" />
+  <ShortcutItem CommandName="查看对象控制盘" CommandId="ID_NAVWHEEL_EXTERIOR_WHEEL" Paths="SteeringWheels" />
+  <ShortcutItem CommandName="真实" CommandId="ID_IMAGE_REALISTIC" Paths="视图控制栏" />
+  <ShortcutItem CommandName="默认值:椭圆" CommandId="IDC_RADIO_FULL_ELLIPSE" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="直线:矩形" CommandId="ID_OBJECTS_CURVE_RECT" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="新文件的默认样板 5" CommandId="ID_FILE_NEW_WITH_TEMPLATE5" />
+  <ShortcutItem CommandName="激活第一个下文选项卡" CommandId="ID_ACTIVATE_CONTEXTUAL_TAB" Shortcuts="Ctrl+`" />
+  <ShortcutItem CommandName="直线:拾取现有墙" CommandId="ID_SKETCH_PICK_WALLS" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="直线:圆心-端点弧" CommandId="ID_OBJECTS_CURVE_ARC_CENTER_ENDS" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="裁剪(未裁剪)视图" CommandId="IDC_VIEW_FRAME_CROPREGION_ACTIVITY" Paths="视图控制栏" />
+  <ShortcutItem CommandName="漫游模式" CommandId="ID_NAVBAR_3DCONTROLLER_WALK" Shortcuts="3W" Paths="导航栏" />
+  <ShortcutItem CommandName="重设临时隐藏/隔离" CommandId="ID_TEMPHIDE_RESET" Shortcuts="HR" Paths="视图控制栏" />
+  <ShortcutItem CommandName="象限点" CommandId="ID_SNAP_OVERRIDE_QUADRANT" Shortcuts="SQ" Paths="捕捉" />
+  <ShortcutItem CommandName="捕捉到点云" CommandId="ID_SNAP_OVERRIDE_POINT_CLOUDS" Shortcuts="PC" Paths="捕捉" />
+  <ShortcutItem CommandName="回到裁剪边界的中心位置" CommandId="ID_NAVWHEEL_RECENTERCROPBOUNDARY" Paths="SteeringWheels" />
+  <ShortcutItem CommandName="直线:直线" CommandId="ID_OBJECTS_CURVE_LINE" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="定向到东北方向" CommandId="ID_ORIENT_NORTHEAST_DIRECTION" Paths="ViewCube" />
+  <ShortcutItem CommandName="缩放全部以匹配" CommandId="ID_ZOOM_ALL_ALL" Shortcuts="ZA" Paths="导航栏" />
+  <ShortcutItem CommandName="平移活动视图" CommandId="ID_PAN_VIEW" Paths="导航栏" />
+  <ShortcutItem CommandName="定向到右视图" CommandId="ID_ORIENT_TO_RIGHT" Paths="ViewCube" />
+  <ShortcutItem CommandName="带边缘着色" CommandId="ID_IMAGE_SHADING_WITH_EDGES" Shortcuts="SD" Paths="视图控制栏" />
+  <ShortcutItem CommandName="网格:起点-终点-半径弧" CommandId="ID_GRID_ARC_THREE_PNT" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="图形由视图中的图元替换: 切换半色调" CommandId="ID_VIEW_OVERRIDE_ELEMENTS_HALFTONE" Shortcuts="EOH" />
+  <ShortcutItem CommandName="定向到西北方向" CommandId="ID_ORIENT_NORTHWEST_DIRECTION" Paths="ViewCube" />
+  <ShortcutItem CommandName="默认值:矩形" CommandId="IDC_RADIO_RECT" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="上次选择" CommandId="ID_EDIT_SELECT_PREVIOUS" Paths="关联菜单" />
+  <ShortcutItem CommandName="将当前视图设定为主视图" CommandId="ID_VIEWCUBE_SET_HOME" Paths="ViewCube" />
+  <ShortcutItem CommandName="创建等高线 - 内接多边形" CommandId="ID_EXT_ENTITY_CONTOUR_POLY_INSCRIBED" />
+  <ShortcutItem CommandName="创建矩形螺栓图案" CommandId="ID_EXT_ENTITY_HOLE_RECT" />
+  <ShortcutItem CommandName="转至主视图" CommandId="ID_VIEWCUBE_HOME" Paths="ViewCube" />
+  <ShortcutItem CommandName="工作平面网格" CommandId="ID_SNAP_OVERRIDE_SKETCH_GRID" Shortcuts="SW" Paths="捕捉" />
+  <ShortcutItem CommandName="结构墙:圆形" CommandId="ID_WALL_STRUCT_CIRCLE" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="定向到俯视图方向" CommandId="ID_ORIENT_TOP_DIRECTION" Paths="ViewCube" />
+  <ShortcutItem CommandName="选项" CommandId="ID_VIEWCUBE_OPTIONS" Paths="ViewCube" />
+  <ShortcutItem CommandName="点" CommandId="ID_SNAP_OVERRIDE_POINT" Shortcuts="SX" Paths="捕捉" />
+  <ShortcutItem CommandName="创建钢板 - 矩形" CommandId="ID_EXT_ENTITY_PLATE_RECT" />
+  <ShortcutItem CommandName="等高线" CommandId="ID_EXT_ENTITY_CONTOUR" />
+  <ShortcutItem CommandName="创建剪切锚固件" CommandId="ID_EXT_ENTITY_SHEAR_STUD" />
+  <ShortcutItem CommandName="桁架:拾取线" CommandId="ID_TRUSS_PICK_LINES" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="选择主体中的所有钢筋" CommandId="ID_SELECT_IN_HOST_ALL_REBAR" Paths="关联菜单" />
+  <ShortcutItem CommandName="结构墙:内接多边形" CommandId="ID_WALL_STRUCT_POLY_INSCRIBED" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="缩放匹配" CommandId="ID_ZOOM_FIT" Shortcuts="ZE#ZF#ZX" Paths="导航栏" />
+  <ShortcutItem CommandName="二维模式" CommandId="ID_NAVBAR_3DCONTROLLER_2D" Shortcuts="32" Paths="导航栏" />
+  <ShortcutItem CommandName="默认值:直线" CommandId="IDC_RADIO_LINE" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="创建钢板 - 圆角弧" CommandId="ID_EXT_ENTITY_PLATE_ARC_FILLET" />
+  <ShortcutItem CommandName="区域放大" CommandId="ID_ZOOM_IN" Shortcuts="ZR#ZZ" Paths="导航栏" />
+  <ShortcutItem CommandName="建筑墙:相切-端点弧" CommandId="ID_WALL_ARC_TAN" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="结构墙:圆心-端点弧" CommandId="ID_WALL_STRUCT_ARC_CENTER_ENDS" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="定向到西南方向" CommandId="ID_ORIENT_SOUTHWEST_DIRECTION" Paths="ViewCube" />
+  <ShortcutItem CommandName="建筑墙:矩形" CommandId="ID_WALL_RECT" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="选择全部实例: 在整个项目中" CommandId="ID_SEL_ALL_IN_PRJ" Shortcuts="SA" Paths="关联菜单" />
+  <ShortcutItem CommandName="显示(隐藏)裁剪区域" CommandId="IDC_VIEW_FRAME_CROPREGION_VISIBILITY" Paths="视图控制栏" />
+  <ShortcutItem CommandName="建筑墙:直线" CommandId="ID_WALL_LINE" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="全导航控制盘" CommandId="ID_NAVWHEEL_FULL_WHEEL" Paths="SteeringWheels" />
+  <ShortcutItem CommandName="提高漫游速度" CommandId="ID_NAVWHEEL_INCREASEWALKSPEED" Paths="SteeringWheels" />
+  <ShortcutItem CommandName="直线:椭圆" CommandId="ID_OBJECTS_CURVE_ELLIPSE" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="创建圆形锚固件图案" CommandId="ID_EXT_ENTITY_ANCHOR_CIRCLE" />
+  <ShortcutItem CommandName="楼梯梯段:圆心-端点弧" CommandId="ID_RUN_ARC_CENTER_ENDS" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="新文件的默认样板 2" CommandId="ID_FILE_NEW_WITH_TEMPLATE2" />
+  <ShortcutItem CommandName="恢复原始中心" CommandId="ID_NAVWHEEL_RESTOREORIGINALCENTER" Paths="SteeringWheels" />
+  <ShortcutItem CommandName="缩放图纸大小" CommandId="ID_ZOOM_SHEET" Shortcuts="ZS" Paths="导航栏" />
+  <ShortcutItem CommandName="创建等高线 - 矩形" CommandId="ID_EXT_ENTITY_CONTOUR_RECT" />
+  <ShortcutItem CommandName="创建等高线 - 三点圆弧" CommandId="ID_EXT_ENTITY_CONTOUR_ARC_THREE_PNT" />
+  <ShortcutItem CommandName="创建钢板 - 内接多边形" CommandId="ID_EXT_ENTITY_PLATE_POLY_INSCRIBED" />
+  <ShortcutItem CommandName="移动到项目" CommandId="ID_MOVE_GROUP_MEMBER_TO_PROJECT" Shortcuts="MP" Paths="关联菜单" />
+  <ShortcutItem CommandName="建筑墙:圆角弧" CommandId="ID_WALL_ARC_FILLET" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="定向到前左视图" CommandId="ID_ORIENT_TO_FRONT_LEFT" Paths="ViewCube" />
+  <ShortcutItem CommandName="定向到一个平面" CommandId="ID_ORIENT_PLANE" Paths="ViewCube" />
+  <ShortcutItem CommandName="新文件的默认样板 1" CommandId="ID_FILE_NEW_WITH_TEMPLATE1" />
+  <ShortcutItem CommandName="定义新的旋转中心" CommandId="ID_DEFINE_ROTATION_CENTER" Shortcuts="R3" Paths="关联菜单" />
+  <ShortcutItem CommandName="关闭阴影" CommandId="ID_IMAGE_SHADOW_OFF" Paths="视图控制栏" />
+  <ShortcutItem CommandName="钢板" CommandId="ID_EXT_ENTITY_PLATE" />
+  <ShortcutItem CommandName="网格:直线" CommandId="ID_GRID_LINE" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="直线:样条曲线" CommandId="ID_OBJECTS_CURVE_SPLINE" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="布满窗口" CommandId="ID_NAVWHEEL_FITTOWINDOW" Paths="SteeringWheels" />
+  <ShortcutItem CommandName="重新定位到项目基点" CommandId="ID_REPOSITION_LINK_BASEPOINT_TO_HOST" Paths="关联菜单" />
+  <ShortcutItem CommandName="将前视图设定为当前视图" CommandId="ID_SET_FRONT_TO_CURRENT_VIEW" Paths="ViewCube" />
+  <ShortcutItem CommandName="定向到前右视图" CommandId="ID_ORIENT_TO_FRONT_RIGHT" Paths="ViewCube" />
+  <ShortcutItem CommandName="隐藏图元" CommandId="ID_TEMPHIDE_HIDE" Shortcuts="HH" Paths="视图控制栏" />
+  <ShortcutItem CommandName="直线:圆形" CommandId="ID_OBJECTS_CURVE_CIRCLE" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="切换显示约束模式" CommandId="ID_TOGGLE_REVEAL_CONSTRAINTS" Shortcuts="CX" Paths="视图控制栏" />
+  <ShortcutItem CommandName="创建钢板 - 相切圆弧" CommandId="ID_EXT_ENTITY_PLATE_ARC_TAN" />
+  <ShortcutItem CommandName="帮助" CommandId="ID_NAVWHEEL_HELP" Paths="SteeringWheels" />
+  <ShortcutItem CommandName="定向到后视图" CommandId="ID_ORIENT_TO_BACK" Paths="ViewCube" />
+  <ShortcutItem CommandName="上一次平移/缩放" CommandId="ID_VIEW_ZOOMANDPAN_PREVIOUSVIEW" Shortcuts="ZP#ZC" Paths="导航栏" />
+  <ShortcutItem CommandName="创建钢板 - 圆" CommandId="ID_EXT_ENTITY_PLATE_CIRCLE" />
+  <ShortcutItem CommandName="属性" CommandId="ID_SHOW_PROPERTIES_PALETTE" Paths="关联菜单" />
+  <ShortcutItem CommandName="图形由视图中的图元替换: 切换透明度" CommandId="ID_VIEW_OVERRIDE_ELEMENTS_TRANSPARENT" Shortcuts="EOT" />
+  <ShortcutItem CommandName="默认值:拾取线" CommandId="IDC_RADIO_COPY_CURVE" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="默认值:样条曲线" CommandId="IDC_RADIO_SPLINE" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="隐藏类别" CommandId="ID_TEMPHIDE_HIDECAT" Shortcuts="HC" Paths="视图控制栏" />
+  <ShortcutItem CommandName="直线:内接多边形" CommandId="ID_OBJECTS_CURVE_POLY_INSCRIBED" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="定向到前视图" CommandId="ID_ORIENT_TO_FRONT" Paths="ViewCube" />
+  <ShortcutItem CommandName="交点" CommandId="ID_SNAP_OVERRIDE_INTERSECT" Shortcuts="SI" Paths="捕捉" />
+  <ShortcutItem CommandName="图形由视图中的类别替换: 切换半色调" CommandId="ID_VIEW_OVERRIDE_CATEGORY_HALFTONE" Shortcuts="VOH" />
+  <ShortcutItem CommandName="选择活动选项中的全部实例: 在视图中可见" CommandId="ID_SEL_ALL_IN_VIEW_IN_OPTION" Paths="关联菜单" />
+  <ShortcutItem CommandName="选择主体中的所有钢筋" CommandId="ID_SELECT_IN_HOST_ALL_REINFORCEMENT" Paths="关联菜单" />
+  <ShortcutItem CommandName="结构墙:矩形" CommandId="ID_WALL_STRUCT_RECT" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="网格:拾取线" CommandId="ID_GRID_PICK_LINES" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="定向到东方向" CommandId="ID_ORIENT_EAST_DIRECTION" Paths="ViewCube" />
+  <ShortcutItem CommandName="恢复方向并锁定三维视图" CommandId="ID_LOCKUNLOCK3DVIEW_LOCKANDRESTORE" Paths="视图控制栏" />
+  <ShortcutItem CommandName="最近点" CommandId="ID_SNAP_OVERRIDE_INTERIOR" Shortcuts="SN" Paths="捕捉" />
+  <ShortcutItem CommandName="直线:拾取线" CommandId="ID_OBJECTS_CURVE_PICK_LINES" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="定向到后左视图" CommandId="ID_ORIENT_TO_BACK_LEFT" Paths="ViewCube" />
+  <ShortcutItem CommandName="结构墙:拾取线" CommandId="ID_WALL_STRUCT_PICK_LINES" Paths="上下文选项卡&gt;绘制" />
+  <ShortcutItem CommandName="创建矩形螺栓图案" CommandId="ID_EXT_ENTITY_BOLT_RECT" />
+  <ShortcutItem CommandName="垂足" CommandId="ID_SNAP_OVERRIDE_PERP" Shortcuts="SP" Paths="捕捉" />
+</Shortcuts>
