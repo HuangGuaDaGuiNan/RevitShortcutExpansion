@@ -86,7 +86,11 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
+    <None Include="Addins\2019\RevitShortcutExpansion.addin" />
     <None Include="Resources\shortcuts_Revit2019.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Addins\2019\RevitShortcutExpansion.dll" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+<AddIn Type="Application">
+<Name>RevitShortcutExpand</Name>
+<Assembly>"C:\ProgramData\Autodesk\Revit\Addins\2019\RevitShortcutExpansion.dll"</Assembly>
+<AddInId>ED77C144-92CB-4CD7-8167-C0DE9604D914</AddInId>
+<FullClassName>RevitShortcutExpansion.RegisterCommand</FullClassName>
+<VendorId>ADSK</VendorId>
+<VendorDescription>but pretty much its alright</VendorDescription>
+</AddIn>
+</RevitAddIns>
